@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVlatino🌎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎", ##########  ♥ 01📺IPTVlatino🌎 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ 01📺IPTVenglish🇺🇸 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVlatino🌎 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVenglish🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎",🇪🇸120780 D1R3CTV
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
 
 
