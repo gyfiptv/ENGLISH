@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ 01📺IPTVenglish🇺🇸 ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ GROUP 01 📺IPTVenglish🇺🇸 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -629,10 +629,15 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tlc.usa.eas
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tlc.usa.eastern.us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVnews🇺🇸 ⭐🌎🌐
+
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ GROUP 02 📺IPTVenglish🇺🇸 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸⚽ NEWS PPV USA (opt1)
@@ -1163,10 +1168,15 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tbn.trinit
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVnews🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ GROUP 03 📺IPTVenglish🇺🇸 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇪🇸⚽ TUDN MX (opt1)
@@ -1193,36 +1203,1653 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tvj.car.m3
 
 
 
+
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ 02📺IPTVenglish🇺🇸 ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ GROUP 04 📺IPTVenglish🇺🇸 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣4️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVenglish🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣4️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  143.244. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ AMC_NETWORK (opt1)
+http://143.244.60.30/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ABC_EAST (WOLO) |E! (opt1)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WOLO-DT1 ABC 25 | Columbia SC (opt1)
+http://143.244.60.30/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-logo="" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ACC_NETWORK (opt1)
+http://143.244.60.30/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Animal_Planet (opt1)
+http://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ American_Heroes_Channel |Documentary (opt1) X
+http://143.244.60.30/American_Heroes_Channel/index.m3u8
+   
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BEIN_SPORTS (opt1)
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BIG_TEN_NETWORK (opt1)
+http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BOOMERANG | kids (opt1)
+http://143.244.60.30/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BET_GOSPEL (opt1) X
+http://143.244.60.30/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BET_HER (opt1)
+http://143.244.60.30/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BET_SOUL (opt1)
+http://143.244.60.30/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BET_EAST (opt1)
+http://143.244.60.30/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BET_Jams |Music (opt1)
+http://143.244.60.30/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BRAVO (opt1)
+http://143.244.60.30/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BBC_AMERICA East (opt1) X
+http://143.244.60.30/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ BBC_WORLD_NEWS (opt1) X
+http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Buzzr |Game Show (Opt-1)
+http://143.244.60.30/Buzzr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CBS_SPORTS_NETWORK West (opt1)
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CBSEAST 4 WBZ |E! (opt1) X
+http://143.244.60.30/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CNBC |Business (opt1)
+http://143.244.60.30/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CNN_INTERNATIONAL (Opt-1) X
+http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CNN (Opt-1)
+http://143.244.60.30/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CARTOON_NETWORK |Kids (opt1)
+http://143.244.60.30/CARTOON_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Comedy Central East
+http://143.244.60.30/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Comedy_TV (opt1)
+http://143.244.60.30/Comedy_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Cleo_TV |Lifestyle (opt1)
+http://143.244.60.30/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ COURT_TV |Crime (opt1) X
+http://143.244.60.30/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Crime_and_Investigation_Network |Crime+ (opt1)
+http://143.244.60.30/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CRAVE_1 |Movies (opt1)
+http://143.244.60.30/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CRAVE_2 |Movies (opt1)
+http://143.244.60.30/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CRAVE_3 |Movies (opt1)
+http://143.244.60.30/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CRAVE_4 |Movies (opt1)
+http://143.244.60.30/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CMT |E! (opt1)
+http://143.244.60.30/CMT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ COMET |E! (Opt-1) X
+http://143.244.60.30/COMET/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ COZI_TV |E! (opt1) X
+http://143.244.60.30/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ COOKING_CHANNEL (opt1)
+http://143.244.60.30/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CINEMAX |Movies (opt1)
+http://143.244.60.30/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CINEMAX_EAST |Movies (opt1)
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CINEMAX_WEST |Movies (opt1) X
+http://143.244.60.30/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ OUTER_MAX |Movies (opt1) X
+http://143.244.60.30/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ CINEMAX_MOREMAX |Movies (opt1) X
+http://143.244.60.30/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Comedy_Central (opt1) X
+http://143.244.60.30/Comedy_Central/index.m3u
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Curiosity_Stream (opt1) x
+http://143.244.60.30/Curiosity_Stream/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DISNEY (opt1)
+http://143.244.60.30/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DISNEY_XD (opt1)
+http://143.244.60.30/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DISNEY_JR (opt1)
+http://143.244.60.30/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
+http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DISCOVERY_LIFE (opt1)
+http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Discovery_Channel (opt1) x
+http://143.244.60.30/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹  Discovery_Science (opt1)
+http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA NETWORK |Lifestyle (opt1) x
+http://143.244.60.30/DIY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Destination_America |Lifestyle (opt1)
+http://143.244.60.30/Destination_America/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ESPN_NEWS (opt1)
+http://143.244.60.30/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ESPN_2 (opt1) x
+http://143.244.60.30/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ESPN_U (opt1)
+http://143.244.60.30/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ EPIX | MGM+ (opt1)
+http://143.244.60.30/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ EPIX_2 (opt1)
+http://143.244.60.30/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ EPIX_DRIVE_IN (opt1)
+http://143.244.60.30/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ EPIX_HITS (opt1)
+http://143.244.60.30/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (opt1)
+http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TVG | FANDUEL TV (opt1)
+http://143.244.60.30/TVG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FS1 FOX_Sports_1 (opt1)
+http://143.244.60.30/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FS2 FOX_SPORTS_2 (opt1)
+http://143.244.60.30/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FOX_NEWS_CHANNEL (Opt-1)
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FOX_EAST 5 WFXT NY |E! (opt1) x
+http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FX |Movies (opt1)
+http://143.244.60.30/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FXX |Movies (opt1)
+http://143.244.60.30/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FX_MOVIE | FXM (opt1)
+http://143.244.60.30/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FREE_FORM (opt1)
+http://143.244.60.30/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FUSE TV (opt1)
+http://143.244.60.30/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FYI |Lifestyle (opt1)
+http://143.244.60.30/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FOX_SOUL |Lifestyle (Opt-1) x
+http://143.244.60.30/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (opt1)
+http://143.244.60.30/FOOD_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ GRIT_TV |Westerns (Opt1)
+http://143.244.60.30/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/GetTV-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ GET_TV (opt1)
+http://143.244.60.30/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ GOLF CHANNEL (opt1)
+http://143.244.60.30/GOLF/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HBO (opt1)
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HBO_2 (opt1)
+http://143.244.60.30/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ¹ HBO_FAMILY (opt1)
+http://143.244.60.30/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HBO_COMEDY (opt1)
+http://143.244.60.30/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HBO_ZONE (opt1)
+http://143.244.60.30/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HALLMARK_CHANNEL (opt1)
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HALLMARK_DRAMA | Hallmark FAMILY (opt1)
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HALLMARK_MOVIES_MYSTERIES | Hallmark MYSTERY (opt1)
+http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HGTV |Lifestyle (opt1)
+http://143.244.60.30/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HLN |Crime (Opt-1)
+http://143.244.60.30/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ HSN |Shopping (Opt-1)
+http://143.244.60.30/HSN/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ INVESTIGATION_DISCOVERY (opt1)
+http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/INSP-New-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ INSP |Westerns (opt1) x
+http://143.244.60.30/INSP/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ION_TV |E! (Opt-1)
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ ION_Plus |E! (Opt-1)
+http://143.244.60.30/ION_Plus/index.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ LOVE_NATURE (opt1) x
+http://143.244.60.30/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ LIFETIME (opt1)
+http://143.244.60.30/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ LIFETIME_MOVIE_NETWORK | LMN (opt1)
+http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Logo |E! (opt1) x
+http://143.244.60.30/Logo/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ LONGHORN_NETWORK (opt1) x
+http://143.244.60.30/LONGHORN_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MLB_NETWORK (opt1)
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MARQUEE_SPORTS_NETWORK (opt1)
+http://143.244.60.30/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1) x
+http://143.244.60.30/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi7zHol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MSNBC |News (opt1)
+http://143.244.60.30/MSNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA Network |Lifestyle (opt1) x
+http://143.244.60.30/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Military_History (opt1)
+http://143.244.60.30/Military_History/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MTV (opt1)
+http://143.244.60.30/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MTV_2 (opt1)
+http://143.244.60.30/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MTV_LIVE (opt1)
+http://143.244.60.30/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MTV_U (opt1)
+http://143.244.60.30/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MTV_CLASSIC |Music (opt1)
+http://143.244.60.30/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MAV_TV (opt1)
+http://143.244.60.30/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ MOTOR_TREND (opt1)
+http://143.244.60.30/MOTOR_TREND/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NBA_TV (opt1)
+http://143.244.60.30/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NFL_NETWORK (opt1)
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NHL_NETWORK (opt1) x
+http://143.244.60.30/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ National_Geographic Channel (opt1)
+http://143.244.60.30/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Nat_Geo_Wild (opt1)
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Nickelodeon East (720p) x
+http://143.244.60.30/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NICKELODEON | Kids (opt1) x
+http://143.244.60.30/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NICKTOONS (opt1) x
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NICK_JR | Kids (opot1)
+http://143.244.60.30/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NICK_MUSIC | Kids (opt1)
+http://143.244.60.30/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Newsy | Nosey (opt1) x
+http://143.244.60.30/Newsy/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.radio-online.com/images/logos/NewsNationXL.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NEWS_NATION (opt1)
+http://143.244.60.30/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ NBC_EAST 4 WMAQ |E! (opt1) x
+http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WMAQ-DT1 NBC 5 | Chicago IL (opt1) x
+http://143.244.60.30/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (opt1)
+http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ OUTSIDE_TV (opt1)
+http://143.244.60.30/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ OXYGEN True Crime (Opt-1)
+http://143.244.60.30/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ OWN (opt1)
+http://143.244.60.30/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Ovation.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Ovation |Pop Culture (opt1)
+http://143.244.60.30/Ovation/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Pop_TV |E! (opt1)
+http://143.244.60.30/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ PARAMOUNT_NETWORK (opt1)
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ QVC |Shopping (opt1) x
+http://143.244.60.30/QVC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ REELZ (Opt-1) 
+http://143.244.60.30/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ REVOLT |Lifestyle (opt1)
+http://143.244.60.30/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STADIUM | Encore (opt1)
+http://143.244.60.30/STADIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ (opt1)
+http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_WEST (opt1)
+http://143.244.60.30/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_EDGE (opt1)
+http://143.244.60.30/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_COMEDY (opt1)
+http://143.244.60.30/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Starz_Encore (opt1)
+http://143.244.60.30/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_ACTION (opt1)
+http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_CLASSIC (opt1)
+http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_WESTERNS(opt1)
+http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME (opt1) 
+http://143.244.60.30/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (opt1)
+http://143.244.60.30/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (opt1)
+http://143.244.60.30/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (opt1)
+http://143.244.60.30/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (opt1)
+http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (opt1)
+http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2019/03/SundanceTVlogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SUNDANCE tv |E! (opt1)
+http://143.244.60.30/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SYFY (opt1)
+http://143.244.60.30/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ SMITHSONIAN_CHANNEL (opt1)
+http://143.244.60.30/SMITHSONIAN_CHANNEL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ¹ Sony_Movie_Channel (opt1)
+http://143.244.60.30/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TENNIS_CHANNEL (opt1)
+http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TSN_1 (opt1) x
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TSN_2 (opt1)
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TSN_3 (opt1)
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TSN_4 (opt1) x
+http://143.244.60.30/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TSN_5 (opt2)
+http://143.244.60.30/TSN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1)
+http://143.244.60.30/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TRU_TV |Reality (opt1) x
+http://143.244.60.30/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TV_ONE |E! (opt1)
+http://143.244.60.30/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Travel_Channel (opt1)
+http://143.244.60.30/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TLC |Lifestyle (opt1)
+http://143.244.60.30/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tcm-turner-classic-movies-logo-3C3FFA491D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TCM |Movies (opt1) x
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/tv-land-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TV_LAND CLASSIC |Comedy (opt1)
+http://143.244.60.30/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ TBS |E! (opt1) X
+http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ UFC (opt1) X
+http://143.244.60.30/UFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ USA_NETWORK |E! (Opt1)
+http://143.244.60.30/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ VH1 |E! (Opt1)
+http://143.244.60.30/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ VICELAND (Opt-1)
+http://143.244.60.30/VICELAND/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (opt1)
+http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WWE (opt1)
+http://143.244.60.30/WWE/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ THE_WEATHER_CHANNEL (opt1) X
+http://143.244.60.30/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WE_TV |Lifestyle (opt1) X
+http://143.244.60.30/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/WGN_America_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ WGN 9 Chicago |America E! (Opt1)
+http://143.244.60.30/WGN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ YES_NETWORK | MLS Apple TV (opt1)
+http://143.244.60.30/YES_NETWORK/index.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVenglish🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVenglish🇺🇸", ##########  ♥ GROUP 05 📺IPTVenglish🇺🇸 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣5️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ AMC_NETWORK (opt1)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ AMC_NETWORK (opt2)
+https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣5️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVenglish🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVenglish🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ABC_EAST 25 Columbia (opt1)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ABC_EAST 25 Columbia (opt2)
+http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ACCN ESPN | ACC_NETWORK (opt1)
+http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ACCN ESPN | ACC_NETWORK (opt2)
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Animal_Planet (opt1)
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Animal_Planet (opt2)
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt1) X
+http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt2) X
+http://fl2.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt1)
+https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt2)
+https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt3)
+https://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BIG_TEN_NETWORK (opt1)
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BIG_TEN_NETWORK (opt2)
+https://fl2.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BIG_TEN_NETWORK (opt3)
+https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BOOMERANG | kids (opt1)
+http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BOOMERANG | kids (opt2)
+http://fl2.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BOOMERANG | kids (opt3)
+http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_GOSPEL (opt1)
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_GOSPEL (opt2)
+https://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_GOSPEL (opt3)
+https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_HER (opt1)
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_HER (opt2)
+https://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_HER (opt3)
+https://fl7.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_SOUL (opt1)
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_SOUL (opt2)
+https://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_SOUL (opt3)
+https://fl7.moveonjoy.com/BET_SOUL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_EAST (opt1)
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_EAST (opt2)
+https://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_EAST (opt3)
+https://fl7.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_Jams |Music (opt1)
+http://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_Jams |Music (opt2)
+http://fl2.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BET_Jams |Music (opt3)
+http://fl7.moveonjoy.com/BET_Jams/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BRAVO (opt1)
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BRAVO (opt2)
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BRAVO (opt3)
+https://fl7.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_AMERICA East (opt1)
+http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_AMERICA East (opt2)
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_AMERICA East (opt3)
+http://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_WORLD_NEWS (opt1)
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_WORLD_NEWS (opt2)
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-world-news6618.jpg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BBC_WORLD_NEWS (opt3)
+http://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Buzzr |Game Show (Opt-1)
+http://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Buzzr |Game Show (Opt-2)
+http://fl2.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Buzzr |Game Show (Opt-3)
+http://fl7.moveonjoy.com/Buzzr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBS_SPORTS_NETWORK West (opt1)
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBS_SPORTS_NETWORK West (opt2)
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBS_SPORTS_NETWORK West (opt3)
+http://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBSEAST 4 WBZ |E! (opt1)
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBSEAST 4 WBZ |E! (opt2)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CBSEAST 4 WBZ |E! (opt3)
+http://fl7.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNBC |Business (opt1)
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNBC |Business (opt2)
+https://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNBC |Business (opt3)
+https://fl7.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN_INTERNATIONAL (Opt-1)
+http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN_INTERNATIONAL (Opt-2)
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN_INTERNATIONAL (Opt-3)
+http://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN (Opt-1)
+https://fl1.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN (Opt-2)
+https://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CNN (Opt-3)
+https://fl7.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CARTOON_NETWORK | Kids (opt1)
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CARTOON_NETWORK | Kids (opt2)
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CARTOON_NETWORK | Kids (opt3)
+http://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_Central (opt1)
+http://fl1.moveonjoy.com/Comedy_Central/index.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_Central (opt2)
+http://fl2.moveonjoy.com/Comedy_Central/index.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_Central (opt3)
+http://fl7.moveonjoy.com/Comedy_Central/index.m3u
+
+#EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_TV (opt1)
+http://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_TV (opt2)
+http://fl2.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Comedy_TV (opt3)
+http://fl7.moveonjoy.com/Comedy_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Curiosity_Stream (opt1)
+http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Curiosity_Stream (opt2)
+http://fl2.moveonjoy.com/Curiosity_Stream/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Cleo_TV | Lifestyle (opt1)
+http://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Cleo_TV | Lifestyle (opt2)
+http://fl2.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Cleo_TV | Lifestyle (opt3)
+http://fl7.moveonjoy.com/Cleo_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COURT_TV | Crime (opt1)
+http://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COURT_TV | Crime (opt2)
+http://fl2.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COURT_TV | Crime (opt3)
+http://fl7.moveonjoy.com/COURT_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Crime_and_Investigation_Network | Crime+ (opt1)
+http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Crime_and_Investigation_Network | Crime+ (opt2)
+http://fl2.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Crime_and_Investigation_Network | Crime+ (opt3)
+http://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_1 |Movies (opt1)
+http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_1 |Movies (opt2)
+http://fl2.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_1 |Movies (opt3)
+http://fl7.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_2 |Movies (opt1)
+http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_2 |Movies (opt2)
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_2 |Movies (opt3)
+http://fl7.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_3 |Movies (opt1)
+http://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_3 |Movies (opt2)
+http://fl2.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_3 |Movies (opt3)
+http://fl7.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_4 |Movies (opt1)
+http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_4 |Movies (opt2)
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CRAVE_4 |Movies (opt3)
+http://fl7.moveonjoy.com/CRAVE_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CMT |E! (opt1)
+http://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CMT |E! (opt2)
+http://fl2.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CMT |E! (opt3)
+http://fl7.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COMET |E! (Opt-1)
+http://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COMET |E! (Opt-2)
+http://fl2.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COMET |E! (Opt-3)
+http://fl7.moveonjoy.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COZI_TV |E! (opt1)
+http://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COZI_TV |E! (opt2)
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COZI_TV |E! (opt3)
+http://fl4.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COOKING_CHANNEL (opt1)
+http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COOKING_CHANNEL (opt2)
+http://fl2.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ COOKING_CHANNEL (opt3)
+http://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX |Movies (opt1)
+https://fl1.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX |Movies (opt2)
+https://fl2.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX |Movies (opt3)
+https://fl7.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_EAST |Movies (opt1)
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_EAST |Movies (opt2)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_EAST |Movies (opt3)
+http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_WEST |Movies (opt1)
+http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_WEST |Movies (opt2)
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_WEST |Movies (opt3)
+http://fl7.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_MOREMAX | Movies (opt1)
+http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_MOREMAX | Movies (opt2)
+http://fl2.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ CINEMAX_MOREMAX | Movies (opt3)
+http://fl7.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTER_MAX |Movies (opt1)
+http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTER_MAX |Movies (opt2)
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTER_MAX |Movies (opt3)
+http://fl7.moveonjoy.com/OUTER_MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY (opt1)
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY (opt2)
+https://fl2.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY (opt3)
+https://fl7.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY XD (opt1)
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY XD (opt2)
+https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY XD (opt3)
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY_JR (opt1)
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY_JR (opt2)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISNEY_JR (opt3)
+https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Destination America | Lifestyle (opt1)
+http://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Destination America | Lifestyle (opt2)
+http://fl2.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Destination America | Lifestyle (opt3)
+http://fl7.moveonjoy.com/Destination_America/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_LIFE (opt1)
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_LIFE (opt2)
+https://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_LIFE (opt3)
+https://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt2)
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt3)
+http://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Channel (opt1)
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Channel (opt2)
+http://fl2.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Channel (opt3)
+http://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Science (opt1)
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Science (opt2)
+http://fl2.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Discovery_Science (opt3)
+http://fl7.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DIY Network | MAGNOLIA NETWORK |Lifestyle (opt1)
+http://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DIY Network | MAGNOLIA NETWORK |Lifestyle (opt2)
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ DIY Network | MAGNOLIA NETWORK |Lifestyle (opt3)
+http://fl7.moveonjoy.com/DIY/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_NEWS (opt1)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_NEWS (opt2)
+https://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_NEWS (opt3)
+https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_2 (opt1)
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_2 (opt2)
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_2 (opt3)
+https://fl7.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_U (opt1)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_U (opt2)
+https://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ESPN_U (opt3)
+https://fl7.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX | MGM+ (opt1)
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX | MGM+ (opt2)
+https://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX | MGM+ (opt3)
+https://fl7.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_2 (opt1)
+https://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_2 (opt2)
+https://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_2 (opt3)
+https://fl7.moveonjoy.com/EPIX_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_DRIVE_IN (opt1)
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_DRIVE_IN (opt2)
+https://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_DRIVE_IN (opt3)
+https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_HITS (opt1)
+https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_HITS (opt2)
+https://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ EPIX_HITS (opt3)
+https://fl7.moveonjoy.com/EPIX_HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ E_ENTERTAINMENT_TELEVISION (opt1)
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ E_ENTERTAINMENT_TELEVISION (opt2)
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ E_ENTERTAINMENT_TELEVISION (opt3)
+http://fl7.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FANDUEL TV |TVG (opt1)
+http://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FANDUEL TV |TVG (opt2)
+http://fl2.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FANDUEL TV |TVG (opt3)
+http://fl7.moveonjoy.com/TVG/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS1 FOX_Sports_1 (opt1)
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS1 FOX_Sports_1 (opt2)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS1 FOX_Sports_1 (opt3)
+http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS2 FOX_SPORTS_2 (opt1)
+https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS2 FOX_SPORTS_2 (opt2)
+https://fl2.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FS2 FOX_SPORTS_2 (opt3)
+https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_NEWS_CHANNEL (Opt-1)
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_NEWS_CHANNEL (Opt-2)
+http://fl2.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_NEWS_CHANNEL (Opt-3)
+http://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_EAST 5 WFXT NY |E! (opt1)
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_EAST 5 WFXT NY |E! (opt2)
+https://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_EAST 5 WFXT NY |E! (opt3)
+https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX |Movies (opt1)
+http://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX |Movies (opt2)
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX |Movies (opt3)
+http://fl7.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FXX |Movies (opt1)
+http://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FXX |Movies (opt2)
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FXX |Movies (opt3)
+http://fl7.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt1)
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt2)
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt3)
+http://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FREE_FORM (opt1)
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FREE_FORM (opt2)
+https://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FREE_FORM (opt3)
+http://fl7.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FUSE TV (opt1)
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FUSE TV (opt2)
+https://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FUSE TV (opt3)
+https://fl7.moveonjoy.com/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FYI |Lifestyle (opt1)
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FYI |Lifestyle (opt2)
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FYI |Lifestyle (opt3)
+http://fl7.moveonjoy.com/FYI/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-1)
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-2)
+http://fl2.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-3)
+http://fl7.moveonjoy.com/FOX_SOUL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt1)
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt2)
+https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt3)
+https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GRIT_TV | Westerns (Opt1)
+http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GRIT_TV | Westerns (opt2)
+https://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GRIT_TV | Westerns (opt3)
+https://fl7.moveonjoy.com/GRIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/GetTV-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GET_TV (opt1)
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/GetTV-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GET_TV (opt2)
+https://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/GetTV-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GET_TV (opt3)
+https://fl7.moveonjoy.com/GET_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GOLF CHANNEL (opt1)
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GOLF CHANNEL (opt2)
+https://fl2.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ GOLF CHANNEL (opt3)
+https://fl7.moveonjoy.com/GOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO (opt1)
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO (opt2)
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO (opt3)
+https://fl7.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_2 (opt1)
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_2 (opt2)
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_2 (opt3)
+https://fl7.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ HBO_FAMILY (opt1)
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ HBO_FAMILY (opt2)
+https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ HBO_FAMILY (opt3)
+https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_COMEDY (opt1)
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_COMEDY (opt2)
+https://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_COMEDY (opt3)
+https://fl7.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_ZONE (opt1)
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_ZONE (opt2)
+https://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HBO_ZONE (opt3)
+https://fl7.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_CHANNEL (opt1)
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_CHANNEL (opt2)
+https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_CHANNEL (opt3)
+https://fl7.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_DRAMA | Hallmark FAMILY (opt1)
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_DRAMA | Hallmark FAMILY (opt2)
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_DRAMA | Hallmark FAMILY (opt3)
+https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_MOVIES_MYSTERIES | Hallmark MYSTERY (opt1)
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_MOVIES_MYSTERIES | Hallmark MYSTERY (opt2)
+https://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HALLMARK_MOVIES_MYSTERIES | Hallmark MYSTERY (opt3)
+https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HGTV |Lifestyle (opt1)
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HGTV |Lifestyle (opt2)
+https://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HGTV |Lifestyle (opt3)
+https://fl7.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HSN |Shopping (Opt-1)
+http://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HSN |Shopping (Opt-2)
+http://fl2.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HSN |Shopping (Opt-3)
+http://fl7.moveonjoy.com/HSN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HLN |Crime (Opt-1)
+http://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HLN |Crime (Opt-2)
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ HLN |Crime (Opt-3)
+http://fl7.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INVESTIGATION_DISCOVERY (opt1)
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INVESTIGATION_DISCOVERY (opt2)
+https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INVESTIGATION_DISCOVERY (opt3)
+https://fl7.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/INSP-New-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INSP | Westerns (opt1)
+http://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/INSP-New-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INSP | Westerns (opt2)
+http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/INSP-New-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ INSP | Westerns (opt3)
+http://fl7.moveonjoy.com/INSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION |E! (Opt-1)
+http://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION |E! (Opt-2)
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION |E! (Opt-3)
+http://fl7.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION Plus |E! (Opt-1)
+http://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION Plus |E! (Opt-2)
+http://fl2.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ ION Plus |E! (Opt-3)
+http://fl7.moveonjoy.com/ION_Plus/index.m3u8
 
 
 
 
 
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LOVE_NATURE (opt1)
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LOVE_NATURE (opt2)
+http://fl2.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LOVE_NATURE (opt3)
+http://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LIFETIME (opt1)
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LIFETIME (opt2)
+https://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LIFETIME (opt3)
+https://fl7.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LMN | LIFETIME_MOVIE_NETWORK (opt1)
+http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LMN | LIFETIME_MOVIE_NETWORK (opt2)
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LMN | LIFETIME_MOVIE_NETWORK (opt3)
+http://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Logo |E! (opt1)
+http://fl1.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Logo |E! (opt2)
+http://fl2.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Logo |E! (opt3)
+http://fl7.moveonjoy.com/Logo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LONGHORN_NETWORK (opt1)
+http://fl1.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LONGHORN_NETWORK (opt2)
+http://fl2.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ LONGHORN_NETWORK (opt3)
+http://fl7.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi7zHol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSNBC |News (opt1)
+http://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi7zHol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSNBC |News (opt2)
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi7zHol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSNBC |News (opt3)
+http://fl7.moveonjoy.com/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAGNOLIA Network | DIY | Lifestyle (opt1)
+http://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAGNOLIA Network | DIY | Lifestyle (opt2)
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAGNOLIA Network | DIY | Lifestyle (opt3)
+http://fl7.moveonjoy.com/DIY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Military_History (opt1)
+http://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Military_History (opt2)
+http://fl2.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Military_History (opt3)
+http://fl7.moveonjoy.com/Military_History/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV (opt1)
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV (opt2)
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV (opt3)
+https://fl7.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_2 (opt1)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_2 (opt2)
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_2 (opt3)
+https://fl7.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_LIVE (opt1)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_LIVE (opt2)
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_LIVE (opt3)
+https://fl7.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_U (opt1)
+https://fl1.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_U (opt2)
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_U (opt3)
+https://fl7.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_CLASSIC |Music (opt1)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_CLASSIC |Music (opt2)
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MTV_CLASSIC |Music (opt3)
+https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAV_TV (opt1)
+http://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAV_TV (opt2)
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MAV_TV (opt3)
+http://fl7.moveonjoy.com/MAV_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MOTOR_TREND (opt1)
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MOTOR_TREND (opt2)
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MOTOR_TREND (opt3)
+http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MARQUEE_SPORTS_NETWORK (opt1)
+http://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MARQUEE_SPORTS_NETWORK (opt2)
+http://fl2.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MARQUEE_SPORTS_NETWORK (opt3)
+http://fl7.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt1)
+http://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt2)
+http://fl2.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt3)
+http://fl7.moveonjoy.com/MSG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MLB_NETWORK (opt1)
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MLB_NETWORK (opt2)
+https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ MLB_NETWORK (opt3)
+https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBA_TV (opt1)
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBA_TV (opt2)
+https://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBA_TV (opt3)
+https://fl7.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NFL_NETWORK (opt1)
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NFL_NETWORK (opt2)
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NFL_NETWORK (opt3)
+https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NHL_NETWORK (opt1)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NHL_NETWORK (opt2)
+https://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NHL_NETWORK (opt3)
+https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ National_Geographic Channel (opt1)
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ National_Geographic Channel (opt2)
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ National_Geographic Channel (opt3)
+http://fl7.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nat_Geo_Wild (opt1)
+http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nat_Geo_Wild (opt2)
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nat_Geo_Wild (opt3)
+http://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKELODEON | Kids (opt1)
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKELODEON | Kids (opt2)
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKELODEON | Kids (opt3)
+http://fl7.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKTOONS (opt1)
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKTOONS (opt2)
+https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICKTOONS (opt3)
+https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_JR | Kids (opot1)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_JR | Kids (opot2)
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_JR | Kids (opot3)
+https://fl7.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_MUSIC | Kids (opt1)
+http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_MUSIC | Kids (opt2)
+https://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NICK_MUSIC | Kids (opt3)
+https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nosey |Newsy (opt1)
+http://fl1.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nosey |Newsy (opt2)
+http://fl2.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Nosey |Newsy (opt3)
+http://fl7.moveonjoy.com/Newsy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.radio-online.com/images/logos/NewsNationXL.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NEWS_NATION (opt1)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.radio-online.com/images/logos/NewsNationXL.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NEWS_NATION (opt2)
+https://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.radio-online.com/images/logos/NewsNationXL.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NEWS_NATION (opt3)
+https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBC_EAST 4 WMAQ |E! (opt1)
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBC_EAST 4 WMAQ |E! (opt2)
+https://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ NBC_EAST 4 WMAQ |E! (opt3)
+https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUDOOR_CHANNEL (opt1)
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUDOOR_CHANNEL (opt2)
+https://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUDOOR_CHANNEL (opt3)
+https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTSIDE_TV (opt1)
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTSIDE_TV (opt2)
+https://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OUTSIDE_TV (opt3)
+https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OXYGEN True Crime (Opt-1)
+http://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OXYGEN True Crime (Opt-2)
+https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OXYGEN True Crime (Opt-3)
+https://fl7.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OWN (opt1)
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OWN (opt2)
+https://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ OWN (opt3)
+https://fl7.moveonjoy.com/OWN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Ovation.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Ovation | Pop Culture (opt1)
+http://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Ovation.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Ovation | Pop Culture (opt2)
+http://fl2.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Ovation.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Ovation | Pop Culture (opt3)
+http://fl7.moveonjoy.com/Ovation/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Pop TV |E! (opt1)
+http://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Pop TV |E! (opt2)
+http://fl2.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Pop TV |E! (opt3)
+http://fl7.moveonjoy.com/Pop_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ PARAMOUNT_NETWORK (opt1)
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ PARAMOUNT_NETWORK (opt2)
+https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ PARAMOUNT_NETWORK (opt3)
+https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ QVC East |Shopping (opt1)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ QVC East |Shopping (opt2)
+https://fl2.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ QVC East |Shopping (opt3)
+http://fl7.moveonjoy.com/QVC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REELZ (Opt-1)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REELZ (Opt-2)
+https://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REELZ (Opt-3)
+https://fl7.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REVOLT |Lifestyle (opt1)
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REVOLT |Lifestyle (opt2)
+https://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ REVOLT |Lifestyle (opt3)
+https://fl7.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STADIUM | Encore (opt1)
+http://fl1.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STADIUM | Encore (opt2)
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STADIUM | Encore (opt3)
+http://fl7.moveonjoy.com/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ (opt1)
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ (opt2)
+https://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ (opt3)
+https://fl7.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_WEST (opt1)
+http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_WEST (opt2)
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_WEST (opt3)
+http://fl7.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_EDGE (opt1)
+https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_EDGE (opt2)
+https://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_EDGE (opt3)
+https://fl7.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_COMEDY (opt1)
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_COMEDY (opt2)
+https://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_COMEDY (opt3)
+https://fl7.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Starz_Encore (opt1)
+https://fl1.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Starz_Encore (opt2)
+https://fl2.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Starz_Encore (opt3)
+https://fl7.moveonjoy.com/Starz_Encore/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_ACTION (opt1)
+https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_ACTION (opt2)
+https://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_ACTION (opt3)
+https://fl7.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_CLASSIC (opt1)
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_CLASSIC (opt2)
+https://fl2.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_CLASSIC (opt3)
+https://fl7.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_WESTERNS(opt1)
+https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_WESTERNS(opt2)
+https://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ STARZ_ENCORE_WESTERNS(opt3)
+https://fl7.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME (opt1)
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME (opt2)
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME (opt3)
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_2 (opt1)
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_2 (opt2)
+https://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_2 (opt3)
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WEST (opt1)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WEST (opt2)
+https://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WEST (opt3)
+https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_EXTREME (opt1)
+https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_EXTREME (opt2)
+https://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_EXTREME (opt3)
+https://fl7.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WOMEN (opt1)
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WOMEN (opt2)
+https://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_WOMEN (opt2)
+https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_NEXT (opt1)
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_NEXT (opt2)
+https://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SHOWTIME_NEXT (opt3)
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2019/03/SundanceTVlogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SUNDANCE tv |E! (opt1)
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2019/03/SundanceTVlogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SUNDANCE tv |E! (opt2)
+https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2019/03/SundanceTVlogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SUNDANCE tv |E! (opt3)
+https://fl7.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SYFY (opt1)
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SYFY (opt2)
+https://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SYFY (opt3)
+https://fl7.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SMITHSONIAN_CHANNEL (opt1)
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SMITHSONIAN_CHANNEL (opt2)
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ SMITHSONIAN_CHANNEL (opt3)
+http://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ Sony_Movie_Channel (opt1)
+http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ Sony_Movie_Channel (opt2)
+http://fl2.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇪🇸Ⓜ Sony_Movie_Channel (opt3)
+http://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TENNIS_CHANNEL (opt1)
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TENNIS_CHANNEL (opt2)
+https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TENNIS_CHANNEL (opt3)
+https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_1 (opt1)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_1 (opt2)
+https://fl2.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_1 (opt3)
+https://fl7.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_2 (opt1)
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_2 (opt2)
+https://fl2.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_2 (opt3)
+https://fl7.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_3 (opt1)
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_3 (opt2)
+https://fl2.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_3 (opt3)
+https://fl7.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_4 (opt1)
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_4 (opt2)
+https://fl2.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_4 (opt3)
+https://fl7.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_5 (opt1)
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_5 (opt2)
+https://fl2.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TSN_5 (opt3)
+https://fl7.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TNT| NBA SPORTS (opt1)
+https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TNT| NBA SPORTS (opt2)
+https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TNT| NBA SPORTS (opt3)
+https://fl7.moveonjoy.com/TNT/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TRU_TV |Reality (opt1)
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TRU_TV |Reality (opt2)
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TRU_TV |Reality (opt3)
+http://fl7.moveonjoy.com/TRU_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_ONE |E! (opt1)
+http://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_ONE |E! (opt2)
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_ONE |E! (opt3)
+http://fl7.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Travel_Channel (opt1)
+http://f11.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Travel_Channel (opt2)
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Travel_Channel (opt3)
+http://fl7.moveonjoy.com/Travel_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TLC | Lifestyle (opt1)
+https://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TLC | Lifestyle (opt2)
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TLC | Lifestyle (opt3)
+http://fl7.moveonjoy.com/TLC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TBS |E! (opt1)
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TBS |E! (opt2)
+https://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TBS |E! (opt3)
+https://fl7.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tcm-turner-classic-movies-logo-3C3FFA491D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TCM |Movies (opt1)
+https://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tcm-turner-classic-movies-logo-3C3FFA491D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TCM |Movies (opt2)
+https://fl2.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tcm-turner-classic-movies-logo-3C3FFA491D-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TCM |Movies (opt3)
+https://fl7.moveonjoy.com/TCM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/tv-land-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_LAND CLASSIC |Comedy (opt1)
+http://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/tv-land-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_LAND CLASSIC |Comedy (opt2)
+http://fl2.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/tv-land-logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ TV_LAND CLASSIC |Comedy (opt3)
+http://fl7.moveonjoy.com/TV_LAND/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ UFC (opt1)
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ UFC (opt2)
+http://fl2.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ UFC (opt3)
+http://fl7.moveonjoy.com/UFC/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ USA_NETWORK |E! (Opt1)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ USA_NETWORK |E! (Opt2)
+http://fl2.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ USA_NETWORK |E! (Opt3)
+http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VH1 |E! (Opt1)
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VH1 |E! (Opt2)
+https://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VH1 |E! (Opt3)
+https://fl7.moveonjoy.com/VH1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VICELAND (Opt-1)
+http://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VICELAND (Opt-2)
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VICELAND (Opt-3)
+http://fl7.moveonjoy.com/VICELAND/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WORLD_FISHING_NETWORK (opt1)
+http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WORLD_FISHING_NETWORK (opt2)
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WORLD_FISHING_NETWORK (opt3)
+http://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WWE (opt1)
+https://fl1.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WWE (opt2)
+https://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WWE (opt3)
+https://fl7.moveonjoy.com/WWE/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ THE_WEATHER_CHANNEL (opt1)
+https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ THE_WEATHER_CHANNEL (opt2)
+https://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ THE_WEATHER_CHANNEL (opt3)
+https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WE_TV |Lifestyle (opt1)
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WE_TV |Lifestyle (opt2)
+http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WE_TV |Lifestyle (opt3)
+http://fl7.moveonjoy.com/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/WGN_America_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WGN9 Chicago | America E! (Opt1)
+http://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/WGN_America_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WGN9 Chicago | America E! (Opt2)
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/WGN_America_logo_2014.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ WGN9 Chicago | America E! (Opt3)
+http://fl7.moveonjoy.com/WGN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ YES_NETWORK | MLS Apple TV (opt1)
+http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ YES_NETWORK | MLS Apple TV (opt2)
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ YES_NETWORK | MLS Apple TV (opt3)
+http://fl7.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
