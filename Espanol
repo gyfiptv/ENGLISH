@@ -2802,6 +2802,7 @@ https://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VH1 |E! (Opt3)
 https://fl7.moveonjoy.com/VH1/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VICELAND (Opt-1)
 http://fl1.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ VICELAND (Opt-2)
