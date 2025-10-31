@@ -1272,7 +1272,7 @@ http://143.244.60.30/CNN/index.m3u8
 http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Comedy Central East
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Comedy Central East
 http://143.244.60.30/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ¹ Comedy_TV (opt1)
 http://143.244.60.30/Comedy_TV/index.m3u8
