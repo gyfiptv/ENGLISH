@@ -190,10 +190,623 @@ http://lemon.catchmeifyo.com:8000/movie/646904970/606423019/19222.mkv
 http://lemon.catchmeifyo.com:8000/movie/646904970/606423019/19229.mkv
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="🍿SERIESᵛᶦᵖ🇺🇸1️⃣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🍿SERIESᵛᶦᵖ🇺🇸1️⃣", ##########  ♥ GROUP 01 🍿SERIESᵛᶦᵖ🇺🇸1️⃣ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ🇺🇸1️⃣",🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🌎 ▂ ▄ ▅ ▆ 🎥 🇺🇸GROUP 01🇪🇸 🍿SERIESᵛᶦᵖ🇺🇸1️⃣ 🎥 ▆ ▅ ▄ ▂
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ🇺🇸1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🌎 proyectox🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🍿
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9kbEp4PFe6CfHDMdQynOCiFmL.jpg" group-title="Series: Amazon Prime",Cosmos S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oN6FHlQfQiZQy1TKuLHG1Nn415U.jpg" group-title="Series: Amazon Prime",Cosmos S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGi5Tu6dTA7TZU8j9ZCa6jo0kZ4.jpg" group-title="Series: Amazon Prime",Cosmos S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8ubQz9NDIMukbev1wG30g60OgI.jpg" group-title="Series: Amazon Prime",Cosmos S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9nMPasPBj1GwKirCo4KV6P3OI1.jpg" group-title="Series: Amazon Prime",Cosmos S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NWngvEa07HRCejWOZ2FNX31JMR.jpg" group-title="Series: Amazon Prime",Cosmos S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ2S5f9OhAVMPN2b7oqTqfQoFvi.jpg" group-title="Series: Amazon Prime",Cosmos S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKtUMfmTMPmLlNlhjVndO0jJqke.jpg" group-title="Series: Amazon Prime",Cosmos S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZfvlwtREAtMCu7fMBMEpABxVst.jpg" group-title="Series: Amazon Prime",Cosmos S01 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9x8LkZ6NG6dtszPvoY56hrxMb90.jpg" group-title="Series: Amazon Prime",Cosmos S01 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfwwGeiSzrkfPfM0wZZJqDSGWsz.jpg" group-title="Series: Amazon Prime",Cosmos S01 E11
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQXwClnjfvJVKZivyPNUqRgzaER.jpg" group-title="Series: Amazon Prime",Cosmos S01 E12
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AABie1pF3tbfusWi5yqRefKi5E.jpg" group-title="Series: Amazon Prime",Cosmos S01 E13
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/35326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcnYz7JH8fFuhuQN80sf2iGiv0i.jpg" group-title="Series: Amazon Prime",Cosmos S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AWSpN9T9FNCl8dyKL1KCTx5801.jpg" group-title="Series: Amazon Prime",Cosmos S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sL9DCzvuE3dZqh1kfLQy95IpRBL.jpg" group-title="Series: Amazon Prime",Cosmos S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snml3C57jlAHAJnztJSRZ7LwlVk.jpg" group-title="Series: Amazon Prime",Cosmos S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uJ9bRZYcOU78xqlPZre2RiTftB.jpg" group-title="Series: Amazon Prime",Cosmos S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOyeV1kaSqi7jMoneODWkOeAj0b.jpg" group-title="Series: Amazon Prime",Cosmos S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqyfDIiJmtJZEcmzuXrnnszr2lN.jpg" group-title="Series: Amazon Prime",Cosmos S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty3CyOyxJT2HVDINJAweu5rQBWD.jpg" group-title="Series: Amazon Prime",Cosmos S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biKIWKXhq9pSxrRtYIsMLLWLqZZ.jpg" group-title="Series: Amazon Prime",Cosmos S02 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ5Yllp0e6JWrsL8L5hnZjVbfy.jpg" group-title="Series: Amazon Prime",Cosmos S02 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FpFYujm9iEayRo2YI1CPxWV20n.jpg" group-title="Series: Amazon Prime",Cosmos S02 E11
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZQSTs8BjSZcLvHebXwYbkcgnsy.jpg" group-title="Series: Amazon Prime",Cosmos S02 E12
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QPjSlhtR17VgcNLzADe4p7cTNZ.jpg" group-title="Series: Amazon Prime",Cosmos S02 E13
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/100484.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/1cGZGsPRQQiJf6t23XCNonkZkxV.jpg" group-title="Series: Netflix",The Believers (2024) S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/rb38Xs1QzCOLbSvMkt9CeBsQIWQ.jpg" group-title="Series: Netflix",The Believers (2024) S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/xEfxiJ9aZSz8nfo4ZdBOU8zr5rX.jpg" group-title="Series: Netflix",The Believers (2024) S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/uFQWP1RoRNNXikqyZ1MduigviAY.jpg" group-title="Series: Netflix",The Believers (2024) S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/kWVpyv5B1QWPOenjE0Gv1ic9Rx5.jpg" group-title="Series: Netflix",The Believers (2024) S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/hOfTcNA31kgDYc0gVHn6KpyCM24.jpg" group-title="Series: Netflix",The Believers (2024) S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/4Qkf5fIIigAtiUDxgTkqDfHbEwm.jpg" group-title="Series: Netflix",The Believers (2024) S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/3W26O3FZPOfkXZRkOxd5f7AXShv.jpg" group-title="Series: Netflix",The Believers (2024) S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/futtUGy48xVHv3A4XhQYL8fShmm.jpg" group-title="Series: Netflix",The Believers (2024) S01 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/kK8CKZp9vdbM18YI2gYlDuVkoDl.jpg" group-title="Series: Netflix",The Believers (2024) S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/gAYv77YHxaUGeevDh325e6apotQ.jpg" group-title="Series: Netflix",The Believers (2024) S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/vtzsDHFvGxfGb5Qcfcb81D684lH.jpg" group-title="Series: Netflix",The Believers (2024) S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/nZM54yLwdSpL08F8aGCuanNmPg3.jpg" group-title="Series: Netflix",The Believers (2024) S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/2BzL63ub1NT7VDMmjPNsBvXQxMD.jpg" group-title="Series: Netflix",The Believers (2024) S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/3meNmKAwcen3C5vPBnC1ZRCr4Y4.jpg" group-title="Series: Netflix",The Believers (2024) S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/DhB7vc6DeTwxKrDjVkpZwm2sMK.jpg" group-title="Series: Netflix",The Believers (2024) S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believers (2024) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/xnyUNxKatUlK9qu6InllczGSELf.jpg" group-title="Series: Netflix",The Believers (2024) S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/167162.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/3uUP0ot0JgJyFpaNBT5Lawi9YWf.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/pnGPuShuE6jLhEszI7cx7MKAWlp.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/7475hKlaKZNQSGKbeQ7oS92W6Bz.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/z4MFymmN1IFhKSPq4irFFccNLtk.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/rCXEzhwcKmp8NjuCil3vhXpw11z.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/9SV7JBqQnUP3YRwFAYojnmOBqCb.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/qYxxki4NIwqQeOKTXcjKy90GOdR.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Néro the Assassin (2025) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/qTvD5NblOGyobVNF5HwksEED7H0.jpg" group-title="Series: Netflix",Néro the Assassin (2025) S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/164883.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/auTb64ahTLWoAv7QBo7dhYBfn5R.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/mEYziL3fLkOCPAGCVLwov1XQ3gd.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/gXFqiikydDU1lVIIv62CejgqsVl.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/v4Hc3ZkbzFqGrKd9FSIGnrkzglK.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/tuEuVjiVBFfEN5yyEto3xn3lPY9.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/iC2SgWai9wY0TUgwHGIv8jrdrYy.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/mzK2UTVZ2oVSN8zG8qOMLqDQ0iF.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Millionaires (2025) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/dQQLuSo3fB8BHR19dswv6Vfb2T9.jpg" group-title="Series: Netflix",Young Millionaires (2025) S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/162987.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/3rzMMbl0WnKjIeXE0zMIGvHR1oE.jpg" group-title="Series: Netflix",Bandidos S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/tg1QInqPq3oigc8fLeIs9kCXoaF.jpg" group-title="Series: Netflix",Bandidos S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/cSUsE4tTCioCFZxpqZInLCUPY2N.jpg" group-title="Series: Netflix",Bandidos S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/pVMFMwDRgUYTHzABKqlcbXA0SQR.jpg" group-title="Series: Netflix",Bandidos S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/qGDFt2xsofn9pnjtlvlWnJqdBkG.jpg" group-title="Series: Netflix",Bandidos S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/i4CGkVfsH8aEefp2BbzOLVYdU32.jpg" group-title="Series: Netflix",Bandidos S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/p94yAd8ruNCjUAD7jFw9tKbeJ3B.jpg" group-title="Series: Netflix",Bandidos S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/138036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/yGTOnwojaB22ac7m6yMehkBmsvF.jpg" group-title="Series: Netflix",Bandidos S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/lygKTBI1j9cXrC1ImrpPqZx09Yo.jpg" group-title="Series: Netflix",Bandidos S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/1K4LVrmQ95pkhp2Duqi5IWDa50n.jpg" group-title="Series: Netflix",Bandidos S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/w6Jk6LzUUTlFI56SqjTpYbvwBVx.jpg" group-title="Series: Netflix",Bandidos S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/6nXyrUB7lfpSumrmlv7BNhxDVBh.jpg" group-title="Series: Netflix",Bandidos S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/5vj2rYbnW6fjwAxm2XZFSd6YesQ.jpg" group-title="Series: Netflix",Bandidos S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandidos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/yIlnnfPPrTtDGYUzlxD153Pt8u8.jpg" group-title="Series: Netflix",Bandidos S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/153171.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/9JQtBFxDXGbGIathNQR6ncZA1VW.jpg" group-title="Series: Netflix",Criminal Code S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/c8XnXdcJm3euFfFaWMhMIGEvrib.jpg" group-title="Series: Netflix",Criminal Code S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/r3E2ORYSWh9YEun9OtgkiWLg4FR.jpg" group-title="Series: Netflix",Criminal Code S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/lgk5SjZphRtiInQK3XLkiTkUaiO.jpg" group-title="Series: Netflix",Criminal Code S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/yLaqhsvo7OpcxNuOv0JxiVT7GIx.jpg" group-title="Series: Netflix",Criminal Code S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/nUFiBA0zPbz2L08QSoujkD0CsbB.jpg" group-title="Series: Netflix",Criminal Code S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/7wlCRzGx9roPN27wD6UF4ug5toW.jpg" group-title="Series: Netflix",Criminal Code S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ozhBQ5gjQwhpUOGiOt3ba8NtvDw.jpg" group-title="Series: Netflix",Criminal Code S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/ljguMMJG4A2C7uJopcHjmHssHN6.jpg" group-title="Series: Netflix",Criminal Code S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4LQr3Zk98U2nuXr8zDn6rkynsa2.jpg" group-title="Series: Netflix",Criminal Code S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/uBqNQP25w2iEGDaMOxCyLlrx10Q.jpg" group-title="Series: Netflix",Criminal Code S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/ezcuDpktX7KDp4N823RdeI5TPaf.jpg" group-title="Series: Netflix",Criminal Code S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/eiCVqufUWZY6p6R8cBf3HtdpyNw.jpg" group-title="Series: Netflix",Criminal Code S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/1dPY4e4HOJ1Ud45PvQ9pqv4Npck.jpg" group-title="Series: Netflix",Criminal Code S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/xhlV4p5tzvFqdpKZJwXfudYZqvN.jpg" group-title="Series: Netflix",Criminal Code S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Code S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6VVJRzvILc4Zcug7BYo4zKf0OgF.jpg" group-title="Series: Netflix",Criminal Code S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/161047.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FpGnC6vjyZWe8VbfLQt5kqk7ny.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe4wU77vJQ8dACLLDSYrr43CLPN.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xK2MIlXspe5zTIiuSNyDvWheQ9.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfR0OoTQwXVwQjKaNl0THccPZZo.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rY6IEpJTnr6kVvaUQnU1vH5F6dg.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26ptnfuCSxRj5mQaUVfGeVeYohj.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffwmuCA6aoSk3zMG7P336EAggrB.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS8nXisp4GQ2XJLWSdq3Z76lXgK.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0tgC8Iz4evGlu4V7VTHOAHsWDW.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXe9F18e2jDlJNXE6V5PvlpEefW.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKXCdJPRhoUI2i83SlqdCi4iWLB.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E11
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN1Wl5kXTQ8YYnu9CAKABKN6y5s.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E12
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xZU90cdow8VoUyxHPjBfbFiV8U.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E13
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VcAWNQHwdd6CqIiIS9GzCQMMbX.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E14
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAeJtQiDksQ70i7u5CJDW9qXbiA.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E15
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GRAjjYGkayeqOCPxXx8gFxT5kg.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E16
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbeiEXCJuLJtTATvRus2GdEUgoM.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E17
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufNElMLphEYcqJ95iGoToZCexOO.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E18
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDGMyVOFbklkPCRUthkMb2t1pZ9.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E19
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prioehX3KXpWeShhaMDEC7ySKPe.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E20
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b5BziPDeP7yXDHIaZQ0rFGrZVi.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E21
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4rtnEemBXXfhdsrRRv94feWa5.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E22
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW9M4j1WyBduIRe351UzIUXyIPD.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E23
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyyyLY3sfJy72eyHeXumvayt2LL.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E24
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwtkbYhhgHslMOMbG3WbyWBUT5d.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E25
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3INVYV6VxY7TUzhcziQcfyQVhP.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E26
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR0qrSHvofW2liJvYhkoyB8KgOd.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E27
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdYIJvHZY3ZnMuSoLVSAgYFMJ3J.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E28
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfBRwgeyWscmGzlJ6pSjuscq33V.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E29
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNVCVJr21KvLXGWosswJJs0YF2w.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E30
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buCwz7xuBhaGFtGn58G0ZtnVyFt.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E31
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJIBEHO5niOPg25zMh4oyHwAi4x.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E32
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6KlNCDVuuNoSz631IDGbsajvVQ.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E33
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trZGHIPmPztdSE0w8mZSYFPP8RI.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E34
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltXNdh3k94dCOBGolfOExDC2RTO.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E35
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArAnTmIcpUKNABWCpia2jiCVuJO.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E36
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TMFigLj1KFZ7InrE7q5PMBggAF.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E37
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpwJtxMjlsncGlWSDdAnGvndyzC.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S01 E38
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBlFwcQe74p2FqAWRaIh4pNhrG1.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eto2HI5N60d5YgFfMrFEDZCbblR.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0SI9LzyQHsCnFnxRM9iuGUVhlv.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/897nGwFDBHl0Haz1I1wsf9EBXfW.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikfhSx0jrlVaAgxr3NwzWs2bics.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EKzOJTr2v3ptX5npvg9Tj88s0q.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ3GMkCHCrIsW4TBsbN2sM5nTqU.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsLiEn2H1hIwZpLfAVB4AUS67PU.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rsaD3wyM4MmsFg9B93LAKqljwc.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dg0SNTv1y4pfEra7Ldc9O7ZTj.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liTmRGR7i1NfIjBktYGZbzg6Pxz.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E11
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87LYubUEk3hxRj72gvLGhktQ5Gw.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E12
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSijR6361q13SDHRZq2XWFY0lWV.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E13
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMMZschmZhsMcHayY1ZxBG6d2FD.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E14
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1IGMW9thVUQWtLUR7iXvtIjHV9.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E15
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzZNZCm5YnRDIYXIc2HJxY8ebYg.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E16
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLbjbMT8Xgoc6LROWtRH2rX3wzg.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E17
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gpqAsgaiSMKfBoh3Aja9AXO3HU.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E18
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jipRJRqqEbpzj5WOAgG2uGn4eL2.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E19
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umK3K8pBEizGTFgsHC7qcVLG3FA.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E20
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKyWcSGSEVNViLpGVYlf7C2wtBC.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E21
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIVL8wHeTLslRu8YxSImEK6jqDo.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E22
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FPjqFLJvyEoMK4kj1mytq4eYJ.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E23
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bC37kRfid1FhJtvMQ4uaFBKK1zT.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E24
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/724PbR0dYKXnZp6CtRhoPTDGhg8.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E25
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIwve8ICSWlZdRePHZqjs1WndeL.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E26
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghnrCQ3wD5kQPNwRjmzyoVEhSXp.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E27
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohQwq96trstVW64KDiaQiNNTL9s.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E28
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ezQG792YS4ECtlNfwER26JlZXc.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E29
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHYpdhekssHj8MrKssRjcAzgDkw.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E30
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfE55i8cvvMEtneyJDIpu77E6jO.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E31
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLACPmg7aKtTnjxybb8F2AaiVQz.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E32
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugQnEh6G4Us3LzTnBVteZINMpbI.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E33
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf999sfUVuL4CaV7pegVbRvSvA7.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E34
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNrJ8Biq5pAb2TuV5N0UCg8fn2i.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E35
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDhlpif07RHxXGEDOunYu4nvxYV.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E36
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crwSM8imebvgWMMIdQGU981XtEZ.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E37
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc5L1wyMBktlX4hWC08XmBkAJpa.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E38
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5aGzRRSvQxWEKquI81RnRXHvpY.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E39
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRbfrbDZuNeyAoa9svAqMHBY91v.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E40
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Yb0HfbFfjx5bfeVS8w5Xu8yg3.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E41
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmnhlHHAkLRMNVHQjzuafWakf9B.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E42
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiV0YthsmvMyB1ICRRJ8gdInuzG.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E43
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragon Return Of A Warrioridle S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26Db85REmZ5zWCSzJTsiJbcgvTU.jpg" group-title="Series: Netflix",El Dragon Return Of A Warrioridle S02 E44
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102509.mkv
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBmF9rdO52rajyI0bBZFiKEC4Uf.jpg" group-title="Series: Netflix",Elite S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQMNMFCJf4qbMcIVDyTMrqVM5Lj.jpg" group-title="Series: Netflix",Elite S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpYPesxOMm6vjX5YZ3XcKVdRctP.jpg" group-title="Series: Netflix",Elite S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh1MC6YEIhjG0AICDdqwdGlEc3q.jpg" group-title="Series: Netflix",Elite S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlpwEgvgyJoNCnkvi8EvzDtISEk.jpg" group-title="Series: Netflix",Elite S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhsqIcLWnZOVMGpmS1rEFEP91fp.jpg" group-title="Series: Netflix",Elite S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDf0bshxtZ54Ayzxcp4lTcM0zAN.jpg" group-title="Series: Netflix",Elite S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3BwKfdW9yKAkBAR509DB3Za4Re.jpg" group-title="Series: Netflix",Elite S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50bCRSkM2rLx4nEGnijqhAQgBOL.jpg" group-title="Series: Netflix",Elite S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOomU1t5ZGqw1VNWgIzYRmNCbjs.jpg" group-title="Series: Netflix",Elite S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjsGePPjklecdtspcWcymllnVhB.jpg" group-title="Series: Netflix",Elite S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DmsrYDuHZNQ7rjaMGxqm9j1fDj.jpg" group-title="Series: Netflix",Elite S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkkkIpVhx7wwLNgJIJJAEXDRdsn.jpg" group-title="Series: Netflix",Elite S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKNgMdTJHmrrBMUvdtSoOPOKoiE.jpg" group-title="Series: Netflix",Elite S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyZqaYrhFfHcNNrRvpIcTtFFLgM.jpg" group-title="Series: Netflix",Elite S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo3qq7F4lFOEqfDLMobsadLD42v.jpg" group-title="Series: Netflix",Elite S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/30535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpdxgzhMnyOicYjcnyhXXiqPEgp.jpg" group-title="Series: Netflix",Elite S03 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZlSZeCPitGKm0c9VQ9zHwZ60Lg.jpg" group-title="Series: Netflix",Elite S03 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ArFf9RJi0KUTgbbJw4NIb69RN3.jpg" group-title="Series: Netflix",Elite S03 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuA0WO5ecyGp4ARpr0OZFVhRTGl.jpg" group-title="Series: Netflix",Elite S03 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jufIC2JJcbOaE7LEoJ3bh6O4r9M.jpg" group-title="Series: Netflix",Elite S03 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/666jkOAbBWmGh8NyrSgzC1ulmBD.jpg" group-title="Series: Netflix",Elite S03 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YL0FSoujFD5avo7VtdE7nJHoIY.jpg" group-title="Series: Netflix",Elite S03 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpEHON2UasMu0KC8lVrRzNQMQy8.jpg" group-title="Series: Netflix",Elite S03 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/36635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W9DuOvPBPFEgoV6IygaV3LwOtN.jpg" group-title="Series: Netflix",Elite S04 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt1oQdLvgSEU2Q1bDlNXRZ2ipgx.jpg" group-title="Series: Netflix",Elite S04 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqM0mETIzbFZcFSglmPiNBrKCXz.jpg" group-title="Series: Netflix",Elite S04 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2m2yzfca4oMqyvTQZ2voVo3Wboi.jpg" group-title="Series: Netflix",Elite S04 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zCXwvLNeL4O0DiV1CCEXUWdyzk.jpg" group-title="Series: Netflix",Elite S04 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPDJPnkARtMiYz6Q8J0QHTHAbRn.jpg" group-title="Series: Netflix",Elite S04 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aax6Z92jVWox7VXXbDkU5PkRHAc.jpg" group-title="Series: Netflix",Elite S04 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pXiQxWq3FRITQAxEcTtkqJuGhb.jpg" group-title="Series: Netflix",Elite S04 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/83627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYEYT3lCXCeGZPXcV2me7X0v4gY.jpg" group-title="Series: Netflix",Elite S05 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuVn3mst8Vbubyu6h8p79nnf433.jpg" group-title="Series: Netflix",Elite S05 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8tPXWIZaYBIb0tj4DJWPbg0qtP.jpg" group-title="Series: Netflix",Elite S05 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRjNJcda9xDw4urV8VuBi8N3mMN.jpg" group-title="Series: Netflix",Elite S05 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XDtr33bjKupGfeH9WzksqkTwfy.jpg" group-title="Series: Netflix",Elite S05 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWTkwWVgkMMsTk2dLczBCg2yNkJ.jpg" group-title="Series: Netflix",Elite S05 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmINJzUZy36cfn9hmjqUxTgGbM1.jpg" group-title="Series: Netflix",Elite S05 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKVycCiRy9JBUkBE7sjcQ2KnTRC.jpg" group-title="Series: Netflix",Elite S05 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/102900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2bpmjnMbvyXMyxyXiefViRCdGn.jpg" group-title="Series: Netflix",Elite S06 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCDgHBcvy3bZXLXTMtPohpGl2w.jpg" group-title="Series: Netflix",Elite S06 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNs76l27c1iosYZ6KvqBDaYD2p3.jpg" group-title="Series: Netflix",Elite S06 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0OezTktkp4A24ruG4QOUt1C9hK.jpg" group-title="Series: Netflix",Elite S06 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSlO9SjA5TvJsGIvb3TSdKLapRZ.jpg" group-title="Series: Netflix",Elite S06 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/outYuldZSyUpDE8g23hHW0MSgIS.jpg" group-title="Series: Netflix",Elite S06 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HVJ4pO0DGxvGq6DTWfscgx83kV.jpg" group-title="Series: Netflix",Elite S06 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJBnPDLpCz3uZ9fvvYcybT6VJGZ.jpg" group-title="Series: Netflix",Elite S06 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E01" tvg-logo="https://image.tmdb.org/t/p/w185/oIFZ0rLaqBZbl9C3mQ5R2MsoJlf.jpg" group-title="Series: Netflix",Elite S07 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E02" tvg-logo="https://image.tmdb.org/t/p/w185/vr0vOpMy7rpBKzBJryxbJZIL0VE.jpg" group-title="Series: Netflix",Elite S07 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E03" tvg-logo="https://image.tmdb.org/t/p/w185/oyfdQFMNUbaZ2AXW9iKMI9czI9R.jpg" group-title="Series: Netflix",Elite S07 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E04" tvg-logo="https://image.tmdb.org/t/p/w185/b1bVDbQrAspgLA2ICQ5f4vfaHle.jpg" group-title="Series: Netflix",Elite S07 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E05" tvg-logo="https://image.tmdb.org/t/p/w185/lUK7VYTJ9XNqj0lW4WLGovlFH6L.jpg" group-title="Series: Netflix",Elite S07 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E06" tvg-logo="https://image.tmdb.org/t/p/w185/xvKyFHqVDl8ouNjmTmY0BqgQMfC.jpg" group-title="Series: Netflix",Elite S07 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E07" tvg-logo="https://image.tmdb.org/t/p/w185/yOORcEUm6dGfId442aDZsNJPnMn.jpg" group-title="Series: Netflix",Elite S07 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S07 E08" tvg-logo="https://image.tmdb.org/t/p/w185/iRJBhW8thSIydUUJdGAUbQmNMym.jpg" group-title="Series: Netflix",Elite S07 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/131466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E01" tvg-logo="https://image.tmdb.org/t/p/w185/hkVWuQwxXM15Y2KZyyKeFVnhoy4.jpg" group-title="Series: Netflix",Elite S08 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E02" tvg-logo="https://image.tmdb.org/t/p/w185/625fef04ERtAIkU0RgzhY3PapYe.jpg" group-title="Series: Netflix",Elite S08 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E03" tvg-logo="https://image.tmdb.org/t/p/w185/2eoCfgxvUoa53hNBYvFLxeIcaDH.jpg" group-title="Series: Netflix",Elite S08 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E04" tvg-logo="https://image.tmdb.org/t/p/w185/kPUZVIE6sEw1q981w1HK4x2q7UY.jpg" group-title="Series: Netflix",Elite S08 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E05" tvg-logo="https://image.tmdb.org/t/p/w185/s0c2ewTnCxuErjpknbivAO0kE1N.jpg" group-title="Series: Netflix",Elite S08 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E06" tvg-logo="https://image.tmdb.org/t/p/w185/AgsBxc0bgxm9l1M5jKhuNgmJ9yR.jpg" group-title="Series: Netflix",Elite S08 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E07" tvg-logo="https://image.tmdb.org/t/p/w185/gUexjQf053qGivHn2gvsKcjXJBz.jpg" group-title="Series: Netflix",Elite S08 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elite S08 E08" tvg-logo="https://image.tmdb.org/t/p/w185/fCxsqLoo131dHi1koR9j6TdEabP.jpg" group-title="Series: Netflix",Elite S08 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/143514.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E01" tvg-logo="http://covers.picon.space/images/8JKsglmOt1BDvSs3ZZT30eV4YnN_small.jpg" group-title="Series: Netflix",The Crown S01 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E02" tvg-logo="http://covers.picon.space/images/5HtiL9isJkLsbE4wnZPYIf852lX_small.jpg" group-title="Series: Netflix",The Crown S01 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E03" tvg-logo="http://covers.picon.space/images/g6AACHbM1JCGs8lUKUJu6aDg34S_small.jpg" group-title="Series: Netflix",The Crown S01 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E04" tvg-logo="http://covers.picon.space/images/tYwcQoXHZmT5hfmvB3mu8ppt9Fx_small.jpg" group-title="Series: Netflix",The Crown S01 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E05" tvg-logo="http://covers.picon.space/images/rlcURXQqGqGEAZhvL4QNHT1hmwi_small.jpg" group-title="Series: Netflix",The Crown S01 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E06" tvg-logo="http://covers.picon.space/images/kU4DsZzPpuybnOUuSQzxDwP61od_small.jpg" group-title="Series: Netflix",The Crown S01 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E07" tvg-logo="http://covers.picon.space/images/6bM6lLb9xXF2Mo1zySbr5mBF5oq_small.jpg" group-title="Series: Netflix",The Crown S01 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E08" tvg-logo="http://covers.picon.space/images/aj2RFO0K5Sl8oKh6HynpI1Npuew_small.jpg" group-title="Series: Netflix",The Crown S01 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E09" tvg-logo="http://covers.picon.space/images/xldHIJFSrEo3VymDnBHTVPZxdvY_small.jpg" group-title="Series: Netflix",The Crown S01 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S01 E10" tvg-logo="http://covers.picon.space/images/t2W1ihcSJIYVTcDtQGg8ecJW5xF_small.jpg" group-title="Series: Netflix",The Crown S01 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E01" tvg-logo="http://covers.picon.space/images/7p5eCDvzakNIrAZs4Bi7TKUXNT0_small.jpg" group-title="Series: Netflix",The Crown S02 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E02" tvg-logo="http://covers.picon.space/images/lKaBlcR7aPC8Hjqu0R6nZd8iHF8_small.jpg" group-title="Series: Netflix",The Crown S02 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E03" tvg-logo="http://covers.picon.space/images/jpGUFzwT17cC31qbF0nasCmUGgH_small.jpg" group-title="Series: Netflix",The Crown S02 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E04" tvg-logo="http://covers.picon.space/images/fAV15BIYxeJYgXViU09QFhYQYeJ_small.jpg" group-title="Series: Netflix",The Crown S02 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E05" tvg-logo="http://covers.picon.space/images/gG6whrFDDZBf3l8wCMBQMLq1TS1_small.jpg" group-title="Series: Netflix",The Crown S02 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E06" tvg-logo="http://covers.picon.space/images/pQEYSAMU2zuHuv1VsyAJmoMJ6dY_small.jpg" group-title="Series: Netflix",The Crown S02 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E07" tvg-logo="http://covers.picon.space/images/PAQrAXEpMx5iniL8DOOkffwN3u_small.jpg" group-title="Series: Netflix",The Crown S02 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E08" tvg-logo="http://covers.picon.space/images/hMly5RjTDmLIXu3mA7zRjdkciUS_small.jpg" group-title="Series: Netflix",The Crown S02 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E09" tvg-logo="http://covers.picon.space/images/2lzNVZ34cSIz514WxwRhOTwqpTC_small.jpg" group-title="Series: Netflix",The Crown S02 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S02 E10" tvg-logo="http://covers.picon.space/images/5dzJtIc3fhNVsjUzUPsoRRaR9dH_small.jpg" group-title="Series: Netflix",The Crown S02 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/20551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMDRWWEGFz2R181P0AsmyNQWfkj.jpg" group-title="Series: Netflix",The Crown S03 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dd641PBn6AQpvbMSj1ZcRll0Nng.jpg" group-title="Series: Netflix",The Crown S03 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Z58BcpCgFFPxNdq5d7E0rN5cA.jpg" group-title="Series: Netflix",The Crown S03 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMeDFZKEqT9MfEIWIfTNATPBZ8G.jpg" group-title="Series: Netflix",The Crown S03 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miMy0pzAEuqKFzdApXOeCsvDZkQ.jpg" group-title="Series: Netflix",The Crown S03 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fJ7Ecq777pQJNNc95gKQhhnHBP.jpg" group-title="Series: Netflix",The Crown S03 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sjgT2SjjjkCYmWENssdtWm2S81.jpg" group-title="Series: Netflix",The Crown S03 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouhx68xLzgA23OZNVBbnM1LNgs.jpg" group-title="Series: Netflix",The Crown S03 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QheT2BbkAT1svmBoeSl96C1BEc.jpg" group-title="Series: Netflix",The Crown S03 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A2m9QXYRFvHGXy4qL6kfPerJE2.jpg" group-title="Series: Netflix",The Crown S03 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/29749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vH4qPDyaeItQXL1icQiSTvsfMt.jpg" group-title="Series: Netflix",The Crown S04 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cpeb7xLzrLAlmEIo5XFcUTkYLq.jpg" group-title="Series: Netflix",The Crown S04 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goLj0V05C4618bwZgTSxD3gdVEy.jpg" group-title="Series: Netflix",The Crown S04 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX2FYeoRCmvt8dFvILXV9uWMUwR.jpg" group-title="Series: Netflix",The Crown S04 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wNQ67NSj60r25faVPot4AtQROU.jpg" group-title="Series: Netflix",The Crown S04 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prZEGMkWLPYwjWmFRqbrixlasrq.jpg" group-title="Series: Netflix",The Crown S04 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g3Pfe1Xb90h3Qao9HEbw0umWrH.jpg" group-title="Series: Netflix",The Crown S04 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKRjSTMzoY5u4mgg6F6ckxSWXHP.jpg" group-title="Series: Netflix",The Crown S04 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOoeB6YvuMvqUG7l6YwrIDYhZcd.jpg" group-title="Series: Netflix",The Crown S04 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unZvtRMoT0pVn1ztBSpkrR3gZyB.jpg" group-title="Series: Netflix",The Crown S04 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/65299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDXIMOOhm0XiMGLwjlCGNwmlM7C.jpg" group-title="Series: Netflix",The Crown S05 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7yDTcVV2qBlxYva6oDMAQZYo2t.jpg" group-title="Series: Netflix",The Crown S05 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A6N0maeU8v0wVRWrts3qS07AuP.jpg" group-title="Series: Netflix",The Crown S05 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuO5GRwqK5QaTY6kcxtJnIGRluT.jpg" group-title="Series: Netflix",The Crown S05 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Md2OB8Iv4JSoni3cE1nLyU9Gc.jpg" group-title="Series: Netflix",The Crown S05 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu4DhncgI7un5myULM95AioleDN.jpg" group-title="Series: Netflix",The Crown S05 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTaurB4XjoRGixKtT2qL6RF7IHU.jpg" group-title="Series: Netflix",The Crown S05 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9kZOBIAFA2sk9Xc0n0tnp11oJW.jpg" group-title="Series: Netflix",The Crown S05 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMfaBo7WNgoTiuM9lvdDbj5AbqP.jpg" group-title="Series: Netflix",The Crown S05 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZdPe6ss4ZMc7tANxUrwVZOja0I.jpg" group-title="Series: Netflix",The Crown S05 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/116184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E01" tvg-logo="https://image.tmdb.org/t/p/w185/cW2oSrAs0RaGpTiupN8MRoplkRy.jpg" group-title="Series: Netflix",The Crown S06 E01
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E02" tvg-logo="https://image.tmdb.org/t/p/w185/pyZO2VGBL2y3ip9VAz3dAzMBbmD.jpg" group-title="Series: Netflix",The Crown S06 E02
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E03" tvg-logo="https://image.tmdb.org/t/p/w185/fcSxydqudgtxpE1iw3qGaUgYPwH.jpg" group-title="Series: Netflix",The Crown S06 E03
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E04" tvg-logo="https://image.tmdb.org/t/p/w185/sS230ONzqu6W9Eu8G4woZ4ssYGR.jpg" group-title="Series: Netflix",The Crown S06 E04
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/132589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E05" tvg-logo="https://image.tmdb.org/t/p/w185/hCyYxi7ONABXmZ5vTXHDLQqMu2b.jpg" group-title="Series: Netflix",The Crown S06 E05
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E06" tvg-logo="https://image.tmdb.org/t/p/w185/2iGcysv96erIGeQwEOHEgYRiEYI.jpg" group-title="Series: Netflix",The Crown S06 E06
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E07" tvg-logo="https://image.tmdb.org/t/p/w185/4Nq9OiL2mgkbvqSKqd4WAa4uA6Z.jpg" group-title="Series: Netflix",The Crown S06 E07
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E08" tvg-logo="https://image.tmdb.org/t/p/w185/rLm4sRnHXP2iXrMMCIjYkuVEQm4.jpg" group-title="Series: Netflix",The Crown S06 E08
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E09" tvg-logo="https://image.tmdb.org/t/p/w185/afrbTy5CzPe7pQWrENWXWqD3d6f.jpg" group-title="Series: Netflix",The Crown S06 E09
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crown S06 E10" tvg-logo="https://image.tmdb.org/t/p/w185/cKUtTSSWzL1rJ75m60oB1QJLpk7.jpg" group-title="Series: Netflix",The Crown S06 E10
+http://tv.mr.iptv.uno:80/series/majavatn/YfgWG8fYsj459/133480.mkv
 
 #EXTM3U
 #EXTINF:-1 tvg-name="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣", ##########  ♥ GROUP 01 🍿MOVIESᵛᶦᵖ🇪🇸1️⃣ ♥  ##########
