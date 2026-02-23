@@ -2,11 +2,12 @@
 #EXTINF:-1 tvg-name="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸", ##########  ♥ GROUP 01 📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 UnivisionNOWᵀᵛ 🇺🇸  🌐🌎⭐ 00ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ᴜɴɪvɪsɪᴏɴᵀᵛɴᴏw 🇺🇸  🌐🌎⭐ vɪᴘᵀᵛ📺ᴜɴɪvɪsɪᴏɴᵀᵛɴᴏw🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  UnivisionNOW 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  ᴜɴɪvɪsɪᴏɴᵀᵛɴᴏw 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
@@ -18,55 +19,70 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ TUDN UNIVISION NOW TUDN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ TUDN UNIVISION NOW TUDN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-id="KMEXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT West [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KMEXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT West [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW MIAMI WLTV-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
+
+#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW MIAMI WLTV-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 41 NOW NY WXTV-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 41 NOW NY WXTV-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
-#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION NOW Chicago WGBO-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
-#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION NOW Chicago WGBO-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
-
-#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
-#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
-
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
-
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
+
+#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+
+#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+
+#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
 
 
