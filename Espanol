@@ -3359,18 +3359,6 @@ http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/43012.mkv
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣", ##########  ♥ GROUP 01 🍿MOVIESᵛᶦᵖ🇪🇸1️⃣ ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣",🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🌎 ▂ ▄ ▅ ▆ 🎥 🇺🇸GROUP 01🇪🇸 🍿MOVIESᵛᶦᵖ🇪🇸1️⃣ 🎥 ▆ ▅ ▄ ▂
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ🇪🇸1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🌎 proyectox🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🍿
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-
 
 
 
@@ -3648,8 +3636,14 @@ http://deadlyblogger.com/NewRelease/thrones8e5.mp4
 http://deadlyblogger.com/NewRelease/thrones8e6.mp4
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="🍿SERIESᵛᶦᵖ1️⃣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🍿SERIESᵛᶦᵖ1️⃣", ##########  ♥ GROUP 01 🍿SERIESᵛᶦᵖ1️⃣ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴛʙɴᵀᵛ🇺🇸  ▂ ▄ ▅ ▆🍿🎥 🇺🇸 🍿SERIESᵛᶦᵖ1️⃣ 🇺🇸 🎥🍿▆ ▅ ▄ ▂
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇺🇸   deadly🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |net:25461 🙏🏻🍿
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",🇺🇸 S01 VIKINGS S01E01 
@@ -3717,6 +3711,9 @@ http://deadlyblogger.com/NewRelease/vikings3e8.mp4
 http://deadlyblogger.com/NewRelease/vikings3e9.mp4
 #EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",🇺🇸 S03 VIKINGS S03E10 
 http://deadlyblogger.com/NewRelease/vikings3e10.mp4
+
+
+
 
 
 
