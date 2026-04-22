@@ -12382,13 +12382,6 @@ http://1tv41.icu:8080/movie/zqQ0Q2/591076/224955.mp4
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1,X-Men: The Mutant Watch (2000)
 http://1tv41.icu:8080/movie/zqQ0Q2/591076/30912.mkv
 #EXTINF:-1,X2 (2003)
@@ -13327,7 +13320,7 @@ http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19212.mkv
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19214.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Troy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWj4RJzZeJGeyGA3DVGQiNkUjkt.jpg" group-title="VOD A LA CARTA",Troy
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Grit (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxeRwN7dxHSLE0asOEIc1Q5Mcxy.jpg" group-title="WVOD A LA CARTA",True Grit (2010)
+#EXTINF:-1 tvg-id="" tvg-name="True Grit (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxeRwN7dxHSLE0asOEIc1Q5Mcxy.jpg" group-title="VOD A LA CARTA",True Grit (2010)
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19216.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Unforgiven (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKyLJmRAtyXEEYKOvPhKHXIcPq9.jpg" group-title="VOD A LA CARTA",Unforgiven (1992)
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19217.mkv
@@ -13420,7 +13413,7 @@ http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19991.mkv
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Apocalypse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg" group-title="VOD A LA CARTA",Resident Evil: Apocalypse
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Extinction" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg" group-title="Horror",Resident Evil: Extinction
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Extinction" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg" group-title="VOD A LA CARTA",Resident Evil: Extinction
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Retribution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg" group-title="Actie / Action",Resident Evil: Retribution
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/19995.mkv
@@ -14241,7 +14234,7 @@ http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/34132.mkv
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/34230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The One and Only Ivan (2020) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJFU24brU1Zrp9H9vDqDbZnDwSn.jpg" group-title="VOD A LA CARTA",The One and Only Ivan (2020) 4K
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/34231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love, Guaranteed (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg" group-title="VOD A LA CARTAe",Love, Guaranteed (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Love, Guaranteed (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg" group-title="VOD A LA CARTA",Love, Guaranteed (2020)
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/34232.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Green Mile (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOHqdY1RnSn6kcfAHKu28jvTebE.jpg" group-title="VOD A LA CARTA",The Green Mile (1999)
 http://lemon.catchmeifyo.com:8000/movie/2267031533/0917672579/34234.mkv
