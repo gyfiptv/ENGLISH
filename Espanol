@@ -8,6 +8,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ AMERICA24 | A24 AR (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ AMERICA24 | A24 AR (opt2)
@@ -1056,7 +1057,190 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇴BOLIVIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇧🇴 01 🇧🇴 Bolivia 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇴BOLIVIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4903
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4903
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB BOLIVIA LP ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131656
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB CBBA. ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131657
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB LP ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131672
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ATB HD CBBA ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131673
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ABYA YALA TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162555
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV  ᴸᶦᵍᵃ ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148948
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV  ᴸᶦᵍᵃ ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148948
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVISION #2. ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131654
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivia TV #2 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131658
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivision ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131659
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVISION #2 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131662
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ #3
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131665
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivia TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131674
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivision ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131675
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivision ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131676
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivision La Paz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131677
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Bolivision Santa Cruz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131678
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV | Fútbol para FANS ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125977
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV | Fútbol para FANS ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125977
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVISION ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4902
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVISION ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4902
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV | SEO TV Sports (Fútbol en VIVO) ᴮᵒˡ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162541
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® BOLIVIA TV | SEO TV Sports (Fútbol en VIVO) ᴮᵒˡ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162541
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® CADENA A #2 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131653
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Cadena A ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131679
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® CORAL TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162554
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® DEPORTES TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131663
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Gigavision ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131646
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Gigavision ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131646
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® KIDS TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131693
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® KIDS TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131693
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Mega TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131682
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Mega TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131682
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® meGa TV BO ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126535
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® meGa TV BO ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126535
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED UNO LA PAZ - PROGRAMAS ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131695
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED UNO ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ - PROGRAMAS #2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131696
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED UNO Santa Cruz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ 
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131685
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED UNO BOLIVIA #2  ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131667
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Red Uno HD :) ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131660
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Red Uno Santa Cruz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131685
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED PAT LA PAZ #3 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131698
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RED PAT SANTA CRUZ ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131699
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Red Pat La Paz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131686
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Red PAT Internacional ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131670
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RENUEVA DIGITAL ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131647
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® REC ONLINE : ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131666
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Rec Online ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131689
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RTP ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131683
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® RTP* #2 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131684
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® REDADVENIR ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131687
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® SEO TV NOVELAS ᴮᵒᴸᴵᵛᴵᴬ Fᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162245
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® SEO TV NOVELAS ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131644
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® SEO TV ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131681
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® TELE ESTRELLA ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162552
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® TVU ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131664
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® TVU ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131690
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® TV Latina Canal 42 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131688
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® UNITEL ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4901
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® UNITEL ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4901
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Unitel ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ :)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131661
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® UNITEL ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131669
+
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Unitel La Paz ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131691
+#EXTINF:-1,group-title="🇧🇴BOLIVIA",® Unitel* #3 ᴮᵒᴸᴵᵛᴵᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131692
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇴BOLIVIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇧🇴 02 🇧🇴 Bolivia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇴BOLIVIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1267,7 +1451,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/23
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇴BOLIVIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇧🇴 02 🇧🇴 Bolivia 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇴BOLIVIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇧🇴 03 🇧🇴 Bolivia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇴BOLIVIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2125,10 +2309,106 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/75866.ts
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 01 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
+#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
+#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
+#EXTINF:-1,group-title="🇨🇱CHILE",® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
+
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
+#EXTINF:-1,group-title="🇨🇱CHILE",® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
+#EXTINF:-1,group-title="🇨🇱CHILE",® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+#EXTINF:-1,group-title="🇨🇱CHILE",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
+#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
+#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
+#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
+#EXTINF:-1,group-title="🇨🇱CHILE",® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
+
+#EXTINF:-1,group-title="🇨🇱CHILE",® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4909
+#EXTINF:-1,group-title="🇨🇱CHILE",® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4909
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 02 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2651,7 +2931,7 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 02 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 03 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2828,7 +3108,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97036.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 03 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 04 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ disfruta♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3576,9 +3856,210 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/1418.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 01 🇨🇴 Colombia 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® AVIVAMIENTO ABN FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® AVIVAMIENTO ABN FHD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/ajstory1/UcZy6x84HL/3574
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CITY TV ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4867
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL CAPITAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4813
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS HD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162551
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162551
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® SENAL COLOMBIANA | SUR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4875
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® SENAL COLOMBIANA | SUR (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4875
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CAPITAL TV ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | ˢᵘᴿ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4849
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL CAPITAL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135036
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL UNO ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3570
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL 2 CALI ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135035
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL 2 UHD ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135042
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131281
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131281
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135040
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135040
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162510
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162510
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® 11 | TELECAFE HD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3580
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL Tele San Jacinto ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135041
+
+#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL TDI COLOMBIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135037
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 02 🇨🇴 Colombia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3722,7 +4203,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1132
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 02 🇨🇴 Colombia 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 03 🇨🇴 Colombia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xsport1♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3792,7 +4273,7 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/6608ada5-095a-4c77-9517-1d9603704792.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 03 🇨🇴 Colombia 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 04 🇨🇴 Colombia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 1tv41♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3928,6 +4409,28 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 01 🇪🇨 Ecuador 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4821
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4821
+
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᴘᴏʀᴛs Sᴰᵀ | GOLTV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᴘᴏʀᴛs Sᴰᵀ | GOLTV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
+
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | RTS ECUADOR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4908
+#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | RTS ECUADOR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4908
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 02 🇪🇨 Ecuador 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -4246,7 +4749,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46738.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 02 🇪🇨 Ecuador 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 03 🇪🇨 Ecuador 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -4326,7 +4829,7 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 03 🇪🇨 Ecuador 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 04 🇪🇨 Ecuador 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -5294,6 +5797,9 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7633.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg" group-title="🇵🇪PERU",🇵🇪©a07k WILLAX TV x
 http://179.1.146.21:8000/play/a07k/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇵🇪 01 🇵🇪 Peru 🌎📺
@@ -6439,6 +6945,120 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/mono.m3u8
 #EXTINF:-1 tvg-name="🇺🇾URUGUAY" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",🇺🇾   ##########🌐  URUGUAY TV  🌐##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 A 🇺🇾 URUGUAY 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 1 LaQuintaTribuna SD UY (ONLY EVENT)
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_1.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 4 LaQuintaTribuna HD UY (ONLY EVENT)
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_4.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 5 LaQuintaTribuna FHD UY (ONLY EVENT)
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_5.m3u8
+
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Vive Kanal D Drama | E!                                       
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇺🇾URUGUAY",🇺🇾☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇺🇾URUGUAY",🇺🇾☑ CGTN Español | News (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇺🇾URUGUAY",🇺🇾☑ DW Español | News       
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Garage TV Latin America | Auto
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT TV CO | E!
+http://telecaster.teveo.com.co/live/AeABX7GFvWWgo_fR9dBvTjk5Dax9Db5PhjCFZv-705cSZxv818B2kQ6QYQ5bDjLsLuAfjEqtcJ-MyGpfTOmTFw/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT LATINO CO | Music
+http://telecaster.teveo.com.co/live/AeABegTv3YDr47uXr5_SSIqLRkWSCTYCuGMYHOqlcKj9kX3yFT3Ntc3j2zj__LiSZocJI9BJnaY6dp9HuXRumg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 C 🇺🇾 URUGUAY 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7631.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7631
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7631.mpd
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7635.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7635
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7635.mpd
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7636.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7636
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7636.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 U 🇺🇾 Uruguay 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ1
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ2
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.ts
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ3
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.mpd
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ4
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/master.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ5
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 V 🇺🇾 Uruguay 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7618.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt3)
+http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7618
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt4)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7618.mpd
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7619.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt3)
+http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7619
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt4)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7619.mpd
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 01 🇺🇾 URUGUAY 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
@@ -6733,127 +7353,6 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40981
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40931
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* UR | VIVO CANAL 3
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40957
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 A 🇺🇾 URUGUAY 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 1 LaQuintaTribuna SD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_1.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 4 LaQuintaTribuna HD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_4.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 5 LaQuintaTribuna FHD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_5.m3u8
-
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Vive Kanal D Drama | E!                                       
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇺🇾URUGUAY",🇺🇾☑ France 24 Español | News   
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇺🇾URUGUAY",🇺🇾☑ CGTN Español | News (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇺🇾URUGUAY",🇺🇾☑ DW Español | News       
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Garage TV Latin America | Auto
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT TV CO | E!
-http://telecaster.teveo.com.co/live/AeABX7GFvWWgo_fR9dBvTjk5Dax9Db5PhjCFZv-705cSZxv818B2kQ6QYQ5bDjLsLuAfjEqtcJ-MyGpfTOmTFw/playlist.m3u8
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT LATINO CO | Music
-http://telecaster.teveo.com.co/live/AeABegTv3YDr47uXr5_SSIqLRkWSCTYCuGMYHOqlcKj9kX3yFT3Ntc3j2zj__LiSZocJI9BJnaY6dp9HuXRumg/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 C 🇺🇾 URUGUAY 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7631.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7631
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7631.mpd
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7635.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7635
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7635.mpd
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7636.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7636
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7636.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 U 🇺🇾 Uruguay 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ1
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ2
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.ts
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ3
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.mpd
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ4
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/master.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇺🇾URUGUAY",🇺🇾☑ UCL Ⓖ5
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 V 🇺🇾 Uruguay 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7618.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7618
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt4)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7618.mpd
-
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7619.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7619
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt4)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7619.mpd
-
-
-
-
 
 
 
@@ -7550,6 +8049,7 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7494.mpd
+
 
 
 
@@ -8351,6 +8851,9 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://cdn.m3u.cl/logo/1049_Teleuno.png" group-title="🇨🇷COSTA RICA",🇨🇷☑ Teleuno | CR 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 
 
@@ -9712,286 +10215,6 @@ http://mains.best:2086/3003556325/2772007/101178
 #EXTINF:-1 tvg-name="🇲🇽MEXICO" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",🇲🇽 ##########🌐 MEXICO GENERAL 🌐##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 01 🇲🇽 Mexico 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1,MX | A Plus
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/210.ts
-#EXTINF:-1,MX | A+ *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67294.ts
-#EXTINF:-1,MX | A3 Series HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/209.ts
-#EXTINF:-1,MX | ADN40 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27554.ts
-#EXTINF:-1,MX | ADN40 *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/208.ts
-#EXTINF:-1,MX | ADN40 *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27555.ts
-#EXTINF:-1,MX | Antena 3 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/207.ts
-#EXTINF:-1,MX | AYM Sports
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/206.ts
-#EXTINF:-1,MX | AZ Cinema *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27570.ts
-#EXTINF:-1,MX | AZ Cinema *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/205.ts
-#EXTINF:-1,MX | AZ Cinema *HD op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27572.ts
-#EXTINF:-1,MX | AZ Cinema *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27571.ts
-#EXTINF:-1,MX | Az Click
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/204.ts
-#EXTINF:-1,MX | AZ Click | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/203.ts
-#EXTINF:-1,MX | AZ Corazon *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27556.ts
-#EXTINF:-1,MX | AZ Corazon *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/202.ts
-#EXTINF:-1,MX | AZ Corazon *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27557.ts
-#EXTINF:-1,MX | AZ Mundo *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27560.ts
-#EXTINF:-1,MX | AZ Mundo *HD op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27561.ts
-#EXTINF:-1,MX | AZ Mundo *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27562.ts
-#EXTINF:-1,MX | AZ Mundo HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/201.ts
-#EXTINF:-1,MX | Azteca 1  *FHD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21074.ts
-#EXTINF:-1,MX | Azteca 1 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/168.ts
-#EXTINF:-1,MX | Azteca 1 *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21075.ts
-#EXTINF:-1,MX | Azteca 7 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21076.ts
-#EXTINF:-1,MX | Azteca 7 *FHD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/200.ts
-#EXTINF:-1,MX | Azteca 7 *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21077.ts
-#EXTINF:-1,MX | Bandamax
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/198.ts
-#EXTINF:-1,MX | Bitme *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27558.ts
-#EXTINF:-1,MX | Bitme *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22255.ts
-#EXTINF:-1,MX | Bitme *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27559.ts
-#EXTINF:-1,MX | Bloomberg *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27566.ts
-#EXTINF:-1,MX | Bloomberg *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/197.ts
-#EXTINF:-1,MX | Bloomberg *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27567.ts
-#EXTINF:-1,MX | Canal 26 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/194.ts
-#EXTINF:-1,MX | Canal 4 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/193.ts
-#EXTINF:-1,MX | Canal 5 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67320.ts
-#EXTINF:-1,MX | Canal 5 *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67292.ts
-#EXTINF:-1,MX | Canal 5 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/192.ts
-#EXTINF:-1,MX | Canal 8 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/191.ts
-#EXTINF:-1,MX | Canal de las Estrellas *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27552.ts
-#EXTINF:-1,MX | Canal de las Estrellas *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/190.ts
-#EXTINF:-1,MX | Canal de las Estrellas *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27553.ts
-#EXTINF:-1,MX | Canal Once *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27575.ts
-#EXTINF:-1,MX | Canal Once *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27574.ts
-#EXTINF:-1,MX | Canal Once *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27573.ts
-#EXTINF:-1,MX | CNN en Español
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/188.ts
-#EXTINF:-1,MX | CNN International
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/187.ts
-#EXTINF:-1,MX | Comedy Central *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27580.ts
-#EXTINF:-1,MX | Comedy Central *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/186.ts
-#EXTINF:-1,MX | Comedy Central *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27581.ts
-#EXTINF:-1,MX | Distrito Comedia
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/185.ts
-#EXTINF:-1,MX | Distrito Comedia *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27563.ts
-#EXTINF:-1,MX | Distrito Comedia *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27564.ts
-#EXTINF:-1,MX | Distrito Comedia *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27565.ts
-#EXTINF:-1,MX | DW
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/184.ts
-#EXTINF:-1,MX | Excelsior Tv *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67291.ts
-#EXTINF:-1,MX | Foro TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27568.ts
-#EXTINF:-1,MX | Foro TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/182.ts
-#EXTINF:-1,MX | Francia 24 HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/181.ts
-#EXTINF:-1,MX | Fuel TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27589.ts
-#EXTINF:-1,MX | Fuel TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27588.ts
-#EXTINF:-1,MX | Fuel TV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27587.ts
-#EXTINF:-1,MX | GalaTv *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67309.ts
-#EXTINF:-1,MX | GalaTv *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67290.ts
-#EXTINF:-1,MX | Garage TV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/180.ts
-#EXTINF:-1,MX | Glitz
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/179.ts
-#EXTINF:-1,MX | HLN HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/178.ts
-#EXTINF:-1,MX | Hola TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27578.ts
-#EXTINF:-1,MX | Hola TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/177.ts
-#EXTINF:-1,MX | Hola TV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27579.ts
-#EXTINF:-1,MX | Imagen TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40013.ts
-#EXTINF:-1,MX | Ingenio Tv *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67287.ts
-#EXTINF:-1,MX | Mexiquense *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67305.ts
-#EXTINF:-1,MX | Mexiquense *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67285.ts
-#EXTINF:-1,MX | Milenio *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27586.ts
-#EXTINF:-1,MX | Milenio *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27585.ts
-#EXTINF:-1,MX | Morbido TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27550.ts
-#EXTINF:-1,MX | Morbido TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27551.ts
-#EXTINF:-1,MX | Multimedios HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/176.ts
-#EXTINF:-1,MX | Multimedios Plus HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/175.ts
-#EXTINF:-1,MX | NTN24
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/174.ts
-#EXTINF:-1,MX | Panico *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22207.ts
-#EXTINF:-1,MX | SEC Network HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/172.ts
-#EXTINF:-1,MX | Star Tve HD *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67303.ts
-#EXTINF:-1,MX | Star Tve HD *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67283.ts
-#EXTINF:-1,MX | Teleformula *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67301.ts
-#EXTINF:-1,MX | Teleformula *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67281.ts
-#EXTINF:-1,MX | Telemundo *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67318.ts
-#EXTINF:-1,MX | Telemundo *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67278.ts
-#EXTINF:-1,MX | Telenovelas
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/170.ts
-#EXTINF:-1,MX | Televisa Monterrey *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67299.ts
-#EXTINF:-1,MX | Tlnovelas *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67319.ts
-#EXTINF:-1,MX | Tlnovelas *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67277.ts
-#EXTINF:-1,MX | TLR
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/167.ts
-#EXTINF:-1,MX | Tvc *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67316.ts
-#EXTINF:-1,MX | Tvc *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67298.ts
-#EXTINF:-1,MX | TVE
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/165.ts
-#EXTINF:-1,MX | TVO HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/163.ts
-#EXTINF:-1,MX | Ultra Banda
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22208.ts
-#EXTINF:-1,MX | Unicable *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/162.ts
-#EXTINF:-1,MX | Unicable *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27577.ts
-#EXTINF:-1,MX | Wobi *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27582.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 02 🇲🇽 Mexico 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🇲🇽MEXICO",🇲🇽☑ EstrellaTV US | E! (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="🇲🇽MEXICO",🇲🇽☑ AMX Noticias | News (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇲🇽MEXICO",🇲🇽☑ Vive Kanal D Drama | E!                                       
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇲🇽MEXICO",🇲🇽☑ France 24 Español | News   
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇲🇽MEXICO",🇲🇽☑ CGTN Español | News (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇲🇽MEXICO",🇲🇽☑ DW Español | News       
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇲🇽MEXICO",🇲🇽☑ Garage TV Latin America | Auto
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽MEXICO",🇲🇽☑ 8NTV MX
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Canal 6 CDMX
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇲🇽MEXICO",🇺🇸☑ AFV | Comedy
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="🇲🇽MEXICO",🇺🇸☑63 30A Ridiculous TV | Comedy
-https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="🇲🇽MEXICO",🇺🇸☑ 4FUN TV 
-https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV | Sit.Stay.Watch
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV | National ChampionShip
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV Puppies 24/7 |Outdoor
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🇲🇽MEXICO",🇲🇽☑ EstrellaTV US | E! (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="🇲🇽MEXICO",🇪🇸ᵀᵛ¹ ADRENALINA SPORTS NETWORK HD (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1072
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 A 🇲🇽 Mexico 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -10427,6 +10650,496 @@ http://mains.services:2086/640939802963/IDC01478!/66605
 http://mains.services:2086/507Vej3h3S/4632273/66605
 #EXTINF:-1 group-title="🇲🇽MEXICO",☆ TLNOVELAS | UNIVISION (opt3)
 http://mains.best:2086/3003556325/2772007/66605
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 01 🇲🇽 Mexico 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® AFIZZIONADOS ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148889
+#EXTINF:-1,group-title="🇲🇽MEXICO",® AFIZZIONADOS ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148889
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | AFIZZIONADOS MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | AFIZZIONADOS MX (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® PRI: ESTRELLA TV Miami ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145744
+#EXTINF:-1,group-title="🇲🇽MEXICO",® PRI: ESTRELLA TV Miami ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145744
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Estrella TV Miami HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145745
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Estrella TV Miami HD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145745
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | ESTRELLA TV MIAMI® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145747
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | ESTRELLA TV MIAMI® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145747
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴺᴱᵂˢ | MILENIO NOTICIAS MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/141384
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴺᴱᵂˢ | MILENIO NOTICIAS MX (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/141384
+
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Telemundo EAST HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144836
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Telemundo EAST HD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144836
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134463
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134463
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134464
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134464
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134466
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134466
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® | USA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134467
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® | USA (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134467
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129027
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129027
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN UHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129025
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN UHD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129025
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA Fᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129026
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA Fᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129026
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2® (op1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/146603
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2® (op2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/146603
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #1
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144592
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144593
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #3
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144594
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #4
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144595
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ  | ZONA FÚTBOL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/138401
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | ZONA FUTBOL®
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140551
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | ZONA FUTBOL UHD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145471
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | DEPORTES EVENTOS (4K)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145405
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® TVC DEPORTES MX | Sᴘᴏʀᴛs Sᴰᵀ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/132302
+#EXTINF:-1,group-title="🇲🇽MEXICO",® TVC DEPORTES MX | Sᴘᴏʀᴛs Sᴰᵀ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/132302
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Telemundo EAST HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144836
+#EXTINF:-1,group-title="🇲🇽MEXICO",® USA: Telemundo EAST HD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144836
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134463
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134463
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134464
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134464
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134466
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD® (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134466
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® | USA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134467
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® | USA (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134467
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129027
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129027
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN UHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129025
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN UHD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129025
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA Fᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129026
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN USA Fᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/129026
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2® (op1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/146603
+#EXTINF:-1,group-title="🇲🇽MEXICO",® ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2® (op2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/146603
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #1
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144592
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144593
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #3
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144594
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TUDN XTRA #4
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144595
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ  | ZONA FÚTBOL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/138401
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | ZONA FUTBOL®
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140551
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | ZONA FUTBOL UHD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145471
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Sports | DEPORTES EVENTOS (4K)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145405
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® TVC DEPORTES MX | Sᴘᴏʀᴛs Sᴰᵀ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/132302
+#EXTINF:-1,group-title="🇲🇽MEXICO",® TVC DEPORTES MX | Sᴘᴏʀᴛs Sᴰᵀ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/132302
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS EAST ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148895
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS EAST ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148895
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS MIAMI ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148792
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS MIAMI ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148792
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS MIAMI ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148793
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS MIAMI ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148793
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS NEW YORK ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148794
+#EXTINF:-1,group-title="🇲🇽MEXICO",® UNIMAS NEW YORK ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148794
+
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Nᵒᵛᵉˡᵃˢ Hᴰ | UNIVISION TELENOVELAS (opot1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140866
+#EXTINF:-1,group-title="🇲🇽MEXICO",® Nᵒᵛᵉˡᵃˢ Hᴰ | UNIVISION TELENOVELAS (opot2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140866
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 02 🇲🇽 Mexico 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,MX | A Plus
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/210.ts
+#EXTINF:-1,MX | A+ *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67294.ts
+#EXTINF:-1,MX | A3 Series HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/209.ts
+#EXTINF:-1,MX | ADN40 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27554.ts
+#EXTINF:-1,MX | ADN40 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/208.ts
+#EXTINF:-1,MX | ADN40 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27555.ts
+#EXTINF:-1,MX | Antena 3 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/207.ts
+#EXTINF:-1,MX | AYM Sports
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/206.ts
+#EXTINF:-1,MX | AZ Cinema *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27570.ts
+#EXTINF:-1,MX | AZ Cinema *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/205.ts
+#EXTINF:-1,MX | AZ Cinema *HD op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27572.ts
+#EXTINF:-1,MX | AZ Cinema *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27571.ts
+#EXTINF:-1,MX | Az Click
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/204.ts
+#EXTINF:-1,MX | AZ Click | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/203.ts
+#EXTINF:-1,MX | AZ Corazon *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27556.ts
+#EXTINF:-1,MX | AZ Corazon *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/202.ts
+#EXTINF:-1,MX | AZ Corazon *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27557.ts
+#EXTINF:-1,MX | AZ Mundo *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27560.ts
+#EXTINF:-1,MX | AZ Mundo *HD op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27561.ts
+#EXTINF:-1,MX | AZ Mundo *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27562.ts
+#EXTINF:-1,MX | AZ Mundo HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/201.ts
+#EXTINF:-1,MX | Azteca 1  *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21074.ts
+#EXTINF:-1,MX | Azteca 1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/168.ts
+#EXTINF:-1,MX | Azteca 1 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21075.ts
+#EXTINF:-1,MX | Azteca 7 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21076.ts
+#EXTINF:-1,MX | Azteca 7 *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/200.ts
+#EXTINF:-1,MX | Azteca 7 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21077.ts
+#EXTINF:-1,MX | Bandamax
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/198.ts
+#EXTINF:-1,MX | Bitme *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27558.ts
+#EXTINF:-1,MX | Bitme *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22255.ts
+#EXTINF:-1,MX | Bitme *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27559.ts
+#EXTINF:-1,MX | Bloomberg *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27566.ts
+#EXTINF:-1,MX | Bloomberg *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/197.ts
+#EXTINF:-1,MX | Bloomberg *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27567.ts
+#EXTINF:-1,MX | Canal 26 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/194.ts
+#EXTINF:-1,MX | Canal 4 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/193.ts
+#EXTINF:-1,MX | Canal 5 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67320.ts
+#EXTINF:-1,MX | Canal 5 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67292.ts
+#EXTINF:-1,MX | Canal 5 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/192.ts
+#EXTINF:-1,MX | Canal 8 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/191.ts
+#EXTINF:-1,MX | Canal de las Estrellas *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27552.ts
+#EXTINF:-1,MX | Canal de las Estrellas *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/190.ts
+#EXTINF:-1,MX | Canal de las Estrellas *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27553.ts
+#EXTINF:-1,MX | Canal Once *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27575.ts
+#EXTINF:-1,MX | Canal Once *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27574.ts
+#EXTINF:-1,MX | Canal Once *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27573.ts
+#EXTINF:-1,MX | CNN en Español
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/188.ts
+#EXTINF:-1,MX | CNN International
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/187.ts
+#EXTINF:-1,MX | Comedy Central *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27580.ts
+#EXTINF:-1,MX | Comedy Central *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/186.ts
+#EXTINF:-1,MX | Comedy Central *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27581.ts
+#EXTINF:-1,MX | Distrito Comedia
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/185.ts
+#EXTINF:-1,MX | Distrito Comedia *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27563.ts
+#EXTINF:-1,MX | Distrito Comedia *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27564.ts
+#EXTINF:-1,MX | Distrito Comedia *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27565.ts
+#EXTINF:-1,MX | DW
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/184.ts
+#EXTINF:-1,MX | Excelsior Tv *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67291.ts
+#EXTINF:-1,MX | Foro TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27568.ts
+#EXTINF:-1,MX | Foro TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/182.ts
+#EXTINF:-1,MX | Francia 24 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/181.ts
+#EXTINF:-1,MX | Fuel TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27589.ts
+#EXTINF:-1,MX | Fuel TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27588.ts
+#EXTINF:-1,MX | Fuel TV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27587.ts
+#EXTINF:-1,MX | GalaTv *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67309.ts
+#EXTINF:-1,MX | GalaTv *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67290.ts
+#EXTINF:-1,MX | Garage TV
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/180.ts
+#EXTINF:-1,MX | Glitz
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/179.ts
+#EXTINF:-1,MX | HLN HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/178.ts
+#EXTINF:-1,MX | Hola TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27578.ts
+#EXTINF:-1,MX | Hola TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/177.ts
+#EXTINF:-1,MX | Hola TV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27579.ts
+#EXTINF:-1,MX | Imagen TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40013.ts
+#EXTINF:-1,MX | Ingenio Tv *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67287.ts
+#EXTINF:-1,MX | Mexiquense *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67305.ts
+#EXTINF:-1,MX | Mexiquense *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67285.ts
+#EXTINF:-1,MX | Milenio *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27586.ts
+#EXTINF:-1,MX | Milenio *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27585.ts
+#EXTINF:-1,MX | Morbido TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27550.ts
+#EXTINF:-1,MX | Morbido TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27551.ts
+#EXTINF:-1,MX | Multimedios HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/176.ts
+#EXTINF:-1,MX | Multimedios Plus HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/175.ts
+#EXTINF:-1,MX | NTN24
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/174.ts
+#EXTINF:-1,MX | Panico *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22207.ts
+#EXTINF:-1,MX | SEC Network HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/172.ts
+#EXTINF:-1,MX | Star Tve HD *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67303.ts
+#EXTINF:-1,MX | Star Tve HD *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67283.ts
+#EXTINF:-1,MX | Teleformula *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67301.ts
+#EXTINF:-1,MX | Teleformula *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67281.ts
+#EXTINF:-1,MX | Telemundo *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67318.ts
+#EXTINF:-1,MX | Telemundo *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67278.ts
+#EXTINF:-1,MX | Telenovelas
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/170.ts
+#EXTINF:-1,MX | Televisa Monterrey *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67299.ts
+#EXTINF:-1,MX | Tlnovelas *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67319.ts
+#EXTINF:-1,MX | Tlnovelas *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67277.ts
+#EXTINF:-1,MX | TLR
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/167.ts
+#EXTINF:-1,MX | Tvc *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67316.ts
+#EXTINF:-1,MX | Tvc *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67298.ts
+#EXTINF:-1,MX | TVE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/165.ts
+#EXTINF:-1,MX | TVO HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/163.ts
+#EXTINF:-1,MX | Ultra Banda
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22208.ts
+#EXTINF:-1,MX | Unicable *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/162.ts
+#EXTINF:-1,MX | Unicable *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27577.ts
+#EXTINF:-1,MX | Wobi *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27582.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 03 🇲🇽 Mexico 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🇲🇽MEXICO",🇲🇽☑ EstrellaTV US | E! (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="🇲🇽MEXICO",🇲🇽☑ AMX Noticias | News (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇲🇽MEXICO",🇲🇽☑ Vive Kanal D Drama | E!                                       
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇲🇽MEXICO",🇲🇽☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇲🇽MEXICO",🇲🇽☑ CGTN Español | News (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇲🇽MEXICO",🇲🇽☑ DW Español | News       
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇲🇽MEXICO",🇲🇽☑ Garage TV Latin America | Auto
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽MEXICO",🇲🇽☑ 8NTV MX
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Canal 6 CDMX
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇲🇽MEXICO",🇺🇸☑ AFV | Comedy
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="🇲🇽MEXICO",🇺🇸☑63 30A Ridiculous TV | Comedy
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="🇲🇽MEXICO",🇺🇸☑ 4FUN TV 
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV | Sit.Stay.Watch
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV | National ChampionShip
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="🇲🇽MEXICO",🇺🇸☑ AKC TV Puppies 24/7 |Outdoor
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🇲🇽MEXICO",🇲🇽☑ Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🇲🇽MEXICO",🇲🇽☑ EstrellaTV US | E! (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇲🇽MEXICO",🇪🇸ᵀᵛ¹ ADRENALINA SPORTS NETWORK HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1072
+
+
+
+
+
+
+
+
+
 
 
 
