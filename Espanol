@@ -3904,9 +3904,9 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ1
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go Ⓢ1
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ2
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go Ⓢ2
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura Ⓢ1
@@ -3924,9 +3924,9 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 go Ⓢ2
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor Ⓢ1
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go | Humor Ⓢ1
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor Ⓢ2
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go | Humor Ⓢ2
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://i.imgur.com/p1Qpljw.png" tvg-id="13Realities.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities Ⓢ1
@@ -3943,7 +3943,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM
 
 
 
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ1
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go Ⓢ1
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ1
@@ -3957,15 +3957,15 @@ https://redirector.dps.live/hls/futgo/index.m3u8
 #EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ5
 https://redirector.dps.live/hls/futgo/mono.m3u8
 
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ1
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13go | CL Ⓓ1
 https://redirector.dps.live/hls/13d/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ2
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13go | CL Ⓓ2
 https://redirector.dps.live/hls/13d/playlist.ts
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ3
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13go | CL Ⓓ3
 https://redirector.dps.live/hls/13d/playlist.mpd
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ4
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13go | CL Ⓓ4
 https://redirector.dps.live/hls/13d/index.m3u8
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ5
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13go | CL Ⓓ5
 https://redirector.dps.live/hls/13d/mono.m3u8
 
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece CL Ⓓ1
@@ -4038,13 +4038,13 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ1
 https://redirector.dps.live/hls/13humor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ2
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ2
 https://redirector.dps.live/hls/13humor/playlist.ts
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ3
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ3
 https://redirector.dps.live/hls/13humor/playlist.mpd
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ4
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ4
 https://redirector.dps.live/hls/13humor/index.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ5
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ5
 https://redirector.dps.live/hls/13humor/mono.m3u8
 
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities | CL Ⓢ1
@@ -4176,29 +4176,89 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 
-#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL
+
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL Ⓖ1
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.ts
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.mpd
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/mono.m3u8
 
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL Ⓖ1
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.ts
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.mpd
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/index.m3u8
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/mono.m3u8
+
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL Ⓖ1
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.ts
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.mpd
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/index.m3u8
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL Ⓖ1
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL Ⓖ2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.ts
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL Ⓖ3
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.mpd
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL Ⓖ4
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/index.m3u8
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL Ⓖ5
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/mono.m3u8
+
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL Ⓖ1
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL Ⓖ2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.ts
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL Ⓖ3
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.mpd
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL Ⓖ4
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/index.m3u8
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="🇨🇱CHILE",🇨🇱☑ ADN | CL Ⓖ5
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/mono.m3u8
+
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL Ⓖ1
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL Ⓖ2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.ts
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL Ⓖ3
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.mpd
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL Ⓖ4
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/index.m3u8
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="🇨🇱CHILE",🇨🇱☑ El Conquistador Santiago | CL Ⓖ5
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/mono.m3u8
+
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL Ⓖ1
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL Ⓖ2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.ts
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL Ⓖ3
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.mpd
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL Ⓖ4
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL Ⓖ5
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/mono.m3u8
+
+
 
 
 
