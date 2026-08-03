@@ -2995,7 +2995,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.mpd
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ4
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/master.m3u8
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ1
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/mono.m3u8
 
 
@@ -3005,77 +3005,54 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 1
-https://redirector.dps.live/hls/chv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 2
-https://redirector.dps.live/hls/chv/playlist.ts
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 3
-https://redirector.dps.live/hls/chv/playlist.mpd
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 4
-https://redirector.dps.live/hls/chv/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 5
-https://redirector.dps.live/hls/chv/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHV FHD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV FHD
+http://xsport1.me/live/fpavas/raZFGMA7GT/131f1cd6-6925-49fc-8968-dc60354386da.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHV HD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/d399ed6e-9fb5-4ede-a159-40fb4a636024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHV Noticias HD" tvg-logo="https://i.ibb.co/XrTybsgj/chvnoticias.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV Noticias HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/08f7907c-13d2-4e75-8740-015602894066.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHV SD*" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV SD*
+http://xsport1.me/live/fpavas/raZFGMA7GT/f161d7f0-8736-4261-952c-6d168c93c7a6.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | CNN Chile HD" tvg-logo="https://i.ibb.co/gbQsC4MP/cnnchile.jpg" group-title="🇨🇱CHILE",🇨🇱 CNN Chile HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/61b197cc-1385-498f-bbcf-b783e9ffddfe.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 HD" tvg-logo="https://i.ibb.co/pr3cn5z9/canal13.jpg" group-title="🇨🇱CHILE",🇨🇱 13 HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/be20e454-4b82-4cfc-8137-732de8ddfbaa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 SD" tvg-logo="https://i.ibb.co/pr3cn5z9/canal13.jpg" group-title="🇨🇱CHILE",🇨🇱 13 SD
+http://xsport1.me/live/fpavas/raZFGMA7GT/a9978d57-69e6-4ccf-b093-94f07f33ffdb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13C HD" tvg-logo="https://i.ibb.co/0wFJhh0/13cable.jpg" group-title="🇨🇱CHILE",🇨🇱 13C HD 
+http://xsport1.me/live/fpavas/raZFGMA7GT/58c24c71-1440-4b3e-a39a-7c8ebb6b4062.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_RnUV2XhQcekcngd-_T8p0ZxvGekVvpqXmjw=s900-c-k-c0xffffffff-no-rj-mo" group-title="🇨🇱CHILE",🇨🇱 24 HORAS HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/431d5bfd-0eb4-4d4b-a2af-0fc3be2c0480.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_RnUV2XhQcekcngd-_T8p0ZxvGekVvpqXmjw=s900-c-k-c0xffffffff-no-rj-mo" group-title="🇨🇱CHILE",🇨🇱 24 HORAS SD
+http://xsport1.me/live/fpavas/raZFGMA7GT/3cfcdcd8-daac-457d-be83-6e501cb80204.m3u
 
 
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.ts
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.mpd
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/master.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/mono.m3u8
 
 
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.ts
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.mpd
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/master.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/mono.m3u8
 
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.ts
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.mpd
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/master.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/mono.m3u8
+#EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ UCV Televisión CL (opt1)
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.ts
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.mpd
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/master.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/mono.m3u8
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 CL (San Antonio) CL (opt1)
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 CL (San Antonio) CL (opt2)
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ1
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ2
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.ts
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ3
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.mpd
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ4
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/master.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ5
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/mono.m3u8
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL (01)
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL (02)
+https://v2.tustreaming.cl/atacamanoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL (03)
+https://v2.tustreaming.cl/atacamanoticias/mono.m3u8
 
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO | sports CL
+
+
+
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO | 13go sports CL
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO | sports CL
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO | 13go sports CL
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura
@@ -3103,12 +3080,33 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 CL (San Antonio) CL
-https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ UCV Televisión
-https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ1
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.ts
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.mpd
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/master.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ1
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.ts
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.mpd
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/master.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/mono.m3u8
+
+
+
+
 
 
 
@@ -3173,19 +3171,6 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/95205.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | CHV CONTIGO *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95205
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHV FHD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV FHD
-http://xsport1.me/live/fpavas/raZFGMA7GT/131f1cd6-6925-49fc-8968-dc60354386da.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHV HD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/d399ed6e-9fb5-4ede-a159-40fb4a636024.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHV Noticias HD" tvg-logo="https://i.ibb.co/XrTybsgj/chvnoticias.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV Noticias HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/08f7907c-13d2-4e75-8740-015602894066.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHV SD*" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱CHILE",🇨🇱 CHV SD*
-http://xsport1.me/live/fpavas/raZFGMA7GT/f161d7f0-8736-4261-952c-6d168c93c7a6.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | CNN Chile HD" tvg-logo="https://i.ibb.co/gbQsC4MP/cnnchile.jpg" group-title="🇨🇱CHILE",🇨🇱 CNN Chile HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/61b197cc-1385-498f-bbcf-b783e9ffddfe.m3u
-
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | 24 HORAS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1763.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | 24 HORAS *HD
@@ -3220,20 +3205,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/64218.ts
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | CANAL 13 TELESERIES *HD 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67616.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 HD" tvg-logo="https://i.ibb.co/pr3cn5z9/canal13.jpg" group-title="🇨🇱CHILE",🇨🇱 13 HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/be20e454-4b82-4cfc-8137-732de8ddfbaa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 SD" tvg-logo="https://i.ibb.co/pr3cn5z9/canal13.jpg" group-title="🇨🇱CHILE",🇨🇱 13 SD
-http://xsport1.me/live/fpavas/raZFGMA7GT/a9978d57-69e6-4ccf-b093-94f07f33ffdb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13C HD" tvg-logo="https://i.ibb.co/0wFJhh0/13cable.jpg" group-title="🇨🇱CHILE",🇨🇱 13C HD 
-http://xsport1.me/live/fpavas/raZFGMA7GT/58c24c71-1440-4b3e-a39a-7c8ebb6b4062.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_RnUV2XhQcekcngd-_T8p0ZxvGekVvpqXmjw=s900-c-k-c0xffffffff-no-rj-mo" group-title="🇨🇱CHILE",🇨🇱 24 HORAS HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/431d5bfd-0eb4-4d4b-a2af-0fc3be2c0480.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_RnUV2XhQcekcngd-_T8p0ZxvGekVvpqXmjw=s900-c-k-c0xffffffff-no-rj-mo" group-title="🇨🇱CHILE",🇨🇱 24 HORAS SD
-http://xsport1.me/live/fpavas/raZFGMA7GT/3cfcdcd8-daac-457d-be83-6e501cb80204.m3u
-
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CNN CHILE *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/101846.m3u8
@@ -3277,6 +3248,53 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1840.m3u8
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1840.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CDO PREMIUM *HD
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1840
+
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 1 x
+https://redirector.dps.live/hls/chv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 2
+https://redirector.dps.live/hls/chv/playlist.ts
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 3
+https://redirector.dps.live/hls/chv/playlist.mpd
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 4
+https://redirector.dps.live/hls/chv/index.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL 5
+https://redirector.dps.live/hls/chv/mono.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ1 x
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.ts
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.mpd
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/master.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ1 x
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.ts
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.mpd
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/master.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ1 x
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.ts
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.mpd
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/master.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/mono.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 D 🇨🇱 Chile 🌎📺
@@ -3408,6 +3426,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7628.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.ts
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7628
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt4)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7628.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="🇨🇱CHILE",🇪🇸* VIX Premium | LALIGA *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
@@ -3422,15 +3449,6 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.ts
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇨🇱CHILE",🇪🇸* LaLiga TV BAR | por M+ *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7628.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.ts
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7628
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt4)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7628.mpd
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | LA RED *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/93968.ts
@@ -3450,6 +3468,20 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/c7c9e252-9e07-45b0-aea4-2a643839999a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD*" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA HD*
+http://xsport1.me/live/fpavas/raZFGMA7GT/68553001-d45f-4f42-8be9-588df4db78ad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA SD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA SD
+http://xsport1.me/live/fpavas/raZFGMA7GT/fa51a894-72ee-4027-9348-8df47644c394.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega2.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA 2 HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/165dba67-65c8-4067-a0c3-930d92183601.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega2.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA 2 SD
+http://xsport1.me/live/fpavas/raZFGMA7GT/32037b69-87d8-4968-9ca1-28c1df8087a7.m3u
+
+
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | MEGA *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/93969.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | MEGA *HQ
@@ -3464,17 +3496,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1754.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58764.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega2.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA 2 HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/165dba67-65c8-4067-a0c3-930d92183601.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega2.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA 2 SD
-http://xsport1.me/live/fpavas/raZFGMA7GT/32037b69-87d8-4968-9ca1-28c1df8087a7.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/c7c9e252-9e07-45b0-aea4-2a643839999a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD*" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA HD*
-http://xsport1.me/live/fpavas/raZFGMA7GT/68553001-d45f-4f42-8be9-588df4db78ad.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA SD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱CHILE",🇨🇱 MEGA SD
-http://xsport1.me/live/fpavas/raZFGMA7GT/fa51a894-72ee-4027-9348-8df47644c394.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 P 🇨🇱 Chile 🌎📺
@@ -3521,6 +3543,10 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" group-title="🇨🇱CHILE",🇨🇱☑ TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="🇨🇱CHILE",🇨🇱☑ TVN3 | CL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CL | TVN FHD" tvg-logo="https://i.ibb.co/M5R81F6J/images-q-tbn-ANd9-Gc-Rryn3-Xn-HQs7z8szc-R8i1n9u867-Qjf-X5bd-Pqg-s.png" group-title="🇨🇱CHILE",🇨🇱 TVN FHD
 http://xsport1.me/live/fpavas/raZFGMA7GT/413e9de6-3f30-46a9-a6e0-dca5053ace50.m3u
@@ -3544,7 +3570,7 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/cbbcd7a5-42dd-45bc-89d0-c288bdd5a2b9.m3
 #EXTINF:-1 tvg-id="" tvg-name="CL | T13 HD" tvg-logo="https://i.ibb.co/sdHV7ydJ/t13.jpg" group-title="🇨🇱CHILE",🇨🇱 T13 HD
 http://xsport1.me/live/fpavas/raZFGMA7GT/cbbcd7a5-42dd-45bc-89d0-c288bdd5a2b9.ts
 
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL |BioBio | Tele 13 HD
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/281.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/281.ts
@@ -3866,23 +3892,22 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="🇨🇱CHILE",🇨🇱☑ La Red | CL
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 | CL
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="🇨🇱CHILE",🇨🇱☑ Mega | CL
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="🇨🇱CHILE",🇨🇱☑ TVN3 | CL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-
-
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="🇨🇱CHILE",🇨🇱☑ Mega | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="🇨🇱CHILE",🇨🇱☑ Puranoticia | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 | CL
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
+
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ1
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ2
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura Ⓢ1
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -3914,26 +3939,23 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries Ⓢ2
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
 
+
+
+
+
 #EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ1
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 Ⓢ2
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
-
-
-
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 | CL Ⓓ1
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ1
 https://redirector.dps.live/hls/futgo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 | CL Ⓓ2
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ2
 https://redirector.dps.live/hls/futgo/playlist.ts
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 | CL Ⓓ3
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ3
 https://redirector.dps.live/hls/futgo/playlist.mpd
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 | CL Ⓓ4
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ4
 https://redirector.dps.live/hls/futgo/index.m3u8
-#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13 | CL Ⓓ5
+#EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="🇨🇱CHILE",🇨🇱☑ FutGO 13go | CL Ⓓ5
 https://redirector.dps.live/hls/futgo/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ1
 https://redirector.dps.live/hls/13d/playlist.m3u8?PlaylistM3UCL
@@ -3945,43 +3967,6 @@ https://redirector.dps.live/hls/13d/playlist.mpd
 https://redirector.dps.live/hls/13d/index.m3u8
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="🇨🇱CHILE",🇨🇱☑ Deportes 13 | CL Ⓓ5
 https://redirector.dps.live/hls/13d/mono.m3u8
-
-
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ1
-https://redirector.dps.live/hls/chv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ2
-https://redirector.dps.live/hls/chv/playlist.ts
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ3
-https://redirector.dps.live/hls/chv/playlist.mpd
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ4
-https://redirector.dps.live/hls/chv/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ5
-https://redirector.dps.live/hls/chv/mono.m3u8
-
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ1
-https://redirector.dps.live/hls/chvn/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ2
-https://redirector.dps.live/hls/chvn/playlist.ts
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ3
-https://redirector.dps.live/hls/chvn/playlist.mpd
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ4
-https://redirector.dps.live/hls/chvn/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ5
-https://redirector.dps.live/hls/chvn/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ1
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ2
-https://redirector.dps.live/hls/13intav/playlist.ts
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ3
-https://redirector.dps.live/hls/13intav/playlist.mpd
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ4
-https://redirector.dps.live/hls/13intav/index.m3u8
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ5
-https://redirector.dps.live/hls/13intav/mono.m3u8
-
 
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ T13 en vivo| Teletrece CL Ⓓ1
 https://redirector.dps.live/hls/t13/playlist.m3u8?PlaylistM3UCL
@@ -3995,18 +3980,6 @@ https://redirector.dps.live/hls/t13/index.m3u8
 https://redirector.dps.live/hls/t13/mono.m3u8
 
 
-#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ1
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ2
-https://redirector.dps.live/hls/13cl/playlist.ts
-#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ3
-https://redirector.dps.live/hls/13cl/playlist.mpd
-#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ4
-https://redirector.dps.live/hls/13cl/index.m3u8
-#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ5
-https://redirector.dps.live/hls/13cl/mono.m3u8
-
-
 #EXTINF:-1 vg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina | CL Ⓓ1
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 vg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina | CL Ⓓ2
@@ -4018,7 +3991,7 @@ https://redirector.dps.live/hls/13cocina/index.m3u8
 #EXTINF:-1 vg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina | CL Ⓓ5
 https://redirector.dps.live/hls/13cocina/mono.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura CL 
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura CL Ⓢ1
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura | CL Ⓓ1
@@ -4032,7 +4005,7 @@ https://redirector.dps.live/hls/13cultura/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cultura | CL Ⓓ5
 https://redirector.dps.live/hls/13cultura/mono.m3u8
 
-#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Festival | CL 
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Festival | CL Ⓢ1
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Festival | CL Ⓓ1
@@ -4046,7 +4019,7 @@ https://redirector.dps.live/hls/13festival/index.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Festival | CL Ⓓ5
 https://redirector.dps.live/hls/13festival/mono.m3u8
 
-#EXTINF:-1 tvg-name="13 go" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13go.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 go
+#EXTINF:-1 tvg-name="13 go" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13go.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 go Ⓢ1
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
 #EXTINF:-1 tvg-name="13 go" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13go.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 go | CL Ⓓ1
@@ -4060,21 +4033,21 @@ https://redirector.dps.live/hls/13kids/index.m3u8
 #EXTINF:-1 tvg-name="13 go" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13go.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 go | CL Ⓓ5
 https://redirector.dps.live/hls/13kids/mono.m3u8
 
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go | Humor Ⓢ1
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ1
-https://redirector.dps.live/hls/13kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13go Humor | CL Ⓓ1
+https://redirector.dps.live/hls/13humor/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ2
-https://redirector.dps.live/hls/13kids/playlist.ts
+https://redirector.dps.live/hls/13humor/playlist.ts
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ3
-https://redirector.dps.live/hls/13kids/playlist.mpd
+https://redirector.dps.live/hls/13humor/playlist.mpd
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ4
-https://redirector.dps.live/hls/13kids/index.m3u8
+https://redirector.dps.live/hls/13humor/index.m3u8
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Humor | CL Ⓓ5
-https://redirector.dps.live/hls/13kids/mono.m3u8
+https://redirector.dps.live/hls/13humor/mono.m3u8
 
-#EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities | CL 
+#EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities | CL Ⓢ1
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities | CL Ⓓ1
@@ -4088,6 +4061,9 @@ https://redirector.dps.live/hls/13realities/index.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Realities | CL Ⓓ5
 https://redirector.dps.live/hls/13realities/mono.m3u8
 
+#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" tvg-id="13T.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries Ⓢ1
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries | CL Ⓓ1
 https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries | CL Ⓓ2
@@ -4098,6 +4074,45 @@ https://redirector.dps.live/hls/13t/playlist.mpd
 https://redirector.dps.live/hls/13t/index.m3u8
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Teleseries | CL Ⓓ5
 https://redirector.dps.live/hls/13t/mono.m3u8
+
+#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL Ⓓ1
+https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL Ⓓ2
+https://redirector.dps.live/hls/turno/playlist.ts
+#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL Ⓓ3
+https://redirector.dps.live/hls/turno/playlist.mpd
+#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL Ⓓ4
+https://redirector.dps.live/hls/turno/index.m3u8
+#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL Ⓓ5
+https://redirector.dps.live/hls/turno/mono.m3u8
+
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL Ⓓ1
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL Ⓓ2
+https://redirector.dps.live/hls/13viajes/playlist.ts
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL Ⓓ3
+https://redirector.dps.live/hls/13viajes/playlist.mpd
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL Ⓓ4
+https://redirector.dps.live/hls/13viajes/index.m3u8
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL Ⓓ5
+https://redirector.dps.live/hls/13viajes/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 CL (San Antonio) CL
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ1
+https://redirector.dps.live/hls/canal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ2
+https://redirector.dps.live/hls/canal2/playlist.ts
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ3
+https://redirector.dps.live/hls/canal2/playlist.mpd
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ4
+https://redirector.dps.live/hls/canal2/index.m3u8
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ5
+https://redirector.dps.live/hls/canal2/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 9 Bío Bío Televisión  CL (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
@@ -4127,20 +4142,6 @@ https://redirector.dps.live/hls/pinguinotv/index.m3u8
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV | CL Ⓓ5
 https://redirector.dps.live/hls/pinguinotv/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 CL (San Antonio) CL
-https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ1
-https://redirector.dps.live/hls/canal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ2
-https://redirector.dps.live/hls/canal2/playlist.ts
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ3
-https://redirector.dps.live/hls/canal2/playlist.mpd
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ4
-https://redirector.dps.live/hls/canal2/index.m3u8
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="🇨🇱CHILE",🇨🇱☑ Canal 2 (San Antonio) | CL Ⓓ5
-https://redirector.dps.live/hls/canal2/mono.m3u8
-
 #EXTINF:-1 tvg-id="TVinet.cl" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="🇨🇱CHILE",🇨🇱☑ T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 
@@ -4160,8 +4161,30 @@ https://redirector.dps.live/hls/inet2/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Viajes | CL
-https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ1
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ2
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.ts
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ3
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.mpd
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ4
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/index.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ5
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -4174,92 +4197,45 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="🇨🇱CHILE",🇨🇱☑ La Metro | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Pauta TV | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="🇨🇱CHILE",🇨🇱☑ Radio Agricultura 2 | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1301" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Radioactiva TV | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="373" tvg-name="PinguinoTV" tvg-logo="https://cdn.m3u.cl/logo/373_PinguinoTV.png" group-title="🇨🇱CHILE",🇨🇱☑ PinguinoTV | CL
+
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 CL Ⓖ1
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 CL Ⓖ2
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.ts
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 CL Ⓖ3
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.mpd
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 CL Ⓖ4
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/index.m3u8
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 CL Ⓖ5
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV CL Ⓖ1
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV CL Ⓖ2
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.ts
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV CL Ⓖ3
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.mpd
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV CL Ⓖ4
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/index.m3u8
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV CL Ⓖ5
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/mono.m3u8
 
-#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina | CL
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="🇨🇱CHILE",🇨🇱☑ TurnoEnVivo | CL
-https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="🇨🇱CHILE",🇨🇱☑ SUR TV
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="🇨🇱CHILE",🇨🇱☑ TV+ | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ1
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ2
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.ts
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ3
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.mpd
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ4
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/index.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ5
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/mono.m3u8
-
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ1
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ2
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.ts
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ3
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.mpd
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ4
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/index.m3u8
-#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ5
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/mono.m3u8
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra CL Ⓖ1
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra CL Ⓖ2
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.ts
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra CL Ⓖ3
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.mpd
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra CL Ⓖ4
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/index.m3u8
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="🇨🇱CHILE",🇨🇱☑ La Nuestra CL Ⓖ5
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/mono.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.ts
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.mpd
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ1
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ2
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.ts
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ3
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.mpd
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ4
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/index.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ5
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/mono.m3u8
 
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13c Cable Ⓖ1
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13c/13c.smil/playlist.m3u8
@@ -4286,13 +4262,26 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 
 
 
+#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png" group-title="🇨🇱CHILE",🇨🇱☑ Chile Channel TV | CL
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Raices Arabes TV | CL
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" group-title="🇨🇱CHILE",🇨🇱☑ TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ UCV Televisión
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png" group-title="🇨🇱CHILE",🇨🇱☑ TV Salud | CL x
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-id="1301" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Radioactiva TV CL Ⓖ1 x
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
-
-
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ1
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ1 xx
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ2
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chv/chv.smil/playlist.ts
@@ -4300,10 +4289,10 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chv/chv.smil/playlist.mpd
 #EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ4
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chv/chv.smil/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ1
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevisión Ⓖ5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chv/chv.smil/mono.m3u8
 
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ1
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ1 xx
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ2
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.ts
@@ -4311,48 +4300,103 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.mpd
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ4
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ1
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevisión Noticias Ⓖ5
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/mono.m3u8
 
 
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ1 xx
+https://redirector.dps.live/hls/chv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ2
+https://redirector.dps.live/hls/chv/playlist.ts
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ3
+https://redirector.dps.live/hls/chv/playlist.mpd
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ4
+https://redirector.dps.live/hls/chv/index.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision | CL Ⓓ5
+https://redirector.dps.live/hls/chv/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ1
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ2
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.ts
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ3
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/playlist.mpd
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ4
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/index.m3u8
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="🇨🇱CHILE",🇨🇱☑ Bío Bío Televisión Canal 9 Ⓖ1
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/c9/c9.smil/mono.m3u8
-
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV Ⓖ1
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV Ⓖ2
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.ts
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV Ⓖ3
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.mpd
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV Ⓖ4
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/index.m3u8
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ El Pingüino TV Ⓖ5
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/mono.m3u8
-
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ1 xx
+https://redirector.dps.live/hls/chvn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ2
+https://redirector.dps.live/hls/chvn/playlist.ts
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ3
+https://redirector.dps.live/hls/chvn/playlist.mpd
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ4
+https://redirector.dps.live/hls/chvn/index.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="🇨🇱CHILE",🇨🇱☑ CHVn Chilevision Noticias | CL Ⓓ5
+https://redirector.dps.live/hls/chvn/mono.m3u8
 
 
+#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ1 x
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ2
+https://redirector.dps.live/hls/13cl/playlist.ts
+#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ3
+https://redirector.dps.live/hls/13cl/playlist.mpd
+#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ4
+https://redirector.dps.live/hls/13cl/index.m3u8
+#EXTINF:-1 tvg-name="c13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="c13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 CL Ⓓ5
+https://redirector.dps.live/hls/13cl/mono.m3u8
+
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ1 x
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ2
+https://redirector.dps.live/hls/13intav/playlist.ts
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ3
+https://redirector.dps.live/hls/13intav/playlist.mpd
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ4
+https://redirector.dps.live/hls/13intav/index.m3u8
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🇨🇱CHILE",🇨🇱☑ 13 Internacional | CL Ⓓ5
+https://redirector.dps.live/hls/13intav/mono.m3u8
+
+#EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="🇨🇱CHILE",🇨🇱☑ SUR TV x
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ1 x
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.ts
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.mpd
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/index.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Deportes13 Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ1 x
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ2
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.ts
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ3
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/playlist.mpd
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ4
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/index.m3u8
+#EXTINF:-1 tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" group-title="🇨🇱CHILE",🇨🇱☑ 13 Cocina Ⓖ5
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13cocina/13cocina.smil/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ1
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ2
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.ts
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ3
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.mpd
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ4
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/index.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ5
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/mono.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ1 x
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.ts
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.mpd
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="🇨🇱CHILE",🇨🇱☑ CHV Chilevision Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/mono.m3u8
+
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ1 x
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ2
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.ts
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ3
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.mpd
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ4
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/index.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="🇨🇱CHILE",🇨🇱☑ Canal 13 Ⓖ5
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/mono.m3u8
 
 
 
@@ -4361,23 +4405,15 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 
-#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png" group-title="🇨🇱CHILE",🇨🇱☑ Chile Channel TV | CL
-https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png" group-title="🇨🇱CHILE",🇨🇱☑ TV Salud | CL
-https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png" group-title="🇨🇱CHILE",🇨🇱☑ Raices Arabes TV | CL
-https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="🇨🇱CHILE",🇨🇱☑ CANAL 22 | Atacama Noticias CL
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
-#EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" group-title="🇨🇱CHILE",🇨🇱☑ TVN 3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" group-title="🇨🇱CHILE",🇨🇱☑ UCV Televisión
-https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+
+
+
 
 
 
