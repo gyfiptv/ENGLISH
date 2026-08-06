@@ -6847,19 +6847,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.ts
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
+#EXTINF:-1 group-title="🇵🇪PERU”,®🇪🇸 L1MAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145403
+#EXTINF:-1 group-title="🇵🇪PERU”,®🇪🇸 L1MAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145450
+
 
 #EXTINF:-1 group-title="🇵🇪PERU”,🇵🇪® L1MAX ᴸᴵᴳᴬ¹ | PER (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4841
@@ -6942,6 +6935,22 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.m3u8
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* LIGA1 PERU *HQ (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95656
+
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
+
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.ts
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
+
+
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☑ L1 Max (1080p)
 http://38.183.182.166:8000/play/a12t/index.m3u8
@@ -9553,6 +9562,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇺CUBA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇨🇺CUBA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇨🇺CUBA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇨🇺CUBA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇨🇺CUBA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1,group-title="🇨🇺CUBA",® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161926
 #EXTINF:-1,group-title="🇨🇺CUBA",® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt2)
@@ -9773,6 +9791,15 @@ http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇷COSTA RICA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇨🇷COSTA RICA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇨🇷COSTA RICA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇨🇷COSTA RICA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇨🇷COSTA RICA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 #EXTINF:-1,group-title="🇨🇷COSTA RICA",® CRI: Antena 6 ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ
@@ -10331,6 +10358,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇸🇻EL SALVADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇸🇻EL SALVADOR",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇸🇻EL SALVADOR",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇸🇻EL SALVADOR",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160929
 #EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
@@ -10601,6 +10637,15 @@ http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇬🇹GUATEMALA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇬🇹GUATEMALA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇬🇹GUATEMALA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇬🇹GUATEMALA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇬🇹GUATEMALA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1,group-title="🇬🇹GUATEMALA",GTM: CANAL 11
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131990
@@ -10963,6 +11008,15 @@ http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇭🇳HONDURAS",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇭🇳HONDURAS",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇭🇳HONDURAS",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳® 38 | TIGO SPORTS HONDURAS HD (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/144607
@@ -11503,6 +11557,39 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇯🇲JAMAICA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇯🇲JAMAICA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇯🇲JAMAICA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇯🇲JAMAICA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇯🇲JAMAICA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:  VAM Vid's & More (CW)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162582
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:  CTN TV (CW)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162583
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:  ZIZ TV FHD (KN)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162624
+
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE: BBLACK! HITS
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162872
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:  RTV Caraibes
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/170282
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:  RTV Caraibes #2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/170283
+
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:Jamaica ONLINE (4K)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161932
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:CGTV JAMAICA (FHD)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161933
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:Island Luck TV (FHD)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161934
+#EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:CBC TV8 (4K)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161935
+
+
 
 #EXTINF:-1 group-title="🇯🇲JAMAICA",TVJ | Television Jamaica JM (opt1)
 http://cfsystems.io:80/uG7vYM5pY/aVMt56bat/6298
@@ -11645,11 +11732,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇲🇽MEXICO",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇲🇽MEXICO",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇲🇽MEXICO",🇲🇽☑ Azteca Internacional | E! (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇲🇽MEXICO",🇲🇽☑ ADN 40 | News (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -11789,10 +11877,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27571.ts
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇲🇽MEXICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇲🇽MEXICO",🇲🇽☑ ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="🇲🇽MEXICO",☆ D PELICULA (opt1)
 http://mains.services:2086/640939802963/IDC01478!/66563
@@ -12574,6 +12658,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇳🇮NICARAGUA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇳🇮NICARAGUA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇳🇮NICARAGUA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇳🇮NICARAGUA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇳🇮NICARAGUA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
 #EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮 ▂ ▄ ▅ ▆☆  TV NICARAGUA ☆▆ ▅ ▄ ▂
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125966
 
@@ -12860,6 +12954,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇦PANAMA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇵🇦PANAMA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇵🇦PANAMA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇵🇦PANAMA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇵🇦PANAMA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 2 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126571
 #EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 2 (opt2)
@@ -13124,6 +13227,15 @@ http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇷PUERTO RICO",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇵🇷PUERTO RICO",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇵🇷PUERTO RICO",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇵🇷PUERTO RICO",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇵🇷PUERTO RICO",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇵🇷PUERTO RICO",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -13494,6 +13606,14 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇩🇴REPUBLICA DOMINICANA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇩🇴REPUBLICA DOMINICANA",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇩🇴REPUBLICA DOMINICANA",🇲🇽☑ Azteca Internacional | E! (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇩🇴REPUBLICA DOMINICANA",🇲🇽☑ ADN 40 | News (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1,group-title="🇩🇴REPUBLICA DOMINICANA",® EXTREMA TV SD DO Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131929
