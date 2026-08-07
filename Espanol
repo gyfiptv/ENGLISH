@@ -9,12 +9,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ AMERICA24 | A24 AR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ AMERICA24 | A24 AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ AMERICA24 | A24 AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt1)
@@ -47,14 +41,6 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.mpd
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ C5N AR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/c5n.ar.m3u8
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ C5N AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/c5n.ar.m3u8
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ C5N AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/c5n.ar.m3u8
 
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt1)
@@ -157,13 +143,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷⚽ ENCUENTRO AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/encuentro.ar.m3u8
-#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ ENCUENTRO AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/encuentro.ar.m3u8
-#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ ENCUENTRO AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/encuentro.ar.m3u8
-
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7624.m3u8
@@ -240,12 +219,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ METRO AR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/metro.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ METRO AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/metro.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ METRO AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/metro.ar.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇦🇷ARGENTINA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇦🇷 T 🇦🇷 Argentina 🌎📺
@@ -294,12 +267,6 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/482.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/482
 
 
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELEFE AR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELEFE AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELEFE AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
 
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ TELEFE AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
@@ -385,13 +352,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82482
 
 
 
-#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELENUEVE C9 AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.9.ar.m3u8
-#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELENUEVE C9 AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.9.ar.m3u8
-#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELENUEVE C9 AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.9.ar.m3u8
-
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ elnueve | TELENUEVE C9 AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7627.m3u8
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ elnueve | TELENUEVE C9 AR (opt2)
@@ -402,12 +362,6 @@ http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7627
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7627.mpd
 
 
-#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷⚽ EL TRECE AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/el.trece.ar.m3u8
-#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷⚽ EL TRECE AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/el.trece.ar.m3u8
-#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷⚽ EL TRECE AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/el.trece.ar.m3u8
 
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷★ EL TRECE AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7622.m3u8
@@ -417,13 +371,6 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7622.ts
 http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7622
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷★ EL TRECE AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7622.mpd
-
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELESUR AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telesur.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELESUR AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telesur.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ TELESUR AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telesur.ar.m3u8
 
 
 
@@ -552,12 +499,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ VOLVER AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/volver.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ VOLVER AR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/volver.ar.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷⚽ VOLVER AR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/volver.ar.m3u8
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ VOLVER AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7626.m3u8
@@ -1521,207 +1462,6 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
 
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="🇧🇷BRASIL" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇷BRASIL", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🌐BRASIL🇧🇷 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇷BRASIL",✝️ᴛʙɴᵀᵛ 🇪🇸 PREMIUMᵀᵛ 🇺🇸  🌐🌎⭐ 🇪🇸01ᵀᵛ🌐world🇺🇸 ⭐🌎🌐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇷BRASIL",✝️BibleMoviesᵀᵛ tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ AXN BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ AXN BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ AXN BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND NEWS BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND NEWS BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ BAND NEWS BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.news.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ COMEDY CENTRAL BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/comedy.central.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ COMEDY CENTRAL BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/comedy.central.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ COMEDY CENTRAL BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/comedy.central.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ FISH TV BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fishtv.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ FISH TV BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fishtv.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ FISH TV BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fishtv.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOPLAY NOVELAS | VIVA BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/viva.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOPLAY NOVELAS | VIVA BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/viva.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOPLAY NOVELAS | VIVA BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/viva.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOSAT BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globosat.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOSAT BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globosat.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBOSAT BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globosat.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBO NEWS BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globo.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBO NEWS BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globo.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOBO NEWS BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globo.news.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOOB | Kids BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/gloob.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOOB | Kids BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/gloob.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ GLOOB | Kids BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/gloob.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO FAMILY BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO FAMILY BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO FAMILY BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO MUNDI BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.plus.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO MUNDI BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.plus.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO MUNDI BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.plus.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO SIGNATURE BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO SIGNATURE BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ HBO SIGNATURE BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MEGAPIX BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megapix.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MEGAPIX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megapix.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MEGAPIX BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megapix.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MULTISHOW BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multishow.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MULTISHOW BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multishow.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ MULTISHOW BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multishow.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD NEWS BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD NEWS BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.news.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ RECORD NEWS BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.news.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sbt.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sbt.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sbt.br.m3u8
-
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SPACE BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SPACE BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SPACE BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SYFY | NEON BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SYFY | NEON BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ SYFY | NEON BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE ACTION BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.action.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE ACTION BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.action.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE ACTION BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.action.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE FUN BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.fun.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE FUN BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.fun.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE FUN BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.fun.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE PREMIUM BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.premium.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE PREMIUM BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.premium.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TELECINE PREMIUM BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.premium.br.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TLC BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tlc.pt.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TLC BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tlc.pt.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TLC BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tlc.pt.m3u8
-
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TNT BR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tnt.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TNT BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tnt.br.m3u8
-#EXTINF:-1 group-title="🇧🇷BRASIL",🇧🇷⚽ TNT BR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tnt.br.m3u8
 
 
 
@@ -5966,6 +5706,28 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145444
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145445
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145446
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF PPV (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145490
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ZAPPING SPORTS (ECU) LigaPro Ecuabet (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145491
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇺🇸 ZAPPING SPORTS (ECU) LigaPro Ecuabet (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145492
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145495
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 D SPORTS (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145496
+
+
+
+
 #EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4821
 #EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
@@ -5987,16 +5749,6 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4908
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨⚽ TELEAMAZONAS EC (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨⚽ TELEAMAZONAS EC (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨⚽ TELEAMAZONAS EC (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuavisa Play | EC Ⓨ3
@@ -8560,6 +8312,18 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145429
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145429.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145429.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV PLUS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145452
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV PLUS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145453
+
 
 #EXTINF:-1,group-title="🇺🇾URUGUAY",® ----- URUGUAY ------
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
@@ -10583,27 +10347,8 @@ http://mains.best:2086/3003556325/2772007/66597
 http://mains.services:2086/640939802963/IDC01478!/66597
 
 
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 19 SV (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 19 SV (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 19 SV (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
-
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 21 MEGAVISION SV (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megavision.21.sv.m3u8
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 21 MEGAVISION SV (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megavision.21.sv.m3u8
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",⚽ CANAL 21 MEGAVISION SV (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megavision.21.sv.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇸🇻EL SALVADOR",EXTREMA TV|CINE CR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇸🇻EL SALVADOR",🇸🇻☑ Vive Kanal D Drama | E!                                       
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
@@ -10730,19 +10475,6 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/640939802963/IDC01478!/66597
 
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
 
 #EXTINF:-1 group-title="🇬🇹GUATEMALA",🇬🇹* GUATE VISION GUA | 52084
 http://tv-privado.live:8080/live/dannyrx15/jvgKdjsjKC/52084.m3u8
@@ -11378,34 +11110,6 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/640939802963/IDC01478!/66597
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ TELEPAIS HN (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ TELEPAIS HN (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ TELEPAIS HN (opt3) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 11 HN (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 11 HN (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 11 HN (opt3) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2669.m3u8
@@ -11589,10 +11293,14 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161934
 #EXTINF:-1,group-title="🇯🇲JAMAICA",® CARIBE:CBC TV8 (4K)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161935
 
-
-
 #EXTINF:-1 group-title="🇯🇲JAMAICA",TVJ | Television Jamaica JM (opt1)
 http://cfsystems.io:80/uG7vYM5pY/aVMt56bat/6298
+
+
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="CaribbeanGospelTV.jm" tvg-logo="https://i.imgur.com/mVQ8J4k.png" group-title="🇯🇲JAMAICA",🇯🇲☑ Caribbean Gospel TV | religious (1080p)
@@ -11630,20 +11338,6 @@ http://mains.services:2086/507Vej3h3S/4632273/101160
 #EXTINF:-1 group-title="🇯🇲JAMAICA",☆ TVJ SPORTS- JAMAICA (opt3) 
 http://mains.best:2086/3003556325/2772007/101160
 
-
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ JAMAICA CAR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.car.m3u8
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ JAMAICA CAR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.car.m3u8
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ JAMAICA CAR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.car.m3u8
-
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ SPORTS JAMAICA CAR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.sports.car.m3u8
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ SPORTS JAMAICA CAR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.sports.car.m3u8
-#EXTINF:-1 group-title="🇯🇲JAMAICA",⚽ TVJ SPORTS JAMAICA CAR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.sports.car.m3u8
 
 
 
@@ -11800,13 +11494,6 @@ http://mains.services:2086/640939802963/IDC01478!/66552
 http://mains.services:2086/507Vej3h3S/4632273/66552
 #EXTINF:-1 group-title="🇲🇽MEXICO",☆ BANDAMAX MX (opt3)
 http://mains.best:2086/3003556325/2772007/66552
-
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ BANDAMAX MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bandamax.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ BANDAMAX MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bandamax.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ BANDAMAX MX (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bandamax.mx.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇲🇽MEXICO",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇲🇽 C 🇲🇽 Mexico 🌎📺
@@ -12077,20 +11764,6 @@ http://mains.services:2086/507Vej3h3S/4632273/66586
 #EXTINF:-1 group-title="🇲🇽MEXICO",☆ TELEDIARIO CANAL 6 MX (opt3)
 http://mains.best:2086/3003556325/2772007/66586
 
-
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEDIARIO CANAL 6 MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multimedios.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEDIARIO CANAL 6 MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multimedios.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEDIARIO CANAL 6 MX (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multimedios.mx.m3u8
-
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEVISA PUEBLA MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/televisa.puebla.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEVISA PUEBLA MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/televisa.puebla.mx.m3u8
-#EXTINF:-1 group-title="🇲🇽MEXICO",⚽ TELEVISA PUEBLA MX (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/televisa.puebla.mx.m3u8
 
 
 
@@ -12723,20 +12396,6 @@ http://mains.services:2086/507Vej3h3S/4632273/66597
 #EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/live/640939802963/IDC01478!/66597.mpd
 
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-
 
 
 #EXTINF:-1 group-title="🇳🇮NICARAGUA",🇳🇮 TN8 (Nicaragua)
@@ -13179,20 +12838,6 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/640939802963/IDC01478!/66597
 
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-
 
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="🇵🇦PANAMA",🇵🇦☑ Hosanna Vision (720p) [Religious]
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
@@ -13309,20 +12954,6 @@ http://mains.services:2086/live/3003556325/2772007/66597.ts
 http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/640939802963/IDC01478!/66597
-
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",🇵🇷⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
 
 
 
@@ -13569,20 +13200,6 @@ http://mains.services:2086/640939802963/IDC01478!/66597
 #EXTINF:-1 group-title="🇵🇷PUERTO RICO",TELECENTRO 429 | Centroamerica (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/66597
 
-
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ WIPR Puerto Rico (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/wipr.pr.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ WIPR Puerto Rico (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/wipr.pr.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ WIPR Puerto Rico (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/wipr.pr.m3u8
-
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ Telemundo 2 (WKAQ) Puerto Rico (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.puerto.rico.pr.us.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ Telemundo 2 (WKAQ) Puerto Rico (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.puerto.rico.pr.us.m3u8
-#EXTINF:-1 group-title="🇵🇷PUERTO RICO",⚽ Telemundo 2 (WKAQ) Puerto Rico (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.puerto.rico.pr.us.m3u8
 
 
 
@@ -14076,35 +13693,6 @@ https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="🇩🇴REPUBLICA DOMINICANA",🇩🇴☑ CDN Deportes | Sports (720p)
 http://200.125.170.122:8000/play/a03j/index.mpd
-
-
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELEMICRO INTERNACIONAL DO | CAR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemicro.do.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELEMICRO INTERNACIONAL DO | CAR (opt2)  
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemicro.do.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELEMICRO INTERNACIONAL DO | CAR (opt3)  
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemicro.do.m3u8
-
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ SUPER CANAL DO | CAR (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/super.canal.car.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ SUPER CANAL DO | CAR (opt2)  
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/super.canal.car.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ SUPER CANAL DO | CAR (opt3)  
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/super.canal.car.m3u8
-
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELECENTRO 429 | CAR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELECENTRO 429 | CAR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ TELECENTRO 429 | CAR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
-
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ CENTROAMERICA TV CATV | CAR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ CENTROAMERICA TV CATV | CAR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
-#EXTINF:-1 group-title="🇩🇴REPUBLICA DOMINICANA",⚽ CENTROAMERICA TV CATV | CAR (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
 
 
 
