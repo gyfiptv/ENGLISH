@@ -522,271 +522,284 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TyC Sᴘᴏʀᴛs Sᴰᵀ AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TyC Sᴘᴏʀᴛs Sᴰᵀ AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® 05 | TNT SPORTS PREMIUM FHD AR (01)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131980
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® 07 | FS FOX SPORTS PREMIUM FHD AR (01)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131981
+
+#EXTINF:-1 tvg-id="" tvg-name="10 | CDF UHD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="🇦🇷ARGENTINA",🇦🇷® 10 | TNT SPORTS PREMIUM UHD http://00322.xyz:8000/plus10031/HEPGK6N/134166 
+#EXTINF:-1 tvg-id="" tvg-name="11 | CDF PREMIUM SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="🇦🇷ARGENTINA",🇦🇷® 11 | TNT SPORTS SD http://00322.xyz:8000/plus10031/HEPGK6N/134167 
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3567
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3567.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® A24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® A24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7400
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® A24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® A24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7400,m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® A24 ᴬᴿᴳ ᴴᴰ | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® A24 ᴬᴿᴳ ᴴᴰ | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4906
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® A24 ᴬᴿᴳ ᴴᴰ | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® A24 ᴬᴿᴳ ᴴᴰ | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4906.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® AMERICA TV AR | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV AR | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4834
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® AMERICA TV AR | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV AR | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4834.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® ARGENTINISIMA ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ARGENTINISIMA ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3566
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® ARGENTINISIMA ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ARGENTINISIMA ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3566.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Argentinísima Satelital ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Argentinísima Satelital ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7404
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Argentinísima Satelital ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Argentinísima Satelital ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7404.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CRONICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CRONICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3541
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CRONICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CRONICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3541.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® C5N ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® C5N ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3565
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® C5N ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® C5N ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3565.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Canal 10 TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Canal 10 TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7431
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL 10 SENILLOSA Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL 10 SENILLOSA Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7432
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL 13 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL 13 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3553
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL 13 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL 13 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3553.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL 26 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL 26 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3543
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL 26 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL 26 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3543.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Canal 26TV AR Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Canal 26TV AR Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4907
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Canal 26TV AR Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Canal 26TV AR Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4907.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DE LA CIUDAD ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DE LA CIUDAD ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3562
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DE LA CIUDAD ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DE LA CIUDAD ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3562.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CIUDAD MAGAZINE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CIUDAD MAGAZINE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3550
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CIUDAD MAGAZINE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CIUDAD MAGAZINE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3550.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CINEAR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CINEAR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3551
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CINEAR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CINEAR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3551.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL PROVINCIAL SAN MIGUEL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL PROVINCIAL SAN MIGUEL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7405
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Ciudad TV Resistencia ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Ciudad TV Resistencia ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7407
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CPEtv ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CPEtv ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7408
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Chacra TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Chacra TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7418
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Ciudad TV Chaco ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Ciudad TV Chaco ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7419
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CUMBRE TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CUMBRE TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7430
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® DANCE FM ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® DANCE FM ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7421
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® DANCE FM ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® DANCE FM ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7421.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135045
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/135045.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Encuentro ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3564
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Encuentro ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3564.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Encuentro ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7406
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Encuentro ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7406.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® LA NACION TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® LA NACION TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3538
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® LA NACION TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® LA NACION TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3538.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® LA NACION TV Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® LA NACION TV Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4905
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® LA NACION TV Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® LA NACION TV Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4905.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DE LA MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DE LA MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3552
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DE LA MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DE LA MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3552.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® METRO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® METRO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3563
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® METRO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® METRO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3563.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Multivisión Federal ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Multivisión Federal ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7402
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Multivisión Federal ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Multivisión Federal ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7402.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Net TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Net TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7403
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Net TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Net TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7403.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® PARANA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® PARANA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131725
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® PARANA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® PARANA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131725.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® POWER TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® POWER TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7437
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® PAKA PAKA ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® PAKA PAKA ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3537
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® PAKA PAKA ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® PAKA PAKA ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3537.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® QUIERO MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® QUIERO MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3548
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® QUIERO MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® QUIERO MUSICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3548.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL RURAL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL RURAL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3547
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL RURAL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL RURAL ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3547.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL RURAL ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL RURAL ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3561
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL RURAL ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL RURAL ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3561.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DEL SENADO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DEL SENADO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3560
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® CANAL DEL SENADO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CANAL DEL SENADO ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3560.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEVIDA | EL NUEVE 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEVIDA | EL NUEVE 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3546
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEVIDA | EL NUEVE 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEVIDA | EL NUEVE 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3546.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TV PUBLICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TV PUBLICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3534
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TV PUBLICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TV PUBLICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3534.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TV PUBLICA ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TV PUBLICA ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3555
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TV PUBLICA ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TV PUBLICA ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3555.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEMAX ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEMAX ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3535
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEMAX ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEMAX ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3535.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEMAX ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEMAX ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3558
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEMAX ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEMAX ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3558.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Telefé Int ᴬᴿᴳ ᴴᴰ USA (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Telefé Int ᴬᴿᴳ ᴴᴰ USA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131279
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® Telefé Int ᴬᴿᴳ ᴴᴰ USA (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Telefé Int ᴬᴿᴳ ᴴᴰ USA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131279.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEFE ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEFE ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3536
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEFE ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEFE ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3536.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEFE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ  (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEFE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ  (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3559
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELEFE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ  (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELEFE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ  (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3559.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TLN | elnueve 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TLN | elnueve 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3539
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TLN | elnueve 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TLN | elnueve 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3539.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TLN | telenueve C9 ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TLN | telenueve C9 ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3542
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TLN | telenueve C9 ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TLN | telenueve C9 ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3542.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® EL TRECE INTERNACIONAL | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EL TRECE INTERNACIONAL | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4904
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® EL TRECE INTERNACIONAL | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EL TRECE INTERNACIONAL | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4904.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® EL TRECE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EL TRECE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3568
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® EL TRECE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EL TRECE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3568.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TN TODO NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TN TODO NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3556
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TN TODO NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TN TODO NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3556.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELESUR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELESUR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3545
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELESUR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELESUR ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3545.m3u8 
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELESUR ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELESUR ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3557
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® TELESUR ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® TELESUR ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3557.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VERTV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ AR (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VERTV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ AR (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3544
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VERTV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ AR (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VERTV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ AR (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3544.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VOLVER ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VOLVER ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3544
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VOLVER ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VOLVER ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3544.m3u8
 
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VOLVER ᴬᴿᴳ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VOLVER ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3554
-#EXTINF:-1,group-title="🇦🇷ARGENTINA",® VOLVER ᴬᴿᴳ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® VOLVER ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3554.m3u8
 
 
@@ -3503,8 +3516,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 V 🇨🇱 Chile 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
@@ -3538,90 +3549,130 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
-#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
-#EXTINF:-1,group-title="🇨🇱CHILE",® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
-#EXTINF:-1,group-title="🇨🇱CHILE",® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
-
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
-#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
-#EXTINF:-1,group-title="🇨🇱CHILE",® Canal 24 HORAS ᶜᴴᶦᴸᴱᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
-#EXTINF:-1,group-title="🇨🇱CHILE",® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
-#EXTINF:-1,group-title="🇨🇱CHILE",® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇨🇱CHILE",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
-#EXTINF:-1,group-title="🇨🇱CHILE",® MEGA ᶜᴴᶦᴸᴱ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
-#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
-#EXTINF:-1,group-title="🇨🇱CHILE",® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
-
-#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN 24horas CL (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
-#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN 24horas CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA TV CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 01 | D SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3309
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA TV CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TELETRECE T13 CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3311
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 02 | ESPN 6 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3312
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 03 | FOX SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3313
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 04 | ESPN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3526
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 05 | ESPN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3527
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 06 | TNT SPORTS CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3528
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® 07 | TNT SPORTS CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3530
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CLUB HIPICO CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CHILEVISION ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/130050
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CHILEVISION Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4852
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CANAL 13 ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3315
+
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® Canal 24 HORAS ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® Canal 24 HORAS ᶜᴴᶦᴸᴱ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® Canal 24 HORAS ᶜᴴᶦᴸᴱᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CNN CHILE ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3316
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® CNN ESPAÑOL ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3525
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4855
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA ᶜᴴᶦᴸᴱ ᴴᴰ  (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA ᶜᴴᶦᴸᴱ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® MEGA ᶜᴴᶦᴸᴱ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED CHILE Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4870
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® LA RED ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
 
-#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
-#EXTINF:-1,group-title="🇨🇱CHILE",® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TVN ᶜᴴᶦᴸᴱ ˢᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
 
-#EXTINF:-1,group-title="🇨🇱CHILE",® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
-#EXTINF:-1,group-title="🇨🇱CHILE",® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® TELETRAK ᶜᴴᶦᴸᴱ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
 
-#EXTINF:-1,group-title="🇨🇱CHILE",® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4909
-#EXTINF:-1,group-title="🇨🇱CHILE",® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱® UCV3 CL Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4909
 
 
@@ -3901,12 +3952,6 @@ https://redirector.dps.live/hls/inet2/index.m3u8
 https://redirector.dps.live/hls/inet2/mono.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ1
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ2
@@ -3917,7 +3962,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/index.m3u8
 #EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="🇨🇱CHILE",🇨🇱☑ UCL Ⓖ5
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/mono.m3u8
-
 
 
 
@@ -4466,6 +4510,48 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN MAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/ajstory1/UcZy6x84HL/3574
+
+
+
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7643.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt2)
@@ -4780,6 +4866,58 @@ http://mains.best:2086/3003556325/2772007/66587
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt1)
@@ -5154,193 +5292,212 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® AVIVAMIENTO ABN FHD (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® AVIVAMIENTO ABN FHD (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL CO (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL CO (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL CO (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL CO (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN MAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CARACOL NACIONAL (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4810
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INTERNACIONAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CARACOL INT NOTICIAS ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/ajstory1/UcZy6x84HL/3574
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CITY TV ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
+
+
+
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® AVIVAMIENTO ABN FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® AVIVAMIENTO ABN FHD (opt2)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135043
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CITY TV ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4867
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL CAPITAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL CAPITAL ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ | SUR
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4813
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS HD (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CABLE NOTICIAS HD (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS HD (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CABLE NOTICIAS HD (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CABLE NOTICIAS (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CABLE NOTICIAS (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CABLE NOTICIAS (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162551
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® Canal 90 MINUTOS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162551
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® SENAL COLOMBIANA | SUR (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® SENAL COLOMBIANA | SUR (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4875
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® SENAL COLOMBIANA | SUR (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® SENAL COLOMBIANA | SUR (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4875
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CAPITAL TV ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | ˢᵘᴿ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CAPITAL TV ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | ˢᵘᴿ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4849
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL CAPITAL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL CAPITAL ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135036
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL UNO ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴®® CANAL UNO ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3570
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL 2 CALI ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL 2 CALI ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135035
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL 2 UHD ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL 2 UHD ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135042
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131281
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® NTN24 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131281
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® NTN24 UHD® ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Int ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131280
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131140
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN Noticias ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131141
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NUESTRA TELE | Sᵘʳ Aᵐᵉʳⁱᶜᵃ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4811
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN + USA Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161679
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN 2 ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/137655
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135040
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL MUNDO MAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135040
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS ᶜᵒˡᵒᵐᵇⁱᵃ ᴴᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RCN NOVELAS | Nᵒᵛᵉˡᵃˢ Hᴰ (opt2)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4896
-
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162510
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® RED+ ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/162510
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEMEDELLIN ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEMEDELLIN ᶜᵒᴸ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELECARIBE ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELECARIBE ᶜᵒᴸ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEANTIOQUIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEPACIFICO ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® TELEPACIFICO ᶜᵒᴸ ᴴᴰ (opt2)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® 11 | TELECAFE HD
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® 11 | TELECAFE HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3580
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL Tele San Jacinto ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL Tele San Jacinto ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135041
 
-#EXTINF:-1,group-title="🇨🇴COLOMBIA",® CANAL TDI COLOMBIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴® CANAL TDI COLOMBIA ᶜᵒᴸᵒᴹᴮᶦᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135037
 
 
@@ -5703,9 +5860,11 @@ http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 01 🇪🇨 Ecuador 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ 00322.xyz ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸® ECDF EC (01)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3947
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145444
@@ -5718,31 +5877,45 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145446
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145490
 #EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ZAPPING SPORTS (ECU) LigaPro Ecuabet (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145491
-#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇺🇸 ZAPPING SPORTS (ECU) LigaPro Ecuabet (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ZAPPING SPORTS (ECU) LigaPro Ecuabet (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145492
 #EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF (ECU) (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145495
 #EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 D SPORTS (ECU) (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145496
 
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸® ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/132884
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸® ECDF EC (01)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3947
 
-
-
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® ECUADOR TV | SᵘʳAᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4821
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | ECUADOR TV (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® ECUADOR TV | SᵘʳAᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4821
 
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᴘᴏʀᴛs Sᴰᵀ | GOLTV EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᴘᴏʀᴛs Sᴰᵀ | GOLTV EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/125991
-
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | RTS ECUADOR (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® RTS ECUADOR | SᵘʳAᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4908
-#EXTINF:-1,group-title="🇪🇨ECUADOR",® Sᵘʳ Aᵐᵉʳⁱᶜᵃ | RTS ECUADOR (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® RTS ECUADOR | SᵘʳAᵐᵉʳⁱᶜᵃ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4908
-
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® TC TELEVISION EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2571
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® TC TELEVISION EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2572
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® TC TELEVISION EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3591
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® ANTENA UNO RADIO EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3592
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® OROMAR TV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3593
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® ECUADOR TV 7 EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3594
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® MAX TV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3595
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® ECOTEL TV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126538
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨® TVC EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/133667
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 02 🇪🇨 Ecuador 🌎📺
@@ -8324,45 +8497,79 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145452
 #EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV PLUS (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145453
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® TELEDOCE TELEMUNDO UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL 10 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3818
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL ONCE UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3819
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® TELEDOCE TELEMUNDO UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
 
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® ----- URUGUAY ------
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® LA RED (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL 4 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® LA RED (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL 4 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3825
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL 10 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3826
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® D SPORTS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV PLUS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV PLUS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
+
+
+
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® ----- URUGUAY ------
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® URY: MAROÑAS TV Uʀᴜɢᴜᴀʏ ᴴᴰ
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® URY: MAROÑAS TV Uʀᴜɢᴜᴀʏ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142016
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® URY: GOLTV HD ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® URY: GOLTV HD ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142017
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® URY: TV CIUDAD Uʀᴜɢᴜᴀʏ ᴴᴰ
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® URY: TV CIUDAD Uʀᴜɢᴜᴀʏ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142018
 
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® ----- DELUXE MUSIC ------
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® ----- DELUXE MUSIC ------
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 01 | CANAL 12 URUGUAY
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 01 | CANAL 12 URUGUAY
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 02 | CANAL 10 URUGUAY
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 02 | CANAL 10 URUGUAY
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3818
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 03 | CANAL 11 (Punta del Este)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 03 | CANAL 11 (Punta del Este)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3819
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 04 | CANAL 12 HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 04 | CANAL 12 HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 05 | LA RED HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 05 | LA RED HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 06 | MONTECARLO TV
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 06 | MONTECARLO TV
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 07 | TNU
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 07 | TNU
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3823
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 08 |  LA RED TV HD 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 08 |  LA RED TV HD 
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 09 | CANAL 4  MONTECARLO
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 09 | CANAL 4  MONTECARLO
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3825
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 10 | Canal 10 HD (Saeta)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 10 | Canal 10 HD (Saeta)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3826
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 11 | CANAL 3 ARTIGAS TV HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 11 | CANAL 3 ARTIGAS TV HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 12 | VTV Plus HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 12 | VTV Plus HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 13 | VTV HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 13 | VTV HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
-#EXTINF:-1,group-title="🇺🇾URUGUAY",® 14 | VTV + HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 14 | VTV + HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
 
 
@@ -9335,39 +9542,51 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇨🇺CUBA",🇲🇽☑ ADN 40 | News (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBAMAX TV CU (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126549
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TV MARTI CU (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126550
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TV MARTI CU (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126551
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CVI CU (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126552
+
+
+
+
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/161926
-#EXTINF:-1,group-title="🇨🇺CUBA",® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® AMERICATEVE ᴾᵁᴱᴿᵀᴼ ᴿⁱᶜᵒ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/161926.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBAMAX ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBAMAX ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148795
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBAMAX ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBAMAX ® ᴾʳᶦᵐᵉʳᵃ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/148795.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBA MAX PLAY | ᶜᵁᴮᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBA MAX PLAY | ᶜᵁᴮᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126549
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBA MAX PLAY | ᶜᵁᴮᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBA MAX PLAY | ᶜᵁᴮᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126549.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBAVISION INTER | ᶜᵁᴮᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBAVISION INTER | ᶜᵁᴮᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126552
-#EXTINF:-1,group-title="🇨🇺CUBA",® CUBAVISION INTER | ᶜᵁᴮᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® CUBAVISION INTER | ᶜᵁᴮᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126552.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇨🇺CUBA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® TELEMARTI | ᶜᵁᴮᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TELEMARTI | ᶜᵁᴮᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126550
-#EXTINF:-1,group-title="🇨🇺CUBA",® TELEMARTI | ᶜᵁᴮᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TELEMARTI | ᶜᵁᴮᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126550.m3u8
 
-#EXTINF:-1,group-title="🇨🇺CUBA",® TELE REBELDE | ᶜᵁᴮᴬ ᴴᴰ (opt1)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TELE REBELDE | ᶜᵁᴮᴬ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126551
-#EXTINF:-1,group-title="🇨🇺CUBA",® TELE REBELDE | ᶜᵁᴮᴬ ᴴᴰ (opt2)
+#EXTINF:-1 group-title="🇨🇺CUBA",🇨🇺® TELE REBELDE | ᶜᵁᴮᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126551.m3u8
 
 
@@ -10131,56 +10350,77 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇸🇻EL SALVADOR",🇲🇽☑ ADN 40 | News (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160929
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
-http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/160929.m3u8
-
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: Canal 19
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126541
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 2
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126544
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 19 MEGAVISION (HD)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160930
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 4
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SV+ PLUS SV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126539
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 4 SV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126540
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: Canal  21
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 19 SV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126541
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 4 SV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126542
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 6
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 6 SV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126543
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 12
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 2 SV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126544
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 12 SV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126545
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: CANAL 21
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SV+ PLUS TCS SV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126546
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® CANAL 4 SV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126548
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: EL CAMINO (opt1)
+
+
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160929
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: AWAPA SPORTS TV | Canal 15 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/160929.m3u8
+
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: Canal 19
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126541
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126544
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 19 MEGAVISION (HD)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160930
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 4
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126540
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: Canal  21
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126542
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 6
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126543
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 12
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126545
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: CANAL 21
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126548
+
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: EL CAMINO (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160928
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: EL CAMINO (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: EL CAMINO (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/160928.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: Legislative Assembly Salvador | CANAL 9 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: Legislative Assembly Salvador | CANAL 9 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/160931
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® SLV: Legislative Assembly Salvador | CANAL 9 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® SLV: Legislative Assembly Salvador | CANAL 9 Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/160931.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS FHD | EL SALVADOR (opt1)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS FHD | EL SALVADOR (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/141924
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS FHD | EL SALVADOR (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS FHD | EL SALVADOR (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/141924.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS EL SALVADOR HD (opt1)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS EL SALVADOR HD (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/141925
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS EL SALVADOR HD (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS EL SALVADOR HD (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/141925.m3u8
 
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS FHD | EL SALVADOR (opt1)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS FHD | EL SALVADOR (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/148954
-#EXTINF:-1,group-title="🇸🇻EL SALVADOR",® TIGO SPORTS FHD | EL SALVADOR (opt2)
+#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇸🇻® TIGO SPORTS FHD | EL SALVADOR (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/148954.m3u8
 
 
@@ -12622,64 +12862,85 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="🇵🇦PANAMA",🇲🇽☑ ADN 40 | News (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 2 (opt1)
+
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TV MAX PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126561
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® RPC PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126563
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126564
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126565
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126566
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TV MAX PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126567
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® SER TV PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126568
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126569
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® RPC PA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126570
+
+
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | CANAL 2 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126571
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 2 (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | CANAL 2 (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126571.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 4 (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | CANAL 4 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126570
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | CANAL 4 (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | CANAL 4 (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126570.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1,group-title="🇵🇦PANAMA",® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | MAS TV 23 (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | MAS TV 23 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126562
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | MAS TV 23 (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | MAS TV 23 (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126562.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | NEXT TV 21 (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | NEXT TV 21 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126561
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | NEXT TV 21 (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | NEXT TV 21 (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126561.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | RPC 4 (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | RPC 4 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126563
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | RPC 4 (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | RPC 4 (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126563.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | SER TV (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | SER TV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126568
-#EXTINF:-1,group-title="🇵🇦PANAMA",® PANAMA | SER TV (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® PANAMA | SER TV (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126568.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVMAX 9 HD PANAMA (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVMAX 9 HD PANAMA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126567
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVMAX 9 HD PANAMA (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVMAX 9 HD PANAMA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126567.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVN 2 PANAMA (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN 2 PANAMA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126564
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVN 2 PANAMA (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN 2 PANAMA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126564.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TELEMETRO 13 PANAMA (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO 13 PANAMA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126565
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TELEMETRO 13 PANAMA (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO 13 PANAMA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126565.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVN PANAMA (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN PANAMA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126566
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TVN PANAMA (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TVN PANAMA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126566.m3u8
 
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TELEMETRO 13 PANAMA (opt1)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO 13 PANAMA (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126569
-#EXTINF:-1,group-title="🇵🇦PANAMA",® TELEMETRO 13 PANAMA (opt2)
+#EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦® TELEMETRO 13 PANAMA (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126569.m3u8
 
 
