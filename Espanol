@@ -5930,11 +5930,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸® ECDF EC (01)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3947
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (01)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145444
-#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145445
-#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF EC (01)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145446
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",®🇪🇸 ECDF PPV (ECU) (opt1)
@@ -6700,6 +6698,11 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3333
 #EXTINF:-1 group-title="🇵🇪PERU",® CANAL N (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3333.m3u8
 
+#EXTINF:-1 group-title="🇵🇪PERU",® NATIVA TV PE (01)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145445
+#EXTINF:-1 group-title="🇵🇪PERU",® NATIVA TV PE (02)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145445.m3u8
+
 #EXTINF:-1 group-title="🇵🇪PERU",® RPP PE (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4845
 #EXTINF:-1 group-title="🇵🇪PERU",® RPP PE (opt2)
@@ -7024,7 +7027,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt3)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.ts 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt5)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.m3u8
 
@@ -7035,7 +7038,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt3)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7811
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt5)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.m3u8
 
