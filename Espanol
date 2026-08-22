@@ -8251,32 +8251,44 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® ----- URUGUAY ------
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
-#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt1)
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 FOX DEPORTES MX (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145429
-#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt2)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 FOX DEPORTES MX (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145429.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 AUF TV UY (opt3)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 FOX DEPORTES MX (opt3)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145429.ts
 
-#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV PLUS (opt1)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145452
-#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 VTV PLUS (opt1)
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 D SPORTS URUGUAY PREMIUMᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ (01)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145453
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 D SPORTS URUGUAY PREMIUMᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ (02)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145453.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",®🇪🇸 D SPORTS URUGUAY PREMIUMᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ (03)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145453.ts
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® D SPORTS UY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: D SPORTS HD ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: ZAPPING CHANNELᵁʳᵘᵍᵘᵃʸ (01)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142017
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV PLUS UY (opt1)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: ZAPPING CHANNELᵁʳᵘᵍᵘᵃʸ (02)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/142017.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: ZAPPING CHANNELᵁʳᵘᵍᵘᵃʸ (03)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/142017.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® D SPORTS URUGUAY PREMIUMᵁʳᵘᵍᵘᵃʸ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV UY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® VTV PLUS UY (opt1)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® D SPORTS URUGUAY PREMIUMᵁʳᵘᵍᵘᵃʸ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
 
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® LA RED (opt1)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® D SPORTS URUGUAY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® LA RED (opt1)
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸® D SPORTS URUGUAY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® CANAL 4 UY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
@@ -8293,40 +8305,40 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® TELEDOCE TELEMUNDO UY (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
 
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: MAROÑAS TV Uʀᴜɢᴜᴀʏ ᴴᴰ
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142016
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: MAROÑAS TV ᵁʳᵘᵍᵘᵃʸ ᴴᴰ
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142016ᵁʳᵘᵍᵘᵃʸ
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® UY: TV CIUDAD Uʀᴜɢᴜᴀʏ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/142018
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® ----- DELUXE MUSIC ------
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 01 | CANAL 12 URUGUAY
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 01 | CANAL 12 TELEMUNDO ᵁʳᵘᵍᵘᵃʸ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 02 | CANAL 10 URUGUAY
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 02 | CANAL 10 ᵁʳᵘᵍᵘᵃʸ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3818
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 03 | CANAL 11 (Punta del Este)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3819
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 04 | CANAL 12 HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 04 | CANAL 12 TELEMUNDO HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 05 | LA RED HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 05 | D SPORTS URUGUAY
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 06 | MONTECARLO TV
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 06 | CANAL 4  MONTECARLO TV
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 07 | TNU
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 07 | TNU 5
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3823
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 08 |  LA RED TV HD 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 08 |  D SPORTS URUGUAY 
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 09 | CANAL 4  MONTECARLO
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3825
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 10 | Canal 10 HD (Saeta)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3826
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 11 | CANAL 3 ARTIGAS TV HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 11 | D SPORTS URUGUAY
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 12 | VTV Plus HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 12 | D SPORTS URUGUAY PREMIUM
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 13 | VTV HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 14 | VTV + HD
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾® 14 | D SPORTS URUGUAY PREMIUM
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
 
 
@@ -8340,30 +8352,14 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 1 LaQuintaTribuna SD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_1.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 4 LaQuintaTribuna HD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_4.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾ᵁʳᵘᵍᵘᵃʸ AUF TV 5 LaQuintaTribuna FHD UY (ONLY EVENT)
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index_5.m3u8
-
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Vive Kanal D Drama | E!                                       
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇺🇾URUGUAY",🇺🇾☑ France 24 Español | News   
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇺🇾URUGUAY",🇺🇾☑ CGTN Español | News (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇺🇾URUGUAY",🇺🇾☑ DW Español | News       
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇺🇾URUGUAY",🇺🇾☑ Garage TV Latin America | Auto
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT TV CO | E!
-http://telecaster.teveo.com.co/live/AeABX7GFvWWgo_fR9dBvTjk5Dax9Db5PhjCFZv-705cSZxv818B2kQ6QYQ5bDjLsLuAfjEqtcJ-MyGpfTOmTFw/playlist.m3u8
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇨🇴☑ UH ULTRAHIT LATINO CO | Music
-http://telecaster.teveo.com.co/live/AeABegTv3YDr47uXr5_SSIqLRkWSCTYCuGMYHOqlcKj9kX3yFT3Ntc3j2zj__LiSZocJI9BJnaY6dp9HuXRumg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 C 🇺🇾 URUGUAY 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
