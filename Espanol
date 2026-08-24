@@ -7,6 +7,30 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7621.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7621.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7621
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt4)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7621.mpd
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt5)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7621.m3u
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7621
+
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7620.m3u8
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7620.ts
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7620.m3u87620
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt4)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.mpd
+
+
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3567
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt2)
@@ -37,29 +61,6 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7404
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Argentinísima Satelital ᴬᴿᴳ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7404.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7621.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7621.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7621
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7621.mpd
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt5)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7621.m3u
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt6)
-http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7621
-
-
-
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7620.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7620.ts
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7620.m3u87620
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.mpd
 
 
 
@@ -67,6 +68,34 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.mpd
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7625.m3u8
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7625.ts
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7625
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt4)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7625.mpd
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7642.m3u8
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt2)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7642.m3u8
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt3)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7642.m3u8
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt4)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7642.mpd
+
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.m3u8
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.ts
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/355
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt3)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.mpd
+
 
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CRONICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt1)
@@ -128,33 +157,6 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7419
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® CUMBRE TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7430
 
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7625.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7625.ts
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7625
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7625.mpd
-
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7642.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt2)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7642.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7642.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7642.mpd
-
-
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.m3u8
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.ts
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt3)
-http://disfruta.net:80/fpavas/raZFGMA7GT/355
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt3)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/355.mpd
 
 
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇦🇷ARGENTINA",🇦🇷☑ Canal Garage TV Latin America | Auto
@@ -233,15 +235,14 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135045
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt2)
-http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/135045.m3u8
-
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
-http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7624.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt2)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7624.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt3)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7624.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt4)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7624.mpd
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳ ᴴᴰ (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3564
@@ -252,16 +253,6 @@ http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3564.m3u8
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7406
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® Encuentro ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ (opt2)
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7406.m3u8
-
-
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7624.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt2)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7624.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7624.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7624.mpd
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷* AR | ENCUENTRO *HQ (opt1)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/491.m3u8
@@ -276,6 +267,16 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/526.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/526.ts
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷* AR | ENCUENTRO *HD (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/526
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/135045
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® EXTREMA TV ˢᵒʸ ᵀⁱᶜᵒ ᴴᴰ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/135045.m3u8
+
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4937
+#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝EXTREMA TV|CINE CR (opt1) 
@@ -816,7 +817,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/545
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇦🇷ARGENTINA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇦🇷 02 🇦🇷 Argentina 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇦🇷ARGENTINA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇦🇷 01 🇦🇷 Argentina 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇦🇷ARGENTINA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdplay ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3495,13 +3496,6 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/413e9de6-3f30-46a9-a6e0-dca5053ace50.m3
 #EXTINF:-1 tvg-id="" tvg-name="CL | TVN FHD" tvg-logo="https://i.ibb.co/M5R81F6J/images-q-tbn-ANd9-Gc-Rryn3-Xn-HQs7z8szc-R8i1n9u867-Qjf-X5bd-Pqg-s.png" group-title="🇨🇱CHILE",🇨🇱 TVN FHD
 http://xsport1.me/live/fpavas/raZFGMA7GT/413e9de6-3f30-46a9-a6e0-dca5053ace50.ts
 
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/295.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/295.ts
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/295
-
 #EXTINF:-1 tvg-id="" tvg-name="CL | TVN SD" tvg-logo="https://i.ibb.co/M5R81F6J/images-q-tbn-ANd9-Gc-Rryn3-Xn-HQs7z8szc-R8i1n9u867-Qjf-X5bd-Pqg-s.png" group-title="🇨🇱CHILE",🇨🇱 TVN SD
 http://xsport1.me/live/fpavas/raZFGMA7GT/c085846d-71e8-4bfb-b34d-2bfbb1180912.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CL | TVN SD" tvg-logo="https://i.ibb.co/M5R81F6J/images-q-tbn-ANd9-Gc-Rryn3-Xn-HQs7z8szc-R8i1n9u867-Qjf-X5bd-Pqg-s.png" group-title="🇨🇱CHILE",🇨🇱 TVN SD
@@ -3512,12 +3506,36 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/cbbcd7a5-42dd-45bc-89d0-c288bdd5a2b9.m3
 #EXTINF:-1 tvg-id="" tvg-name="CL | T13 HD" tvg-logo="https://i.ibb.co/sdHV7ydJ/t13.jpg" group-title="🇨🇱CHILE",🇨🇱 T13 HD
 http://xsport1.me/live/fpavas/raZFGMA7GT/cbbcd7a5-42dd-45bc-89d0-c288bdd5a2b9.ts
 
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/295.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/295.ts
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/295
+
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL |BioBio | Tele 13 HD
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/281.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/281.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/281
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports HD" tvg-logo="https://i.ibb.co/HpD69d9x/tntsports3.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/6f76d5fe-385c-4ce4-bc74-f0127d755027.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports HD" tvg-logo="https://i.ibb.co/HpD69d9x/tntsports3.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/6f76d5fe-385c-4ce4-bc74-f0127d755027.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium FHD*" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports Premium FHD*
+http://xsport1.me/live/fpavas/raZFGMA7GT/9c5b932a-20d3-4bc6-8d88-13b043b47378.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium FHD*" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports Premium FHD*
+http://xsport1.me/live/fpavas/raZFGMA7GT/9c5b932a-20d3-4bc6-8d88-13b043b47378.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD* [2]" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD* [2]
+http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD* [2]" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD* [2]
+http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.ts
+
 
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | TV CHILE *HQ
@@ -3610,23 +3628,6 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/42335.m3u8
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/42335.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* TNT SPORTS PREMIUM CHILE *FHD
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/42335
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports HD" tvg-logo="https://i.ibb.co/HpD69d9x/tntsports3.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/6f76d5fe-385c-4ce4-bc74-f0127d755027.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports HD" tvg-logo="https://i.ibb.co/HpD69d9x/tntsports3.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/6f76d5fe-385c-4ce4-bc74-f0127d755027.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium FHD*" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports Premium FHD*
-http://xsport1.me/live/fpavas/raZFGMA7GT/9c5b932a-20d3-4bc6-8d88-13b043b47378.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium FHD*" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports Premium FHD*
-http://xsport1.me/live/fpavas/raZFGMA7GT/9c5b932a-20d3-4bc6-8d88-13b043b47378.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD* [2]" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD* [2]
-http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD* [2]" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD* [2]
-http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.ts
-
 
 #EXTINF:-1,TIGO SPORTS COSTA RICA *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
@@ -3732,7 +3733,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/75866.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 02 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 01 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -4305,6 +4306,57 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 02 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ disfruta♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 24 HORAS
+http://disfruta.net:80/fpavas/raZFGMA7GT/276
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/277
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 13C HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/280
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/278
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV 
+http://disfruta.net:80/fpavas/raZFGMA7GT/283
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV *FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/282
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | ETC TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/285
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/281
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/295
+
+
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 24 HORAS
+http://xsport1.me/live/fpavas/raZFGMA7GT/276.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 *HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/277.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 13C HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/280.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 FHD
+http://xsport1.me/live/fpavas/raZFGMA7GT/278.m3u8
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV 
+http://xsport1.me/live/fpavas/raZFGMA7GT/283.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV *FHD
+http://xsport1.me/live/fpavas/raZFGMA7GT/282.m3u8
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | ETC TV
+http://xsport1.me/live/fpavas/raZFGMA7GT/285.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/281.m3u8
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/295.m3u8
+
+
 
 
 
@@ -4492,58 +4544,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52713.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/93965.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱* CL | DIRECTV NEWS *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97036.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇱CHILE",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 04 🇨🇱 ᶜᴴᶦᴸᴱ 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇱CHILE",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ disfruta♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 24 HORAS
-http://disfruta.net:80/fpavas/raZFGMA7GT/276
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 *HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/277
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 13C HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/280
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 FHD
-http://disfruta.net:80/fpavas/raZFGMA7GT/278
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV 
-http://disfruta.net:80/fpavas/raZFGMA7GT/283
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV *FHD
-http://disfruta.net:80/fpavas/raZFGMA7GT/282
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | ETC TV
-http://disfruta.net:80/fpavas/raZFGMA7GT/285
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/281
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/295
-
-
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 24 HORAS
-http://xsport1.me/live/fpavas/raZFGMA7GT/276.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 *HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/277.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | 13C HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/280.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CANAL 13 FHD
-http://xsport1.me/live/fpavas/raZFGMA7GT/278.m3u8
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV 
-http://xsport1.me/live/fpavas/raZFGMA7GT/283.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | CHV *FHD
-http://xsport1.me/live/fpavas/raZFGMA7GT/282.m3u8
-
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | ETC TV
-http://xsport1.me/live/fpavas/raZFGMA7GT/285.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | Tele 13 HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/281.m3u8
-#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱CL | TVN *HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/295.m3u8
 
 
 
