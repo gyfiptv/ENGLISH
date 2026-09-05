@@ -1948,22 +1948,22 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7621.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7621.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7621
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7621
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7621.mpd
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7621.m3u
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt5)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7621.m3u
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt6)
-http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7621
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7621.mpd
 
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7620.m3u8
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7620.ts
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7620.m3u87620
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7620.m3u87620
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.mpd
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7620.m3u
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt5)
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7620.mpd
 
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷® AMERICA TV ᴬᴿᴳ ᴴᴰ (opt1)
@@ -2009,7 +2009,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7625.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7625.ts
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7625
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7625
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CIUDAD MAGAZINE AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7625.mpd
 
@@ -2018,7 +2018,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7642.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7642.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7642.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7642.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ CINE AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7642.mpd
 
@@ -2123,7 +2123,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/7421
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/7421.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS | DIRECTV (opt3)
@@ -2132,7 +2132,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇦🇷ARGENTINA",🇦🇷★ D SPORTS 2 | DIRECTV (opt3)
@@ -2173,9 +2173,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7624.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt2)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7624.m3u8
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7624.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7624.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7624.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷ARGENTINA",🇦🇷★ ENCUENTRO AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7624.mpd
 
@@ -2217,18 +2217,18 @@ http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4937.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝EXTREMA TV|CINE CR (opt1) 
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝EXTREMA TV|CINE CR (opt2)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7188.ts
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio20227188.ts
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7188
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.mpd
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝ENLACE TV CR|US (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝ENLACE TV CR|US (opt2)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7494.ts
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio20227494.ts
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ ✝ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
@@ -2450,7 +2450,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7493.m3u8
 #EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA",🇦🇷★ TVP AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7493.ts
 #EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA",🇦🇷★ TVP AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7493
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7493
 #EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA",🇦🇷★ TVP AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7493.mpd
 
@@ -2490,7 +2490,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ TELEFE AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7630.ts
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ TELEFE AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7630
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7630
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ TELEFE AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7630.mpd
 
@@ -2574,7 +2574,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7627.m3u8
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ elnueve | TELENUEVE C9 AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7627.ts
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ elnueve | TELENUEVE C9 AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7627
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7627
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ elnueve | TELENUEVE C9 AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7627.mpd
 
@@ -2585,7 +2585,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7622.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷★ EL TRECE AR (opt2)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7622.ts
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷★ EL TRECE AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7622
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7622
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷ARGENTINA",🇦🇷★ EL TRECE AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7622.mpd
 
@@ -2622,12 +2622,10 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7821.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ TyC SPORTS INT (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7821.ts 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ TyC SPORTS INT (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7821
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7821
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ TyC SPORTS INT (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7821.mpd
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ TyC SPORTS INT (opt5)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7821.m3u
-#EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ TyC SPORTS INT (opt6)
 http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7821
 
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷☆ TYC SPORTS (opt1) 
@@ -2737,7 +2735,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7626.m3u8
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ VOLVER AR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7626.ts
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ VOLVER AR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7626
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7626
 #EXTINF:-1 group-title="🇦🇷ARGENTINA",🇦🇷★ VOLVER AR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7626.mpd
 
@@ -3227,7 +3225,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS | DIRECTV (opt3)
@@ -3236,7 +3234,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 tvg-logo="" group-title="🇧🇴BOLIVIA",🇧🇴★ D SPORTS 2 | DIRECTV (opt3)
@@ -3396,7 +3394,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ EXTREMA TV|CINE CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.ts
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7188
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.mpd
 
@@ -3405,7 +3403,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ ENLACE TV CR|US (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 group-title="🇧🇴BOLIVIA",🇧🇴★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
@@ -5182,7 +5180,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS | DIRECTV (opt3)
@@ -5191,7 +5189,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
 
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ D SPORTS 2 | DIRECTV (opt3)
@@ -5259,7 +5257,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ EXTREMA TV|CINE CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7188
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.mpd
 
@@ -5268,7 +5266,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ ENLACE TV CR|US (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
@@ -5309,7 +5307,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7628.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7628
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7628
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ LA RED CL (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7628.mpd
 
@@ -5647,7 +5645,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7623.m3u8
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ VERTICE TV | Vtv CL (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7623.ts
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ VERTICE TV | Vtv CL (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7623
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7623
 #EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱★ VERTICE TV | Vtv CL (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7623.mpd
 
@@ -6505,12 +6503,10 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7643.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7643.ts
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7643
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7643
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7643.m3u
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7643.ts
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt4)
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt5)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7643.mpd
 
 
@@ -6722,7 +6718,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7641.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CITY TV CO (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7641.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CITY TV CO (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7641
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CITY TV CO (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7641.mpd
 
@@ -6731,7 +6727,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7444.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CNN EN ESPANOL ES (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7444.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CNN EN ESPANOL ES (opt3)
-http://alfa.7057460.xyz:2095/miguelandrade2/adaltv123/7444
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7444
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ CNN EN ESPANOL ES (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7444.mpd
 
@@ -6762,7 +6758,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS | DIRECTV (opt3)
@@ -6771,7 +6767,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ D SPORTS 2 | DIRECTV (opt3)
@@ -6829,7 +6825,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ EXTREMA TV|CINE CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7188
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.mpd
 
@@ -6838,7 +6834,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ ENLACE TV CR|US (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
@@ -6980,7 +6976,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7646.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7646.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7646
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7646.m3u
 
@@ -7253,7 +7249,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7645.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEANTIOQUIA CO (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7645.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEANTIOQUIA CO (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7645
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEANTIOQUIA CO (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7645.mpd
 
@@ -7271,7 +7267,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7157.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEPACIFICO CO (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7157.ts
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEPACIFICO CO (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7157
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴★ TELEPACIFICO CO (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7157.mpd
 
@@ -7304,7 +7300,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7826.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7826.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS (opt2) 
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7826.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS (opt3)
@@ -7314,7 +7310,7 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7826.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS+ Plus (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7827.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7827.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS+ Plus (opt2) 
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7827.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS+ Plus (opt3)
@@ -7850,7 +7846,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40017
 
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt3)
@@ -7859,7 +7855,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt3)
@@ -8090,7 +8086,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/9319.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9319.ts
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/9319.ts
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt3)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/9319
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt4)
@@ -8274,7 +8270,7 @@ http://mains.services:2086/507Vej3h3S/4632273/66592
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt3) 
 http://mains.best:2086/3003556325/2772007/66592 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt4) 
-http://mains.services:2086/live/507Vej3h3S/4632273/66592.m3u8
+http://mains.services:2086/live/4523074511/3178768/66592.m3u8
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪®----- TV LATINO ------
 http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3816.ts
@@ -8306,7 +8302,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7634.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ ATV+ PE (opt2) 
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7634.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ ATV+ PE (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7634
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7634
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ ATV+ PE (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7634.mpd
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ ATV+ PE (opt5)
@@ -8336,7 +8332,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7441.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="🇵🇪PERU",🇵🇪★ AMERICA PE (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7441.ts
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="🇵🇪PERU",🇵🇪★ AMERICA PE (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7441
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7441
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="🇵🇪PERU",🇵🇪★ AMERICA PE (opt4)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7441.mpd
 
@@ -8499,7 +8495,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt3)
@@ -8507,10 +8503,10 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7815
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt4)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.ts 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.m3u8
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u8
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt3)
@@ -8518,7 +8514,7 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7811
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt4)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.m3u8
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.m3u8
 
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt1)
@@ -9014,9 +9010,9 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7632.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ PANAMERICANA TELEVISION (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7632.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ PANAMERICANA TELEVISION (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7632
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7632
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ PANAMERICANA TELEVISION (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7632.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7632.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="🇵🇪PERU",🇵🇪☆ LATINO : PERU MAGICO | CANAL N (opt1)
@@ -9026,7 +9022,7 @@ http://mains.services:2086/507Vej3h3S/4632273/66591
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="🇵🇪PERU",🇵🇪☆ LATINO : PERU MAGICO | CANAL N (opt3) 
 http://mains.best:2086/3003556325/2772007/66591 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="🇵🇪PERU",🇵🇪☆ LATINO : PERU MAGICO | CANAL N (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/66591
+http://mains.services:2086/4523074511/3178768/66591
 
 
 
@@ -9086,7 +9082,7 @@ http://mains.services:2086/507Vej3h3S/4632273/66592
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt3) 
 http://mains.best:2086/3003556325/2772007/66592 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/66592
+http://mains.services:2086/4523074511/3178768/66592
 
 
 
@@ -9198,9 +9194,9 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1132
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ TV PERU (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7637.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ TV PERU (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7637.m3u8
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7637.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ TV PERU (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7637.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7637.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="🇵🇪PERU",🇵🇪★ TV PERU (opt4)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7637
 
@@ -9208,9 +9204,9 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7637
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ TV PERU INTERNACIONAL
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7637.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ TV PERU INTERNACIONAL
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7637.ts
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7637.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ TV PERU INTERNACIONAL
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7637
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7637
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ TV PERU INTERNACIONAL
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7637.mpd
 
@@ -9279,9 +9275,9 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7633.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ WILLAX PE (opt2) 
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7633.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ WILLAX PE (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7633
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7633
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ WILLAX PE (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7633.mpd
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7633.mpd
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ WILLAX PE (opt5)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7633.m3u8
 
@@ -9936,7 +9932,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS | DIRECTV (opt3)
@@ -9947,7 +9943,7 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 tvg-logo="" group-title="🇵🇾PARAGUAY",🇪🇸★ D SPORTS 2 | DIRECTV (opt3)
@@ -10302,27 +10298,27 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7631.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7631
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7631
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7631.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7631.mpd
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7635.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7635
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7635
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7635.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7635.mpd
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7636.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7636
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7636
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7636.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7636.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 U 🇺🇾 Uruguay 🌎📺
@@ -10354,9 +10350,9 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7618.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7618
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7618
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt4)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7618.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7618.mpd
 
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
@@ -10364,9 +10360,9 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7619.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7619
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7619
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt4)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7619.mpd
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7619.mpd
 
 
 
@@ -10396,7 +10392,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt3)
@@ -10407,7 +10403,7 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt3)
@@ -10809,7 +10805,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt3)
@@ -10820,7 +10816,7 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt3)
@@ -11310,7 +11306,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ EXTREMA TV|CINE CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.ts
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7188
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.mpd
 
@@ -11319,7 +11315,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ ENLACE TV CR|US (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
@@ -11832,7 +11828,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7648.m3u8
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7648.ts
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7648
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7648
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt4)
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7648.mpd
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt5)
@@ -11843,7 +11839,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7651.m3u8
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ CANAL 8 CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7651.ts
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ CANAL 8 CR (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7651
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7651
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ CANAL 8 CR (opt4)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7651.mpd
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ CANAL 8 CR (opt5)
@@ -11854,7 +11850,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7650.m3u8
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7650.ts
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7650
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7650
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt4)
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7650.mpd
 #EXTINF:-1 group-title="🇨🇷COSTA RICA",🇨🇷★ TELETICA 7 CR (opt5)
@@ -13269,7 +13265,7 @@ http://mains.services:2086/live/3003556325/2772007/66597.ts
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt3)
 http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
-http://mains.services:2086/640939802963/IDC01478!/66597
+http://mains.services:2086/4523074511/3178768/66597
 
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt1)
@@ -13814,7 +13810,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7617.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ a mas+ (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7617.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ a mas+ (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7617
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7617
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ a mas+ (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7617.m3u
 
@@ -14000,7 +13996,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7188.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ EXTREMA TV|CINE CR (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ EXTREMA TV|CINE CR (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7188
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7188
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ EXTREMA TV|CINE CR (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7188.m3u
 
@@ -14009,7 +14005,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ ENLACE TV CR|US (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ ENLACE TV CR|US (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7494
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7494
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ ENLACE TV CR|US (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.m3u
 
@@ -14040,7 +14036,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7605.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ GALA VISION (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7605.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ GALA VISION (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7605
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7605
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ GALA VISION (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7605.m3u
 
@@ -14109,7 +14105,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7603.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7603.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7603.m3u8
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7603.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7603.m3u
 
@@ -14118,7 +14114,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7604.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7604.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7604
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7604
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ TELEMUNDO (opt4)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7604.m3u
 
@@ -14152,7 +14148,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7611.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7611.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7611.m3u
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7611.m3u
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt4)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7611
 
@@ -14161,7 +14157,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7612.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7612.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7612.m3u
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7612.m3u
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIVISION (opt4)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7612
 
@@ -14170,7 +14166,7 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7608.m3u8
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIMAS (opt2)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7608.ts
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIMAS (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7608.m3u
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7608.m3u
 #EXTINF:-1 group-title="🇲🇽MEXICO",★ UNIMAS (opt4)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7608
 
@@ -15051,7 +15047,7 @@ http://mains.services:2086/live/3003556325/2772007/66597.ts
 #EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt3)
 http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇵🇦PANAMA",🇵🇦☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
-http://mains.services:2086/640939802963/IDC01478!/66597
+http://mains.services:2086/4523074511/3178768/66597
 
 
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="🇵🇦PANAMA",🇵🇦☑ Hosanna Vision (720p) [Religious]
