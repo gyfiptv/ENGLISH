@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 #EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -4658,6 +4658,559 @@ http://pfsv.io:80/6181288/27664/123517.ts
 http://pfsv.io:80/6181288/27664/130227.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇧🇷BRASIL",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇧🇷 01 🇧🇷 Brasil 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇧🇷BRASIL",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,BR : A & E
+http://mains.services/live/4523074511/3178768/b9b17393-f588-409f-bbff-9bd4f4f66ed4.m3u
+#EXTINF:-1,BR : AMC
+http://mains.services/live/4523074511/3178768/17c2fbb8-c85b-4186-82fd-190048eb4e3e.m3u
+#EXTINF:-1,BR : ANIMAL PLANET
+http://mains.services/live/4523074511/3178768/9acfe181-6726-49f6-ac33-3965393e4c40.m3u
+#EXTINF:-1,BR : AXN
+http://mains.services/live/4523074511/3178768/843fc52b-0882-4a04-8269-d8bec4790191.m3u
+#EXTINF:-1,BR : BAND
+http://mains.services/live/4523074511/3178768/c2a43bc8-0dba-40be-aa36-b30810111959.m3u
+#EXTINF:-1,BR : BAND NEWS
+http://mains.services/live/4523074511/3178768/295dfb51-3981-4140-a637-38368c16344b.m3u
+#EXTINF:-1,BR : BAND SP
+http://mains.services/live/4523074511/3178768/133b2357-6bc2-4175-aad3-412a89210538.m3u
+#EXTINF:-1,BR : BOOMERANG
+http://mains.services/live/4523074511/3178768/ec4a816d-27c0-46b3-a2dd-a16b2403617a.m3u
+#EXTINF:-1,BR : CARTOON NETWORK
+http://mains.services/live/4523074511/3178768/388f8bb5-fa97-4ddd-a24c-1643a7753b53.m3u
+#EXTINF:-1,BR : CINEMAX
+http://mains.services/live/4523074511/3178768/29424435-b864-41bc-b46b-e761e4f9c3f3.m3u
+#EXTINF:-1,BR : COMBATE
+http://mains.services/live/4523074511/3178768/7a9a0ca3-9529-4846-8b84-684dcdd04961.m3u
+#EXTINF:-1,BR : COMEDY CENTRAL
+http://mains.services/live/4523074511/3178768/02cc94ce-a40f-4a7d-b2f3-017079768db3.m3u
+#EXTINF:-1,BR : DISCOVERY CHANNEL
+http://mains.services/live/4523074511/3178768/54edd6ed-5214-448a-a39c-b359c571a0b5.m3u
+#EXTINF:-1,BR : DISCOVERY CIVILIZATION
+http://mains.services/live/4523074511/3178768/453071c4-1755-448b-9fbb-105e16a6e752.m3u
+#EXTINF:-1,BR : DISCOVERY HOME & HEALTH
+http://mains.services/live/4523074511/3178768/1e34585a-fc25-4227-a23d-73da6517675d.m3u
+#EXTINF:-1,BR : DISCOVERY KIDS
+http://mains.services/live/4523074511/3178768/ee36d1f2-5706-41cc-9ccd-3538d9062924.m3u
+#EXTINF:-1,BR : DISCOVERY THEATER
+http://mains.services/live/4523074511/3178768/7849c62e-d0b0-4a6e-880e-d7828d5f3deb.m3u
+#EXTINF:-1,BR : DISCOVERY TURBO
+http://mains.services/live/4523074511/3178768/89769f66-8a86-47b4-af82-3c6dca0db3f9.m3u
+#EXTINF:-1,BR : DISCOVERY WORLD
+http://mains.services/live/4523074511/3178768/e30bef40-0105-4b28-99b6-dd17dd9423f3.m3u
+#EXTINF:-1,BR : DISNEY CHANNEL
+http://mains.services/live/4523074511/3178768/b26ac006-1123-410f-9d85-ad5cacf1f334.m3u
+#EXTINF:-1,BR : ESPN
+http://mains.services/live/4523074511/3178768/27c5dfb7-d907-4d0a-aa71-5496902dfebd.m3u
+#EXTINF:-1,BR : ESPN 2
+http://mains.services/live/4523074511/3178768/d9df222d-248f-496e-83f4-d5488188dcca.m3u
+#EXTINF:-1,BR : ESPN BRASIL
+http://mains.services/live/4523074511/3178768/8a042469-968e-46a2-a8ad-8125792d46f9.m3u
+#EXTINF:-1,BR : FOOD NETWORK
+http://mains.services/live/4523074511/3178768/ce5c7446-bf5a-4b7d-ae2e-1e9ee09fb118.m3u
+#EXTINF:-1,BR : FOX SPORTS 1
+http://mains.services/live/4523074511/3178768/ecfb832f-c3b8-44f5-a69e-ab16f7cd50d2.m3u
+#EXTINF:-1,BR : FOX SPORTS 2
+http://mains.services/live/4523074511/3178768/fad15147-a65e-4ede-ae74-f6eb1b4050a2.m3u
+#EXTINF:-1,BR : GLOBO BRASILIA
+http://mains.services/live/4523074511/3178768/f6a42827-9756-400c-a7fa-2c8a25fc8695.m3u
+#EXTINF:-1,BR : GLOBO MINAS
+http://mains.services/live/4523074511/3178768/b2d8bf60-743f-4dab-a0f9-b18d9589deba.m3u
+#EXTINF:-1,BR : GLOBO NEWS
+http://mains.services/live/4523074511/3178768/7a511433-102d-4382-acd5-48ee9a7a54f4.m3u
+#EXTINF:-1,BR : GLOBOSAT
+http://mains.services/live/4523074511/3178768/c7196941-0253-4271-983d-ebdae4c63c80.m3u
+#EXTINF:-1,BR : GLOOB
+http://mains.services/live/4523074511/3178768/c4615841-37a9-4253-9314-9333b71563ab.m3u
+#EXTINF:-1,BR : GNT
+http://mains.services/live/4523074511/3178768/52edd68a-6c9f-48d8-99bb-eeb399c7e051.m3u
+#EXTINF:-1,BR : H2
+http://mains.services/live/4523074511/3178768/12761dc2-530e-45cf-ac72-036e892c1517.m3u
+#EXTINF:-1,BR : HBO
+http://mains.services/live/4523074511/3178768/9bed8dec-2520-4a57-a84f-a6da08462b7d.m3u
+#EXTINF:-1,BR : HBO FAMILY
+http://mains.services/live/4523074511/3178768/a0e9f609-2974-475c-8998-8977161e6694.m3u
+#EXTINF:-1,BR : HBO PLUS
+http://mains.services/live/4523074511/3178768/93303bad-9af4-4738-b6e7-97781140779c.m3u
+#EXTINF:-1,BR : HBO SIGNATURE
+http://mains.services/live/4523074511/3178768/025f1b7e-3921-43b2-8731-9bec213341ed.m3u
+#EXTINF:-1,BR : HISTORY CHANNEL
+http://mains.services/live/4523074511/3178768/4469b67d-3274-4485-94c6-336029e20995.m3u
+#EXTINF:-1,BR : INVESTIGACAO DISCOVERY
+http://mains.services/live/4523074511/3178768/44aece7f-ca30-4d55-8f5d-1c9ef09e2bd2.m3u
+#EXTINF:-1,BR : LIFETIME
+http://mains.services/live/4523074511/3178768/68fd0949-6edc-4f03-a5e1-a9e80b32cfd7.m3u
+#EXTINF:-1,BR : MEGAPIX
+http://mains.services/live/4523074511/3178768/bdb9168c-97d4-4e9a-97b6-d77e44a16073.m3u
+#EXTINF:-1,BR : MTV
+http://mains.services/live/4523074511/3178768/f6a02b0d-b8d6-49d6-b873-c6004dfad8b6.m3u
+#EXTINF:-1,BR : MULTISHOW
+http://mains.services/live/4523074511/3178768/2006cf3b-83f2-4604-996e-1a39cf650123.m3u
+#EXTINF:-1,BR : NAT GEO
+http://mains.services/live/4523074511/3178768/b70446fa-8906-447f-9344-f4bd8c2a0ca9.m3u
+#EXTINF:-1,BR : NAT GEO KIDS
+http://mains.services/live/4523074511/3178768/e33a5c6f-4192-4024-86c4-367d59aef670.m3u
+#EXTINF:-1,BR : NATGEO WILD
+http://mains.services/live/4523074511/3178768/298901d9-dc7b-4101-b0b4-a42c323191d6.m3u
+#EXTINF:-1,BR : NICK JR
+http://mains.services/live/4523074511/3178768/d0f2eae7-c6ab-4690-81aa-8a42dcc8b769.m3u
+#EXTINF:-1,BR : NICKELODEON
+http://mains.services/live/4523074511/3178768/779a848b-0a2f-464a-98f9-dede69aeefae.m3u
+#EXTINF:-1,BR : OFF
+http://mains.services/live/4523074511/3178768/0d69ee9b-dae8-4f34-8f7a-4cf989d34e20.m3u
+#EXTINF:-1,BR : PARAMOUNT CHANNEL
+http://mains.services/live/4523074511/3178768/63f70a0b-ae50-482a-bd19-78f60de1d7e1.m3u
+#EXTINF:-1,BR : PREMIERE 2
+http://mains.services/live/4523074511/3178768/45a57846-dc1c-4f93-b20d-c749497b03f5.m3u
+#EXTINF:-1,BR : PREMIERE 3
+http://mains.services/live/4523074511/3178768/aedc4165-2501-492b-8db0-ba90fbf86f79.m3u
+#EXTINF:-1,BR : PREMIERE 4
+http://mains.services/live/4523074511/3178768/975f8410-60c3-4722-9c36-b3287392ce1e.m3u
+#EXTINF:-1,BR : PREMIERE 5
+http://mains.services/live/4523074511/3178768/ce3cb5cc-13fb-4132-9617-d972331d5a4f.m3u
+#EXTINF:-1,BR : PREMIERE CLUBES
+http://mains.services/live/4523074511/3178768/8d211317-658e-4b06-b43e-b41b0d7ed18a.m3u
+#EXTINF:-1,BR : RECORD
+http://mains.services/live/4523074511/3178768/9e732f13-534a-4285-a873-2adadc9a9f63.m3u
+#EXTINF:-1,BR : RECORD SP
+http://mains.services/live/4523074511/3178768/4b9d3a7d-fab7-4980-adc2-45a683abf6ef.m3u
+#EXTINF:-1,BR : REDE NEW
+http://mains.services/live/4523074511/3178768/e4490d07-8ec8-4975-9fd0-b08f30be450e.m3u
+#EXTINF:-1,BR : REDE TV
+http://mains.services/live/4523074511/3178768/831f4706-dd3c-4e63-9dbb-6ae1b40e22e0.m3u
+#EXTINF:-1,BR : SPACE
+http://mains.services/live/4523074511/3178768/a1f6910a-4bc2-448a-b0a5-04163e345e7c.m3u
+#EXTINF:-1,BR : SPORTV
+http://mains.services/live/4523074511/3178768/87386168-3400-4874-a415-730305d07c2f.m3u
+#EXTINF:-1,BR : SPORTV 1
+http://mains.services/live/4523074511/3178768/05948dce-a531-4173-af20-ba93e74f60e1.m3u
+#EXTINF:-1,BR : SPORTV 2
+http://mains.services/live/4523074511/3178768/63f9f761-7c36-46ed-999d-994a3d01e058.m3u
+#EXTINF:-1,BR : SPORTV 3
+http://mains.services/live/4523074511/3178768/521b40df-65ca-47d9-873e-f52c9cca5999.m3u
+#EXTINF:-1,BR : STUDIO UNIVERSAL
+http://mains.services/live/4523074511/3178768/2253901f-c044-4af2-87a1-fd191d03d9ae.m3u
+#EXTINF:-1,BR : SYFY
+http://mains.services/live/4523074511/3178768/5f3a2f9f-906c-4d0d-87c5-fe1b914d6851.m3u
+#EXTINF:-1,BR : TELECINE ACTION
+http://mains.services/live/4523074511/3178768/001514a7-9147-447e-91b8-21f6dc57539d.m3u
+#EXTINF:-1,BR : TELECINE CULT
+http://mains.services/live/4523074511/3178768/beeb831a-1048-4f88-ab47-ddddfca6bcc9.m3u
+#EXTINF:-1,BR : TELECINE FUN
+http://mains.services/live/4523074511/3178768/bec1e201-f734-4dd1-9c79-41b2d55a022e.m3u
+#EXTINF:-1,BR : TELECINE PIPOCA
+http://mains.services/live/4523074511/3178768/aa1ef9e6-bbe3-412b-a671-aa62fc428856.m3u
+#EXTINF:-1,BR : TELECINE PREMIUM
+http://mains.services/live/4523074511/3178768/24c9d541-8a14-473f-998d-d4cde537028e.m3u
+#EXTINF:-1,BR : TELECINE TOUCH
+http://mains.services/live/4523074511/3178768/22426d5b-3c27-4ce8-ace8-798173928aac.m3u
+#EXTINF:-1,BR : TNT
+http://mains.services/live/4523074511/3178768/7dc0c6db-32c2-4268-987f-79fdfefce537.m3u
+#EXTINF:-1,BR : TNT SERIES
+http://mains.services/live/4523074511/3178768/09a56275-a5c0-48d0-a929-01e05cc4a5e8.m3u
+#EXTINF:-1,BR : UNIVERSAL CHANNEL
+http://mains.services/live/4523074511/3178768/5c42adcb-e4f1-4a11-8645-328af1b064a6.m3u
+#EXTINF:-1,BR : VIVA
+http://mains.services/live/4523074511/3178768/5ffd3f9c-60ed-47b6-9c5f-20e892b4e4e9.m3u
+#EXTINF:-1,BR : WARNER CHANNEL
+http://mains.services/live/4523074511/3178768/904b9f7c-e27d-4247-acf6-4a593009dd75.m3u
+#EXTINF:-1,BR : WOOHOO
+http://mains.services/live/4523074511/3178768/d4fc36b3-a7f0-4c77-8db2-5e616b4695b2.m3u
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="🇨🇦CANADA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇦CANADA",🇨🇦☆   ##########♥️  🇨🇦CANADA TV ♥️##########
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇦CANADA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇱 01 🇨🇦CANADA 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇦CANADA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : A&E
+http://mains.services/live/4523074511/3178768/50c7e9df-e57d-473a-9209-a47f020dfa93.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : ABC SPARK
+http://mains.services/live/4523074511/3178768/2638f363-ad46-4e59-89b8-208188283c70.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : ABC WEST
+http://mains.services/live/4523074511/3178768/8e6e685f-0caf-4a56-a694-319635c206c2.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : ABORIGINAL PEOPLE TELEVISION NETWORK
+http://mains.services/live/4523074511/3178768/924164f8-b86d-430f-b4e4-3b2ce2e7cdf8.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : ADDIK TV
+http://mains.services/live/4523074511/3178768/2a384a9e-018e-416c-92ea-e77c1421ab0e.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : ADULT SWIM
+http://mains.services/live/4523074511/3178768/4872c571-7125-442e-91c1-f6e76b03b7e4.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : AMC
+http://mains.services/live/4523074511/3178768/e2d70511-417d-4544-9e4f-afb3c2974f64.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : AMERICAN HEROES CHANNEL
+http://mains.services/live/4523074511/3178768/f1f09fc4-4934-4244-90ef-16253e2d4588.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : AMI TELEVISION
+http://mains.services/live/4523074511/3178768/4a8f59a9-8e55-4a43-8c9d-d32c5fd41900.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BBC CANADA
+http://mains.services/live/4523074511/3178768/7c6c1cce-8e7c-45cc-bced-239d8983bf43.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BBC EARTH
+http://mains.services/live/4523074511/3178768/adcd1f90-3903-4900-81e1-3ffd5b7edd1d.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BBC WORLD NEWS
+http://mains.services/live/4523074511/3178768/50e41ebe-d4fc-4a02-8b43-23c7fdeab9a8.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BEIN SPORTS CANADA
+http://mains.services/live/4523074511/3178768/5dd521b9-7332-4ba1-9cb6-a15fe1b89465.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BET
+http://mains.services/live/4523074511/3178768/4b138bb8-b8fb-4827-82b0-4c8b1d870fad.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BNN BLOOMBERG
+http://mains.services/live/4523074511/3178768/691d49b5-9a2c-4ec1-aa02-c0b4432e343b.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BRAVO
+http://mains.services/live/4523074511/3178768/47c4f88e-5b93-4cec-a09d-f5a711fd27ee.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : BUSINESS BLOOMBERG HD
+http://mains.services/live/4523074511/3178768/bb971d97-ff26-4304-b9cc-564cd26553e3.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : CANADA ONE
+http://mains.services/live/4523074511/3178768/39a820c5-3a36-43c0-aadf-b09548c7694c.m3u
+#EXTINF:-1,CA : CANAL D HD
+http://mains.services/live/4523074511/3178768/b93163ad-e81a-433f-a123-b465bcbefe88.m3u
+#EXTINF:-1,CA : CARTOON NETWORK
+http://mains.services/live/4523074511/3178768/4f2edee3-ce46-46c2-81f2-bf2c8da96ffe.m3u
+#EXTINF:-1,CA : CBC
+http://mains.services/live/4523074511/3178768/1f0b77b0-b016-4c05-ad03-35a5ccf80463.m3u
+#EXTINF:-1,CA : CBC EDMONTON
+http://mains.services/live/4523074511/3178768/a8c29d37-35c5-45b1-8ced-32b02a18b48f.m3u
+#EXTINF:-1,CA : CBC HALIFAX
+http://mains.services/live/4523074511/3178768/ebbf5553-56fa-4484-bfcb-2231c6e9fb1a.m3u
+#EXTINF:-1,CA : CBC MONTREAL
+http://mains.services/live/4523074511/3178768/d049a772-e36a-4c9d-b806-39ce715cf199.m3u
+#EXTINF:-1,CA : CBC NEWS NETWORK
+http://mains.services/live/4523074511/3178768/725e41e2-fef1-4ae5-9235-956493a8d43d.m3u
+#EXTINF:-1,CA : CBC OTTAWA
+http://mains.services/live/4523074511/3178768/3920a2e9-a139-41e0-b8ff-62002e920d7e.m3u
+#EXTINF:-1,CA : CBC ST JOHNS
+http://mains.services/live/4523074511/3178768/69b57727-d68c-49b4-a855-2056b61859c8.m3u
+#EXTINF:-1,CA : CBC TORONTO
+http://mains.services/live/4523074511/3178768/8b4190e7-bc42-4e34-962f-5b9fb1b6fe89.m3u
+#EXTINF:-1,CA : CBC VANCOUVER
+http://mains.services/live/4523074511/3178768/80715834-3e7b-43fb-b1f9-8ab6ffa566db.m3u
+#EXTINF:-1,CA : CBC WINNIPEG
+http://mains.services/live/4523074511/3178768/0e87e0fc-6675-406d-bbb8-008213873866.m3u
+#EXTINF:-1,CA : CBS BUFFALO (WIVB)
+http://mains.services/live/4523074511/3178768/008b06c4-cd7a-49e1-8505-dae321c8d17a.m3u
+#EXTINF:-1,CA : CHCH
+http://mains.services/live/4523074511/3178768/3e929290-cbe2-47b7-a129-6c4570761dd1.m3u
+#EXTINF:-1,CA : CITY TV MONTREAL HD
+http://mains.services/live/4523074511/3178768/ed6629ad-d5a6-48a9-9b18-c019f3886ee5.m3u
+#EXTINF:-1,CA : CITY TV TORONTO
+http://mains.services/live/4523074511/3178768/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
+#EXTINF:-1,CA : CMT
+http://mains.services/live/4523074511/3178768/cda45ce1-7f14-4df5-9ffa-5287356c1190.m3u
+#EXTINF:-1,CA : CNBC CANADA
+http://mains.services/live/4523074511/3178768/f2b70deb-c481-4958-8b87-bddcdb26438d.m3u
+#EXTINF:-1,CA : CNN
+http://mains.services/live/4523074511/3178768/c0c2d3b4-54d7-4e19-b84e-e73f12a06232.m3u
+#EXTINF:-1,CA : COTTAGE LIFE TV
+http://mains.services/live/4523074511/3178768/6a011811-9f2c-4f4c-8291-826b5fdc1186.m3u
+#EXTINF:-1,CA : CP24
+http://mains.services/live/4523074511/3178768/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
+#EXTINF:-1,CA : CPAC ENGLISH
+http://mains.services/live/4523074511/3178768/824d67db-9f65-4665-9d1a-67190006b9c7.m3u
+#EXTINF:-1,CA : CPAC FRENCH
+http://mains.services/live/4523074511/3178768/b725ad8b-f17c-4312-b88f-4f2ae590d332.m3u
+#EXTINF:-1,CA : CRAVE 1
+http://mains.services/live/4523074511/3178768/4aea29e6-822a-4516-9300-ff6f26573005.m3u
+#EXTINF:-1,CA : CRAVE 2
+http://mains.services/live/4523074511/3178768/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
+#EXTINF:-1,CA : CRAVE 3
+http://mains.services/live/4523074511/3178768/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
+#EXTINF:-1,CA : CRAVE 4
+http://mains.services/live/4523074511/3178768/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
+#EXTINF:-1,CA : CRIME INVESTIGATION
+http://mains.services/live/4523074511/3178768/1c067d95-3961-4805-9718-6e510dee3bdc.m3u
+#EXTINF:-1,CA : CTV
+http://mains.services/live/4523074511/3178768/1d4fb4b8-6db8-4fa9-a400-2158749d5664.m3u
+#EXTINF:-1,CA : CTV 2 (LONDON)
+http://mains.services/live/4523074511/3178768/1efe1497-8a82-4e35-9741-3d60f2d85909.m3u
+#EXTINF:-1,CA : CTV 2 (WINDSOR)
+http://mains.services/live/4523074511/3178768/9b6a723f-bc4b-4af5-b5e6-63f8783ed315.m3u
+#EXTINF:-1,CA : CTV ATLANTIC
+http://mains.services/live/4523074511/3178768/6eba94b9-11e1-41e0-8cbc-151e04ad949b.m3u
+#EXTINF:-1,CA : CTV CALGARY HD
+http://mains.services/live/4523074511/3178768/3107d8f1-132b-47d7-9e26-4f3641ba5066.m3u
+#EXTINF:-1,CA : CTV COMEDY
+http://mains.services/live/4523074511/3178768/8a096813-9f86-4364-a9c6-85c98e50a1a3.m3u
+#EXTINF:-1,CA : CTV DRAMA
+http://mains.services/live/4523074511/3178768/60c06291-0470-4286-9aff-a2bc63a30e3f.m3u
+#EXTINF:-1,CA : CTV EDMONTON
+http://mains.services/live/4523074511/3178768/c7b5947d-9ec8-4146-8bfe-bbb8319359c0.m3u
+#EXTINF:-1,CA : CTV KITCHENER
+http://mains.services/live/4523074511/3178768/3f5cf637-73fa-4318-8214-1d9083bde2be.m3u
+#EXTINF:-1,CA : CTV MONTREAL HD
+http://mains.services/live/4523074511/3178768/0d59c481-b5b0-4262-83ca-c7b093c22646.m3u
+#EXTINF:-1,CA : CTV NATURE
+http://mains.services/live/4523074511/3178768/6b4eb212-7f99-43a4-b171-9e824e4b735f.m3u
+#EXTINF:-1,CA : CTV NEWS CHANNEL
+http://mains.services/live/4523074511/3178768/5f84d329-bcdc-435d-b497-219c873527af.m3u
+#EXTINF:-1,CA : CTV NORTHERN ONTARIO SUDBURY
+http://mains.services/live/4523074511/3178768/fc461714-2e40-4f36-9e84-1b0ca769f425.m3u
+#EXTINF:-1,CA : CTV OTTAWA HD
+http://mains.services/live/4523074511/3178768/7cf79b1b-cb14-4825-b1ab-656600c7fc9d.m3u
+#EXTINF:-1,CA : CTV SCI-FI
+http://mains.services/live/4523074511/3178768/15809d0a-3ad0-4993-a1ed-1832ebd95b53.m3u
+#EXTINF:-1,CA : CTV SPEED
+http://mains.services/live/4523074511/3178768/c0290e48-27f7-498d-9ed8-98ea62114eab.m3u
+#EXTINF:-1,CA : CTV SUDBURY HD
+http://mains.services/live/4523074511/3178768/a0b894f3-1bdc-4e71-9ff0-e92faaf91daa.m3u
+#EXTINF:-1,CA : CTV TORONTO
+http://mains.services/live/4523074511/3178768/65ead561-4298-42d8-8e72-9fe33894755c.m3u
+#EXTINF:-1,CA : CTV VANCOUVER
+http://mains.services/live/4523074511/3178768/f048857b-679f-4b07-91b1-ab3fab928e1c.m3u
+#EXTINF:-1,CA : CTV WILD
+http://mains.services/live/4523074511/3178768/991f7c0a-8eb6-4730-8601-c6ea4e7de8ae.m3u
+#EXTINF:-1,CA : CTV WINNIPEG
+http://mains.services/live/4523074511/3178768/592142bb-9f56-4862-a4cd-c4076f86ccb8.m3u
+#EXTINF:-1,CA : CTV2 TORONTO
+http://mains.services/live/4523074511/3178768/3154886d-4d8e-4566-89dc-6fb8e35cee8b.m3u
+#EXTINF:-1,CA : DAYSTAR
+http://mains.services/live/4523074511/3178768/4d019e5d-fcee-4995-a508-49dbdc5a59bf.m3u
+#EXTINF:-1,CA : DEJAVIEW
+http://mains.services/live/4523074511/3178768/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
+#EXTINF:-1,CA : DISNEY CHANNEL
+http://mains.services/live/4523074511/3178768/43e1fa0d-e3f3-4cdc-86fb-17808a3df1d8.m3u
+#EXTINF:-1,CA : DISNEY JR
+http://mains.services/live/4523074511/3178768/38a7033b-d247-474a-9e18-ba01e58f616b.m3u
+#EXTINF:-1,CA : DISNEY XD
+http://mains.services/live/4523074511/3178768/82ff7b20-2a7a-4017-a249-a6b0075c64ef.m3u
+#EXTINF:-1,CA : DISNEY, LA CHAINE
+http://mains.services/live/4523074511/3178768/e47ae0a6-2d81-4c37-9968-ea5651fcecba.m3u
+#EXTINF:-1,CA : DTOUR
+http://mains.services/live/4523074511/3178768/d516245d-a34f-4ce0-912e-0d2e721216c4.m3u
+#EXTINF:-1,CA : E!
+http://mains.services/live/4523074511/3178768/8a043ee5-c28c-4597-85bb-99a51dc87b04.m3u
+#EXTINF:-1,CA : FAMILY
+http://mains.services/live/4523074511/3178768/05a9cdcd-32c1-47d0-b91b-7bc3a6981fcb.m3u
+#EXTINF:-1,CA : FAMILY (EAST)
+http://mains.services/live/4523074511/3178768/3cea954f-49bb-44cb-854c-e0b62438b721.m3u
+#EXTINF:-1,CA : FAMILY JUNIOR
+http://mains.services/live/4523074511/3178768/c9c29309-bc41-4080-bd25-14ce80904202.m3u
+#EXTINF:-1,CA : FIGHT NETWORK
+http://mains.services/live/4523074511/3178768/249e9fd7-3fb9-4ec1-a6f0-817851ffc1f8.m3u
+#EXTINF:-1,CA : FOOD NETWORK
+http://mains.services/live/4523074511/3178768/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
+#EXTINF:-1,CA : FOX EAST
+http://mains.services/live/4523074511/3178768/09de2eab-8532-4ff7-813d-d740357226d5.m3u
+#EXTINF:-1,CA : FOX NEWS
+http://mains.services/live/4523074511/3178768/9f9ba673-761a-447e-9306-77650d3d4961.m3u
+#EXTINF:-1,CA : FOX SPORTS RACING
+http://mains.services/live/4523074511/3178768/6767ef7a-a508-41f0-a24d-21ef22ebd50b.m3u
+#EXTINF:-1,CA : FOX WEST
+http://mains.services/live/4523074511/3178768/bd50f63a-ac5c-42e6-988b-525f94657d6f.m3u
+#EXTINF:-1,CA : FX
+http://mains.services/live/4523074511/3178768/07cecdcb-a684-42a7-8ebc-63e7b2eb2dcb.m3u
+#EXTINF:-1,CA : FX
+http://mains.services/live/4523074511/3178768/b38acbbb-f374-4ca6-8004-2606d4601862.m3u
+#EXTINF:-1,CA : FXX
+http://mains.services/live/4523074511/3178768/8b21f1ed-000c-438f-9ebc-85e3e72b9789.m3u
+#EXTINF:-1,CA : FYI
+http://mains.services/live/4523074511/3178768/a84b2f79-6708-458f-b26c-0634e1d40b6f.m3u
+#EXTINF:-1,CA : GAME SHOW NETWORK HD
+http://mains.services/live/4523074511/3178768/cdbe04ee-5d8a-4327-8407-d8bf1c5b71e0.m3u
+#EXTINF:-1,CA : GAME TV
+http://mains.services/live/4523074511/3178768/f256c14d-7601-4e36-81d8-64417bafbb49.m3u
+#EXTINF:-1,CA : GAME+
+http://mains.services/live/4523074511/3178768/d945a16b-d87d-4f2a-98a0-b2e858d9e1ca.m3u
+#EXTINF:-1,CA : GLOBAL BC
+http://mains.services/live/4523074511/3178768/c49b49c7-304f-479d-abf4-da89da681a4a.m3u
+#EXTINF:-1,CA : GLOBAL CALGARY
+http://mains.services/live/4523074511/3178768/50b9b1a2-812c-45c6-8baa-774172dd1fde.m3u
+#EXTINF:-1,CA : GLOBAL EDMONTON
+http://mains.services/live/4523074511/3178768/d9f0384c-203b-4b27-8cf9-2a9aaf996f20.m3u
+#EXTINF:-1,CA : GLOBAL MONTREAL
+http://mains.services/live/4523074511/3178768/6a4bf2fe-a561-4f05-a7fd-91ab2d237057.m3u
+#EXTINF:-1,CA : GLOBAL PETERBOROUGH
+http://mains.services/live/4523074511/3178768/93170a62-1ef6-4d02-8b59-ce8d3da73480.m3u
+#EXTINF:-1,CA : GLOBAL TORONTO
+http://mains.services/live/4523074511/3178768/0db6092d-a4c0-4322-b7af-22413fdfeaaf.m3u
+#EXTINF:-1,CA : GLOBAL WINNIPEG
+http://mains.services/live/4523074511/3178768/65dc54d0-b86d-4b96-9767-5a6fae6d1150.m3u
+#EXTINF:-1,CA : H2
+http://mains.services/live/4523074511/3178768/78f6caf9-f383-4528-8538-8b3dbd8a4f4b.m3u
+#EXTINF:-1,CA : HBO 1
+http://mains.services/live/4523074511/3178768/b1d7b83c-33c6-4349-9e27-94b5ce564175.m3u
+#EXTINF:-1,CA : HBO 2
+http://mains.services/live/4523074511/3178768/b22780a6-4505-4644-bb17-2da2f7b2f5cd.m3u
+#EXTINF:-1,CA : HGTV
+http://mains.services/live/4523074511/3178768/cc65cfd5-c272-4f0b-90ea-8b93151474df.m3u
+#EXTINF:-1,CA : HISTORY CHANNEL
+http://mains.services/live/4523074511/3178768/71aec9d7-13c1-45c1-81b7-0c69d31e5ddd.m3u
+#EXTINF:-1,CA : HLN
+http://mains.services/live/4523074511/3178768/2d3eeaf0-65ea-4bed-8625-a3cc4ead3403.m3u
+#EXTINF:-1,CA : HOLLYWOOD SUITE 2000s
+http://mains.services/live/4523074511/3178768/76d28b26-99b2-4017-a45b-d117027abdac.m3u
+#EXTINF:-1,CA : HOLLYWOOD SUITE 70s
+http://mains.services/live/4523074511/3178768/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
+#EXTINF:-1,CA : HOLLYWOOD SUITE 80s
+http://mains.services/live/4523074511/3178768/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
+#EXTINF:-1,CA : HOLLYWOOD SUITE 90s
+http://mains.services/live/4523074511/3178768/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
+#EXTINF:-1,CA : ICI ARTV HD
+http://mains.services/live/4523074511/3178768/ca26c660-b892-4c3b-80fe-15d6221b72ae.m3u
+#EXTINF:-1,CA : INVESTIGATION HD
+http://mains.services/live/4523074511/3178768/367794d5-0969-4524-ae1a-1bad7908ba32.m3u
+#EXTINF:-1,CA : LCN HD
+http://mains.services/live/4523074511/3178768/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
+#EXTINF:-1,CA : LIFETIME
+http://mains.services/live/4523074511/3178768/f3efc458-13d0-4b79-9f7b-416eff17f992.m3u
+#EXTINF:-1,CA : LOVE NATURE
+http://mains.services/live/4523074511/3178768/03bdd372-dcaf-4459-beb0-e19ccc488e46.m3u
+#EXTINF:-1,CA : MAGNOLIA NETWORK
+http://mains.services/live/4523074511/3178768/b31e352c-c005-4b68-b3e7-763dace116f4.m3u
+#EXTINF:-1,CA : MAKEFUL
+http://mains.services/live/4523074511/3178768/ad101268-1d49-4670-ae14-e01369a76fca.m3u
+#EXTINF:-1,CA : MLB NETWORK
+http://mains.services/live/4523074511/3178768/a7eb2b3c-91e6-4922-ac83-be98f454b661.m3u
+#EXTINF:-1,CA : MOVIETIME
+http://mains.services/live/4523074511/3178768/766d1b89-4005-4353-a553-322a58ca86b1.m3u
+#EXTINF:-1,CA : MTV 2
+http://mains.services/live/4523074511/3178768/12a37dea-cbaa-4274-b34a-929799c3dcdb.m3u
+#EXTINF:-1,CA : MUCH
+http://mains.services/live/4523074511/3178768/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
+#EXTINF:-1,CA : MUCH MUSIC
+http://mains.services/live/4523074511/3178768/be2edac1-8cdd-4545-8844-ca5d70d41241.m3u
+#EXTINF:-1,CA : NAT GEO WILD
+http://mains.services/live/4523074511/3178768/b2e7b477-4147-48d2-8cc8-b64838f56f71.m3u
+#EXTINF:-1,CA : NATIONAL GEOGRAPHIC
+http://mains.services/live/4523074511/3178768/c61d43f2-53c3-4426-a178-1acea03c0b66.m3u
+#EXTINF:-1,CA : NBA TV
+http://mains.services/live/4523074511/3178768/2657e4ec-5654-43e4-a224-76209ede2f07.m3u
+#EXTINF:-1,CA : NBC GOLF
+http://mains.services/live/4523074511/3178768/44d3998f-38e9-470e-938f-59dcf0da71ac.m3u
+#EXTINF:-1,CA : NFL NETWORK
+http://mains.services/live/4523074511/3178768/802b5a9c-fe8b-4bbc-9fd6-3deb9b752129.m3u
+#EXTINF:-1,CA : NICKELODEON
+http://mains.services/live/4523074511/3178768/908b6936-8a3c-4141-8a52-7fed6c3c4c1a.m3u
+#EXTINF:-1,CA : NTV NEWFOUNDLAND
+http://mains.services/live/4523074511/3178768/4d302381-1c1a-4f9e-bb87-612914fcbd3c.m3u
+#EXTINF:-1,CA : OLN
+http://mains.services/live/4523074511/3178768/cca76809-8fc3-421c-977f-4f32b50eb811.m3u
+#EXTINF:-1,CA : OMNI EAST
+http://mains.services/live/4523074511/3178768/08909430-69df-4f59-b387-d467ad4027cd.m3u
+#EXTINF:-1,CA : OMNI.1
+http://mains.services/live/4523074511/3178768/e5620e3d-828e-4b8a-82e4-a00f2f0d6526.m3u
+#EXTINF:-1,CA : OMNI.2
+http://mains.services/live/4523074511/3178768/d65362b5-26af-4240-add0-b512f5360af1.m3u
+#EXTINF:-1,CA : OWN
+http://mains.services/live/4523074511/3178768/f644372e-4074-4ab3-9a9a-fc9eacd06ba7.m3u
+#EXTINF:-1,CA : OXYGEN
+http://mains.services/live/4523074511/3178768/7ddeafa5-3e76-4358-81b6-91b2cf0809c7.m3u
+#EXTINF:-1,CA : PARAMOUNT
+http://mains.services/live/4523074511/3178768/7a7665c9-c41b-40f8-b8da-830bcd6b4a1b.m3u
+#EXTINF:-1,CA : PBS BUFFALO (WNED)
+http://mains.services/live/4523074511/3178768/d18f7bbe-7857-4bef-a839-49174ff052af.m3u
+#EXTINF:-1,CA : PEACH TREE TV
+http://mains.services/live/4523074511/3178768/74266d07-567d-4c3c-867b-b3c87f4792e2.m3u
+#EXTINF:-1,CA : PRISE 2 HD
+http://mains.services/live/4523074511/3178768/af17b8e7-3c21-4c08-bb77-6433b8045340.m3u
+#EXTINF:-1,CA : RDS INFO
+http://mains.services/live/4523074511/3178768/787e548a-e279-42b0-8f1d-bc598a408b89.m3u
+#EXTINF:-1,CA : SAVOIR MEDIA (CFTU)
+http://mains.services/live/4523074511/3178768/fe76e9fb-7f54-4027-a866-6969c0b032ab.m3u
+#EXTINF:-1,CA : SHOWCASE
+http://mains.services/live/4523074511/3178768/ec6858c1-2448-47c7-ab5b-d15f89655610.m3u
+#EXTINF:-1,CA : SILVER SCREEN CLASSICS
+http://mains.services/live/4523074511/3178768/feefd731-143b-4307-ac39-2808e70068ee.m3u
+#EXTINF:-1,CA : SLICE
+http://mains.services/live/4523074511/3178768/dc824e24-e263-44cb-9ebc-6ac74899f45c.m3u
+#EXTINF:-1,CA : SMITHSONIAN
+http://mains.services/live/4523074511/3178768/603364ca-24fd-4bd8-9818-6d5688d35994.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSMAN
+http://mains.services/live/4523074511/3178768/3dc8f918-5b77-472d-ba8d-1ec8ccc0bd38.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET 360
+http://mains.services/live/4523074511/3178768/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET EAST
+http://mains.services/live/4523074511/3178768/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET ONE
+http://mains.services/live/4523074511/3178768/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET ONTARIO
+http://mains.services/live/4523074511/3178768/6fb1afe1-103f-4db7-8bf0-f7536b376d2d.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET PACIFIC
+http://mains.services/live/4523074511/3178768/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET WEST
+http://mains.services/live/4523074511/3178768/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : SPORTSNET WORLD
+http://mains.services/live/4523074511/3178768/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
+#EXTINF:-1,CA : SUPER CHANNEL HEART & HOME
+http://mains.services/live/4523074511/3178768/4620407d-7c37-4985-8261-a9dfcfe1db7c.m3u
+#EXTINF:-1,CA : SUPER CHANNEL VAULT
+http://mains.services/live/4523074511/3178768/d9e82be7-898b-4b5a-9951-88a9fc2a9357.m3u
+#EXTINF:-1,CA : TCM
+http://mains.services/live/4523074511/3178768/ce0695af-2012-4a32-8e5f-5be5005de156.m3u
+#EXTINF:-1,CA : TELE QUEBEC
+http://mains.services/live/4523074511/3178768/1233e21c-b084-4577-b59e-341f8bc679f9.m3u
+#EXTINF:-1,CA : TELETOON
+http://mains.services/live/4523074511/3178768/d154e5c1-beea-4c39-a337-c3916ecd39a2.m3u
+#EXTINF:-1,CA : TFO
+http://mains.services/live/4523074511/3178768/64ce3246-6484-4b2a-85d5-8e7c2a9fe5ad.m3u
+#EXTINF:-1,CA : THE SHOPPING CHANNEL
+http://mains.services/live/4523074511/3178768/5e8387f6-8f10-4357-8fd0-dd2098c415e3.m3u
+#EXTINF:-1,CA : TLC
+http://mains.services/live/4523074511/3178768/b6694bdd-390b-465f-9898-57181e809d8b.m3u
+#EXTINF:-1,CA : TRAVEL + ESCAPE SD
+http://mains.services/live/4523074511/3178768/f3b46b7a-bfa7-402f-85b5-86d391961982.m3u
+#EXTINF:-1,CA : TREEHOUSE TV
+http://mains.services/live/4523074511/3178768/82825b10-daeb-471b-a5ea-ba5d45fb5087.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : TSN 1
+http://mains.services/live/4523074511/3178768/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : TSN 2
+http://mains.services/live/4523074511/3178768/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : TSN 3
+http://mains.services/live/4523074511/3178768/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : TSN 4
+http://mains.services/live/4523074511/3178768/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : TSN 5
+http://mains.services/live/4523074511/3178768/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
+#EXTINF:-1,CA : TV ONTARIO
+http://mains.services/live/4523074511/3178768/6745b493-f231-4f1f-9b3a-e32f15a659f4.m3u
+#EXTINF:-1,CA : TVA MONTREAL
+http://mains.services/live/4523074511/3178768/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
+#EXTINF:-1,CA : TVA SPORTS HD
+http://mains.services/live/4523074511/3178768/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : USA NETWORK
+http://mains.services/live/4523074511/3178768/3c446837-2d88-4a34-bcb9-7a2d026848a4.m3u
+#EXTINF:-1,CA : VISION TV
+http://mains.services/live/4523074511/3178768/352ac61f-d4b8-4cfa-863c-9d92ad8a8396.m3u
+#EXTINF:-1,CA : W NETWORK
+http://mains.services/live/4523074511/3178768/339f7ebf-8924-49eb-9e3d-fecb0ca799b9.m3u
+#EXTINF:-1,CA : WEATHER NETWORK
+http://mains.services/live/4523074511/3178768/64d8e24a-0fbb-4af4-8f55-b3cc15ebb303.m3u
+#EXTINF:-1,CA : WEATHER NETWORK HD
+http://mains.services/live/4523074511/3178768/57dab417-3de9-4acf-b433-2d7076daed22.m3u
+#EXTINF:-1,CA : WGN CHICAGO
+http://mains.services/live/4523074511/3178768/0b62911e-02f3-4b5b-bdad-944ce374fce4.m3u
+#EXTINF:-1,CA : WILD TV
+http://mains.services/live/4523074511/3178768/c20b2cde-3628-4a65-a564-d289bd93ba69.m3u
+#EXTINF:-1,CA : YES BURLINGTON
+http://mains.services/live/4523074511/3178768/7a7432dd-495c-429c-b8b5-a5203f41c572.m3u
+#EXTINF:-1,CA : YES TV
+http://mains.services/live/4523074511/3178768/af3c34d3-cce9-4352-a1ca-3bce5fb64df5.m3u
+#EXTINF:-1,CA : YTV EAST
+http://mains.services/live/4523074511/3178768/d099632c-2b93-4b72-9825-182db8991aa5.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : CFL GAME 01
+http://mains.services/live/4523074511/3178768/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : CFL GAME 02
+http://mains.services/live/4523074511/3178768/32782720-405c-46b2-a843-db09a6ea87db.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : CFL GAME 03
+http://mains.services/live/4523074511/3178768/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u
+#EXTINF:-1 group-title="🇨🇦CANADA",🇨🇦☆CA : CFL GAME 04
+http://mains.services/live/4523074511/3178768/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u
+
+
+
+
+
+
+
+
 
 
 
@@ -5468,6 +6021,11 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/9c5b932a-20d3-4bc6-8d88-13b043b47378.ts
 http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT Sports Premium HD* [2]" tvg-logo="https://i.ibb.co/Ngjc7Gw2/tntsportshd.jpg" group-title="🇨🇱CHILE",🇨🇱 TNT Sports HD* [2]
 http://xsport1.me/live/fpavas/raZFGMA7GT/5ced43e2-60da-4553-a869-c1522a3a94d8.ts
+
+
+
+#EXTINF:-1 group-title="🇨🇱CHILE",🇨🇱☆ CL : TV CHILE
+http://mains.services/live/4523074511/3178768/a1b8a870-dc35-4638-a7f2-8fa0eebad1ea.m3u
 
 
 
