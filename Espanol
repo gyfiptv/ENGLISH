@@ -1042,15 +1042,14 @@ http://190.93.224.42/AXN/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AXN (02)
 http://190.93.224.42/AXN/index.mpd
 
-
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AMERICA-TV PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AMERICA-TV 4 PE (01)
 http://190.93.224.42/AMERICA-TV/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AMERICA-TV PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AMERICA-TV 4 PE (02)
 http://190.93.224.42/AMERICA-TV/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV 9 PE (01)
 http://190.93.224.42/ATV/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV 9 PE (02)
 http://190.93.224.42/ATV/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV-PLUS+ PE (01)
@@ -1067,7 +1066,6 @@ http://190.93.224.42/ATV-SUR/index.mpd
 http://190.93.224.42/AUTENTICA-TV/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AUTENTICA-TV PE (02)
 http://190.93.224.42/AUTENTICA-TV/index.mpd
-
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① BETHEL PE (01)
 http://190.93.224.42/BETHEL/index.m3u8
@@ -1094,16 +1092,14 @@ http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① DISNEY-JR (02)
 http://190.93.224.42/DISNEY-JR/index.mpd
 
-
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ENTERTAINMENT (01)
 http://190.93.224.42/ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ENTERTAINMENT (02)
 http://190.93.224.42/ENTERTAINMENT/index.mpd
 
-
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① EXITOSA (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① EXITOSA 11 TV (01)
 http://190.93.224.42/EXITOSA/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① EXITOSA (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① EXITOSA 11 TV (02)
 http://190.93.224.42/EXITOSA/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ESPN (01)
@@ -1166,9 +1162,9 @@ http://190.93.224.42/GOLDEN/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① GOLDEN (02)
 http://190.93.224.42/GOLDEN/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① GLOBAL TELEVISION ATV PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① GLOBAL TELEVISION 13 ATV PE (01)
 http://190.93.224.42/GLOBAL/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① GLOBAL TELEVISION ATV PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① GLOBAL TELEVISION 13 ATV PE (02)
 http://190.93.224.42/GLOBAL/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① HISTORY (01)
@@ -1206,9 +1202,9 @@ http://190.93.224.42/HBO-SIGNATURE/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① HBO-SIGNATURE (02)
 http://190.93.224.42/HBO-SIGNATURE/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① IPE PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① IPE 7.4 PE (01)
 http://190.93.224.42/IPE/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① IPE PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① IPE 7.4 PE (02)
 http://190.93.224.42/IPE/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① KANAL-D-DRAMA (01)
@@ -1231,9 +1227,9 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LIGA-1-MAX PE (02)
 http://190.93.224.42/LIGA-1-MAX/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LATINA PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LATINA 2 PE (01)
 http://190.93.224.42/LATINA/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LATINA PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LATINA 2 PE (02)
 http://190.93.224.42/LATINA/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① LA-TELE ATV (01)
@@ -1245,6 +1241,11 @@ http://190.93.224.42/LA-TELE/index.mpd
 http://190.93.224.42/NATIVA-TV/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① NATIVA-TV PE (02)
 http://190.93.224.42/NATIVA-TV/index.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① NATIONAL GEOGRAPHIC (01)
+http://190.93.224.42/NAT-GEO/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① NATIONAL GEOGRAPHIC (02)
+http://190.93.224.42/NAT-GEO/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① NICKELODEON (01)
 http://190.93.224.42/NICK/index.m3u8
@@ -1266,14 +1267,14 @@ http://190.93.224.42/PBO/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① PBO PE (02)
 http://190.93.224.42/PBO/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① PANAMERICANA PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① PANAMERICANA 5 PE (01)
 http://190.93.224.42/PANAMERICANA/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① PANAMERICANA PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① PANAMERICANA 5 PE (02)
 http://190.93.224.42/PANAMERICANA/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① RPP PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① RPP 10 PE (01)
 http://190.93.224.42/RPP/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① RPP PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① RPP 10 PE (02)
 http://190.93.224.42/RPP/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① SONY-CHANNEL (01)
@@ -1306,11 +1307,20 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TNT-NOVELAS (02)
 http://190.93.224.42/TNT-NOVELAS/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TV-PERU (01)
-http://190.93.224.42/TV-PERU/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TV-PERU (02)
-http://190.93.224.42/TV-PERU/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TNT-SPORTS-2 (01)
+http://190.93.224.42/TNT-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TNT-SPORTS-2 (02)
+http://190.93.224.42/TNT-SPORTS-2/index.mpd
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TNT-SPORTS (01)
+http://190.93.224.42/TNT-SPORTS/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TNT-SPORTS (02)
+http://190.93.224.42/TNT-SPORTS/index.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TV-PERU 7 (01)
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TV-PERU 7 (02)
+http://190.93.224.42/TV-PERU/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL (01)
 http://190.93.224.42/TELEMUNDO/index.m3u8
@@ -1322,9 +1332,14 @@ http://190.93.224.42/UNIVISION/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION (02)
 http://190.93.224.42/UNIVISION/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① WILLAX PE (01)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① VIVA-TV 11 PE (01)
+http://190.93.224.42/VIVA-TV/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① VIVA-TV 11 PE (02)
+http://190.93.224.42/VIVA-TV/index.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① WILLAX TELEVISION 12 PE (01)
 http://190.93.224.42/WILLAX/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① WILLAX PE (02)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① WILLAX TELEVISION 12 PE (02)
 http://190.93.224.42/WILLAX/index.mpd
 
 
