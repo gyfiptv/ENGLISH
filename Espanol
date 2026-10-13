@@ -2497,18 +2497,162 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qn AMC SERIES
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AXN | 1080ᴾ (01)
+http://190.93.224.42/AXN/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AXN | 1080ᴾ (02)
+http://190.93.224.42/AXN/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AXN | 1080ᴾ (03)
+http://190.93.224.42/AXN/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AXN | 1080ᴾ (04)
+http://190.93.224.42/AXN/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (01)
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (02)
+http://190.93.224.42/AMERICA-TV/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (03)
+http://190.93.224.42/AMERICA-TV/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (04)
+http://190.93.224.42/AMERICA-TV/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV 9 PE | 1080ᴾ (01)
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV 9 PE | 1080ᴾ (02)
+http://190.93.224.42/ATV/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV 9 PE | 1080ᴾ (03)
+http://190.93.224.42/ATV/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV 9 PE | 1080ᴾ (04)
+http://190.93.224.42/ATV/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-PLUS+ PE | 1080ᴾ (01)
+http://190.93.224.42/ATV-PLUS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-PLUS+ PE | 1080ᴾ (02)
+http://190.93.224.42/ATV-PLUS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-PLUS+ PE | 1080ᴾ (03)
+http://190.93.224.42/ATV-PLUS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-PLUS+ PE | 1080ᴾ (04)
+http://190.93.224.42/ATV-PLUS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-SUR PE | 1080ᴾ (01)
+http://190.93.224.42/ATV-SUR/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-SUR PE | 1080ᴾ (02)
+http://190.93.224.42/ATV-SUR/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-SUR PE | 1080ᴾ (03)
+http://190.93.224.42/ATV-SUR/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ATV-SUR PE | 1080ᴾ (04)
+http://190.93.224.42/ATV-SUR/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AUTENTICA-TV PE | 1080ᴾ (01)
+http://190.93.224.42/AUTENTICA-TV/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AUTENTICA-TV PE | 1080ᴾ (02)
+http://190.93.224.42/AUTENTICA-TV/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AUTENTICA-TV PE | 1080ᴾ (03)
+http://190.93.224.42/AUTENTICA-TV/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① AUTENTICA-TV PE | 1080ᴾ (04)
+http://190.93.224.42/AUTENTICA-TV/mono.ts
+
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f7 AMC | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f7 AMC | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0f7/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f7 AMC | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0f7/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f7 AMC | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0f7/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m8 AXN | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m8 AXN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m8/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m8 AXN | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m8/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m8 AXN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m8/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q8 [ADULT SWIM] | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q8/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q8 [ADULT SWIM] | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q8/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q8 [ADULT SWIM] | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q8/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎o",🇪🇸a0q8 [ADULT SWIM] | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q8/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r7 ATV 9 PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0r7/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r7 ATV 9 PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0r7/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r7 ATV 9 PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0r7/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r7 ATV 9 PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0r7/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s6 ATV 9 PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s6 ATV 9 PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0s6/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s6 ATV 9 PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0s6/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s6 ATV 9 PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0s6/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qn AMC SERIES | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rc ANTENA 3 ATRESPLAYER
-http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rm A3S A3Series Int.
-http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pj AMERICA TELEVISION
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qn AMC SERIES | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qn/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qn AMC SERIES | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qn/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qn AMC SERIES | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qn/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pj AMERICA TELEVISION | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sn ATV Sur
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pj AMERICA TELEVISION | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0pj/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pj AMERICA TELEVISION | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0pj/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pj AMERICA TELEVISION | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0pj/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sn ATV Sur | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sy ATV+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sn ATV Sur | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sn/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sn ATV Sur | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sn/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sn ATV Sur | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sn/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sy ATV+ | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sy/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sy ATV+ | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sy/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sy ATV+ | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sy/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sy ATV+ | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sy/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rc ANTENA 3 ATRESPLAYER | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rc ANTENA 3 ATRESPLAYER | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0rc/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rc ANTENA 3 ATRESPLAYER | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0rc/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rc ANTENA 3 ATRESPLAYER | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0rc/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rm A3S A3Series Int. | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rm A3S A3Series Int. | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0rm/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rm A3S A3Series Int. | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0rm/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rm A3S A3Series Int. | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0rm/index.m4s
+
 
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ América TeVé USA
@@ -2661,6 +2805,48 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① BETHEL PE | 1080ᴾ (01)
+http://190.93.224.42/BETHEL/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① BETHEL PE | 1080ᴾ (02)
+http://190.93.224.42/BETHEL/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① BETHEL PE | 1080ᴾ (03)
+http://190.93.224.42/BETHEL/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① BETHEL PE | 1080ᴾ (04)
+http://190.93.224.42/BETHEL/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ra BBC NEWS | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ra/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ra BBC NEWS | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ra/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ra BBC NEWS | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ra/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ra BBC NEWS | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ra/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fv BETHEL TV | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0fv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fv BETHEL TV | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0fv/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fv BETHEL TV | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0fv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fv BETHEL TV | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0fv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zv Bethel TV (01) x
+http://181.224.255.210:8001/play/a0zv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zv Bethel TV (02)
+http://181.224.255.210:8001/play/a0zv/index.mpd
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pz BABY TV | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pz BABY TV | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0pz/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pz BABY TV | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0pz/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pz BABY TV | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0pz/index.m4s
+
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zv BETHEL TV
 http://181.224.255.210:8001/play/a0zv/index.m3u8?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fv BETHEL TV
@@ -2669,6 +2855,8 @@ http://181.224.255.210:8001/play/a0fv/index.m3u8?hls
 http://181.224.255.210:8001/play/a0ra/index.m3u8?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pz BABY TV
 http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
+
+
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇺🇸* BBC AMERICA *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/549.ts
@@ -2686,22 +2874,84 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ob CINECANAL
-http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0px CNN
-http://181.224.255.210:8001/play/a0px/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qk CGTN ESPANOL
-http://181.224.255.210:8001/play/a0qk/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0py CARTOON NETWORK
-http://181.224.255.210:8001/play/a0py/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0su CARTOONITO
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (03)
+http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (04)
+http://190.93.224.42/COMEDY-CENTRAL/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0su CARTOONITO | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0su/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ew COMEDY CENTRAL
-http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yw COMEDY CENTRAL
-http://181.224.255.210:8001/play/a0yw/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rt CR Comunicaciones Radio y TV
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0su CARTOONITO | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0su/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0su CARTOONITO | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0su/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0su CARTOONITO | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0su/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0py CARTOON NETWORK | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0py/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0py CARTOON NETWORK | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0py/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0py CARTOON NETWORK | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0py/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0py CARTOON NETWORK | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0py/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qk CGTN ESPANOL | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qk/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qk CGTN ESPANOL | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qk/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qk CGTN ESPANOL | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qk/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qk CGTN ESPANOL | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qk/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mk CINEMAX | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mk CINEMAX | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mk/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mk CINEMAX | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mk/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mk CINEMAXT | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mk/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ob CINECANAL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ob CINECANAL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ob/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ob CINECANAL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ob/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ob CINECANAL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ob/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rt CR Comunicaciones Radio y TV | 720ᴾ (01)
 http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rt CR Comunicaciones Radio y TV | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0rt/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rt CR Comunicaciones Radio y TV | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0rt/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rt CR Comunicaciones Radio y TV | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0rt/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ew COMEDY CENTRAL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ew COMEDY CENTRAL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ew/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ew COMEDY CENTRAL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ew/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ew COMEDY CENTRAL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ew/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yw Comedy Central (01) x
+http://181.224.255.210:8001/play/a0yw/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yw Comedy Central (02)
+http://181.224.255.210:8001/play/a0yw/index.mpd
+
+
 
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",☆ CATV | CENTRO AMERICA TV (opt1)  
@@ -2732,6 +2982,26 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7173.ts
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q1 CNN US | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q1/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q1 CNN US | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q1/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q1 CNN US | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q1/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q1 CNN US | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q1/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0px CNN | 480ᴾ (01) 
+http://181.224.255.210:8001/play/a0px/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0px CNN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0px/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0px CNN | 480ᴾ (03) 
+http://181.224.255.210:8001/play/a0px/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0px CNN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0px/index.m4s
+
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸☆ CNN EN ESPAÑOL (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/66553
@@ -2775,28 +3045,174 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qy D PELICULA
-http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lz Discovery ANIMAL PLANET
-http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE
-http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fc Discovery THEATER
-http://181.224.255.210:8001/play/a0fc/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lt Discovery THEATER
-http://181.224.255.210:8001/play/a0lt/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zc Discovery THEATER
-http://181.224.255.210:8001/play/a0zc/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H
-http://181.224.255.210:8001/play/a0st/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pv Discovery KIDS 
-http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oe DISNEY CHANNEL
-http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rj DW TV
-http://181.224.255.210:8001/play/a0rj/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qj DAYSTAR* ESPANOL
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-TURBO | 480ᴾ (01)
+http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-TURBO | 480ᴾ (02)
+http://190.93.224.42/DISCOVERY-TURBO/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-TURBO | 480ᴾ (03)
+http://190.93.224.42/DISCOVERY-TURBO/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-TURBO | 480ᴾ (04)
+http://190.93.224.42/DISCOVERY-TURBO/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (03)
+http://190.93.224.42/DISCOVERY-KIDS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (04)
+http://190.93.224.42/DISCOVERY-KIDS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISNEY-JR | 480ᴾ (01)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISNEY-JR | 480ᴾ (02)
+http://190.93.224.42/DISNEY-JR/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISNEY-JR | 480ᴾ (03)
+http://190.93.224.42/DISNEY-JR/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① DISNEY-JR | 480ᴾ (04)
+http://190.93.224.42/DISNEY-JR/mono.ts
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m0 DISCOVERY CHANNEL | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m0/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m0 DISCOVERY CHANNEL | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m0/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m0 DISCOVERY CHANNEL | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m0/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m0 DISCOVERY CHANNEL | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m0/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q2 DISCOVERY TURBO | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q2/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q2 DISCOVERY TURBO | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q2/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q2 DISCOVERY TURBO | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q2 DISCOVERY TURBO | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q2/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0s8/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0s8/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0s8/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qj DAYSTAR* ESPANOL | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qj/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qj DAYSTAR* ESPANOL | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qj/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qj DAYSTAR* ESPANOL | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qj/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qj DAYSTAR* ESPANOL | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qj/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nt DHE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nt DHE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nt/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nt DHE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nt/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nt DHE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nt/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rj DW TV | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0rj/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rj DW TV | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0rj/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rj DW TV | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0rj/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rj DW TV | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0rj/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lz Discovery ANIMAL PLANET | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lz Discovery ANIMAL PLANET | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0lz/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lz Discovery ANIMAL PLANET | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0lz/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lz Discovery ANIMAL PLANET | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0lz/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0st/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0st/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0st/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0st/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mo/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mo/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mo/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fc Discovery THEATER | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0fc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fc Discovery THEATER | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0fc/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fc Discovery THEATER | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0fc/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fc Discovery THEATER | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0fc/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zc Discovery Theater (01) x
+http://181.224.255.210:8001/play/a0zc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zc Discovery Theater (02)
+http://181.224.255.210:8001/play/a0zc/index.mpd
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lt Discovery WORLD | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0lt/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lt Discovery WORLD | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0lt/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lt Discovery WORLD | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0lt/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lt Discovery WORLD | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0lt/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pv Discovery KIDS | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pv Discovery KIDS | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0pv/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pv Discovery KIDS | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0pv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pv Discovery KIDS | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0pv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oe DISNEY CHANNEL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oe DISNEY CHANNEL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0oe/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oe DISNEY CHANNEL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0oe/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oe DISNEY CHANNEL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0oe/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ny DISNEY JR. | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ny/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ny DISNEY JR. | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ny/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ny DISNEY JR. | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ny/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ny DISNEY JR. | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ny/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qy D PELICULA | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qy D PELICULA | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qy/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qy D PELICULA | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qy/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qy D PELICULA | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qy/index.m4s
 
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸 DW Español (1080p)
@@ -2840,41 +3256,246 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pt ESPN PREMIUM
-http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sd ESPN vivo
-http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sa ESPN Disney+
-http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oj ESPN 2
-http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ps ESPN 3
-http://181.224.255.210:8001/play/a0ps/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0og ESPN 4
-http://181.224.255.210:8001/play/a0og/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pr ESPN 5
-http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0eq ESPN 6
-http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yq ESPN 6
-http://181.224.255.210:8001/play/a0yq/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc ESTUDIO UNIVERSAL
-http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qx eE EUROPAeuropa
-http://181.224.255.210:8001/play/a0qx/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ow EWTN
-http://181.224.255.210:8001/play/a0ow/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sm EXITOSA
-http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0so EXITOSA
-http://181.224.255.210:8001/play/a0so/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS
-http://181.224.255.210:8001/play/a0se/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ENTERTAINMENT | 480ᴾ (01)
+http://190.93.224.42/ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ENTERTAINMENT | 480ᴾ (02)
+http://190.93.224.42/ENTERTAINMENT/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ENTERTAINMENT | 480ᴾ (03)
+http://190.93.224.42/ENTERTAINMENT/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ENTERTAINMENT | 480ᴾ (04)
+http://190.93.224.42/ENTERTAINMENT/mono.ts
 
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🆕🇸Usa-Latino🌎",🇲🇽☑ Estrella TV | E! (1080p)
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🆕🇸Usa-Latino🌎",🇲🇽☑ Estrella TV | E! (1080p)
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① EXITOSA 11 TV | 1080ᴾ (001)
+http://190.93.224.42/EXITOSA/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① EXITOSA 11 TV | 1080ᴾ (02)
+http://190.93.224.42/EXITOSA/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① EXITOSA 11 TV | 1080ᴾ (03)
+http://190.93.224.42/EXITOSA/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① EXITOSA 11 TV | 1080ᴾ (04)
+http://190.93.224.42/EXITOSA/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN | 720ᴾ (01)
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN | 720ᴾ (02)
+http://190.93.224.42/ESPN/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN | 720ᴾ (03)
+http://190.93.224.42/ESPN/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN | 720ᴾ (04)
+http://190.93.224.42/ESPN/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 2 | 720ᴾ (01)
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 2 | 720ᴾ (02)
+http://190.93.224.42/ESPN-2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 2 | 720ᴾ (03)
+http://190.93.224.42/ESPN-2/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 2 | 720ᴾ (04)
+http://190.93.224.42/ESPN-2/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 3 | 720ᴾ (01)
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 3 | 720ᴾ (02)
+http://190.93.224.42/ESPN-3/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 3 | 720ᴾ (03)
+http://190.93.224.42/ESPN-3/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 3 | 720ᴾ (04)
+http://190.93.224.42/ESPN-3/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 4 | 720ᴾ (01)
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 4 | 720ᴾ (02)
+http://190.93.224.42/ESPN-4/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 4 | 720ᴾ (03)
+http://190.93.224.42/ESPN-4/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 4 | 720ᴾ (04)
+http://190.93.224.42/ESPN-4/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 5 | 720ᴾ (01)
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 5 | 720ᴾ (02)
+http://190.93.224.42/ESPN-5/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 5 | 720ᴾ (03)
+http://190.93.224.42/ESPN-5/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 5 | 720ᴾ (04)
+http://190.93.224.42/ESPN-5/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 6 | 720ᴾ (01)
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 6 | 720ᴾ (02)
+http://190.93.224.42/ESPN-6/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 6 | 720ᴾ (03)
+http://190.93.224.42/ESPN-6/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 6 | 720ᴾ (04)
+http://190.93.224.42/ESPN-6/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 7 | 720ᴾ (01)
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 7 | 720ᴾ (02)
+http://190.93.224.42/ESPN-7/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 7 | 720ᴾ (03)
+http://190.93.224.42/ESPN-7/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN 7 | 720ᴾ (04)
+http://190.93.224.42/ESPN-7/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN-PREMIUM | 720ᴾ (01)
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN-PREMIUM | 720ᴾ (02)
+http://190.93.224.42/ESPN-PREMIUM/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN-PREMIUM | 720ᴾ (03)
+http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① ESPN-PREMIUM | 720ᴾ (04)
+http://190.93.224.42/ESPN-PREMIUM/mono.ts
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m5 ESPN 7 | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m5 ESPN 7 | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m5/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m5 ESPN 7 | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m5/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m5 ESPN 7 | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m5/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q3 E! ENTERTAINMENT | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q3 E! ENTERTAINMENT | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q3/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q3 E! ENTERTAINMENT | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q3/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q3 E! ENTERTAINMENT | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q3/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q7 ENLACE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q7/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q7 ENLACE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q7/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q7 ENLACE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q7/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q7 ENLACE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q7/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sa ESPN | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sa ESPN | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sa/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sa ESPN | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sa/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sa ESPN | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sa/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sd ESPN | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sd ESPN | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0sd/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sd ESPN | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0sd/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sd ESPN | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0sd/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oj ESPN 2 | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oj ESPN 2 | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0oj/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oj ESPN 2 | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0oj/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oj ESPN 2 | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0oj/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ps ESPN 3 | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0ps/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ps ESPN 3 | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0ps/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ps ESPN 3 | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0ps/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ps ESPN 3 | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0ps/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0og ESPN 4 | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0og/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0og ESPN 4 | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0og/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0og ESPN 4 | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0og/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0og ESPN 4 | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0og/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pr ESPN 5 | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pr ESPN 5 | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0pr/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pr ESPN 5 | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0pr/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pr ESPN 5 | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0pr/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0eq ESPN 6 | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0eq ESPN 6 | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0eq/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0eq ESPN 6 | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0eq/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0eq ESPN 6 | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0eq/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yq Espn 6 (01) x
+http://181.224.255.210:8001/play/a0yq/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yq Espn 6 (02)
+http://181.224.255.210:8001/play/a0yq/index.mpd
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pt ESPN PREMIUM | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pt ESPN PREMIUM | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0pt/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pt ESPN PREMIUM | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0pt/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pt ESPN PREMIUM | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0pt/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ow EWTN | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ow/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ow EWTN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ow/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ow EWTN | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ow/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ow EWTN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ow/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc ESTUDIO UNIVERSAL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc ESTUDIO UNIVERSAL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sc/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc ESTUDIO UNIVERSAL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sc/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc ESTUDIO UNIVERSAL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sc/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qx eE EUROPAeuropa | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qx/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qx eE EUROPAeuropa | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qx/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qx eE EUROPAeuropa | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qx/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qx eE EUROPAeuropa | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qx/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sm EXITOSA | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sm EXITOSA | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0sm/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sm EXITOSA | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0sm/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sm EXITOSA | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0sm/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0so Exitosa | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0so/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0so Exitosa | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0so/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0so Exitosa | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0so/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0so Exitosa | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0so/index.m4s
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS
 http://181.224.255.210:8001/play/a0se/index.m3u8?hls
@@ -2884,6 +3505,13 @@ http://181.224.255.210:8001/play/a0se/index.m3u?hls
 http://181.224.255.210:8001/play/a0se/index.m4s?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS
 http://181.224.255.210:8001/play/a0se/index.mpd?hls
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🆕🇸Usa-Latino🌎",🇲🇽☑ Estrella TV | E! (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🆕🇸Usa-Latino🌎",🇲🇽☑ Estrella TV | E! (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="🆕🇸Usa-Latino🌎",🇲🇽* Estrella TV
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2466.m3u8
@@ -2951,12 +3579,70 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ Filmex Clásico MX | | Movies (1080p)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ge FX
-http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ql Film & Arts
-http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rh FRANCE 24
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FRANCE-24 | 480ᴾ (01)
+http://190.93.224.42/FRANCE-24/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FRANCE-24 | 480ᴾ (02)
+http://190.93.224.42/FRANCE-24/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FRANCE-24 | 480ᴾ (03)
+http://190.93.224.42/FRANCE-24/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FRANCE-24 | 480ᴾ (04)
+http://190.93.224.42/FRANCE-24/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FILM-AND-ARTS | 480ᴾ (01)
+http://190.93.224.42/FILM-AND-ARTS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FILM-AND-ARTS | 480ᴾ (02)
+http://190.93.224.42/FILM-AND-ARTS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FILM-AND-ARTS | 480ᴾ (03)
+http://190.93.224.42/FILM-AND-ARTS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FILM-AND-ARTS | 480ᴾ (04)
+http://190.93.224.42/FILM-AND-ARTS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FX | 1080ᴾ (01)
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FX | 1080ᴾ (02)
+http://190.93.224.42/FX/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FX | 1080ᴾ (03)
+http://190.93.224.42/FX/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① FX | 1080ᴾ (04)
+http://190.93.224.42/FX/mono.ts
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rh FRANCE 24 | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0rh/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rh FRANCE 24 | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0rh/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rh FRANCE 24 | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0rh/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rh FRANCE 24 | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0rh/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ql Film & Arts | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ql Film & Arts | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ql/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ql Film & Arts | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ql/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ql Film & Arts | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ql/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ge FX | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ge FX | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ge/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ge FX | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ge/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ge FX | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ge/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0om FOOD NETWORK | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0om/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0om FOOD NETWORK | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0om/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0om FOOD NETWORK | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0om/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0om FOOD NETWORK | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0om/index.m4s
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇲🇽★ FORMULA MX (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7155.m3u8
@@ -3073,19 +3759,83 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qg GOLDEN
-http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qu GOLDEN EDGE
-http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qv GOLDEN
-http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sz Golden
-http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ex GOURMET
-http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yx GOURMET
-http://181.224.255.210:8001/play/a0yx/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GOLDEN | 1080ᴾ (01)
+http://190.93.224.42/GOLDEN/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GOLDEN | 1080ᴾ (02)
+http://190.93.224.42/GOLDEN/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GOLDEN | 1080ᴾ (03)
+http://190.93.224.42/GOLDEN/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GOLDEN | 1080ᴾ (04)
+http://190.93.224.42/GOLDEN/mono.ts
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GLOBAL TELEVISION 13 ATV PE | 1080ᴾ (01)
+http://190.93.224.42/GLOBAL/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GLOBAL TELEVISION 13 ATV PE | 1080ᴾ (02)
+http://190.93.224.42/GLOBAL/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GLOBAL TELEVISION 13 ATV PE | 1080ᴾ (03)
+http://190.93.224.42/GLOBAL/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① GLOBAL TELEVISION 13 ATV PE | 1080ᴾ (04)
+http://190.93.224.42/GLOBAL/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r9 GLOBAL TELEVISION 13 ATV PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0r9/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r9 GLOBAL TELEVISION 13 ATV PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0r9/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r9 GLOBAL TELEVISION 13 ATV PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0r9/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r9 GLOBAL TELEVISION 13 ATV PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0r9/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ex GOURMET | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ex GOURMET | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ex/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ex GOURMET | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ex/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ex GOURMET | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ex/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yx GOURMET (01) x
+http://181.224.255.210:8001/play/a0yx/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0yx GOURMET (02)
+http://181.224.255.210:8001/play/a0yx/index.mpd
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qg GOLDEN | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qg GOLDEN | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0qg/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qg GOLDEN | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0qg/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qg GOLDEN | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0qg/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qu GOLDEN EDGE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qu GOLDEN EDGE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qu/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎o",🇪🇸a0qu GOLDEN EDGE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qu/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎o",🇪🇸a0qu GOLDEN EDGE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qu/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qv GOLDEN | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎o",🇪🇸a0qv GOLDEN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qv/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qv GOLDEN | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qv GOLDEN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sz Golden | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sz Golden | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sz/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sz Golden | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sz/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sz Golden | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sz/index.m4s
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇲🇽★ GALAVISION (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7605.m3u8
@@ -3141,6 +3891,193 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY | 1080ᴾ (01)
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY | 1080ᴾ (02)
+http://190.93.224.42/HISTORY/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY | 1080ᴾ (03)
+http://190.93.224.42/HISTORY/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY | 1080ᴾ (04)
+http://190.93.224.42/HISTORY/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY-2 | 480ᴾ (01)
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY-2 | 480ᴾ (02)
+http://190.93.224.42/HISTORY-2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY-2 | 480ᴾ (03)
+http://190.93.224.42/HISTORY-2/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HISTORY-2 | 480ᴾ (04)
+http://190.93.224.42/HISTORY-2/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-XTREME | 1080ᴾ (01)
+http://190.93.224.42/HBO-XTREME/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-XTREME | 1080ᴾ (02)
+http://190.93.224.42/HBO-XTREME/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-XTREME | 1080ᴾ (03)
+http://190.93.224.42/HBO-XTREME/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-XTREME | 1080ᴾ (04)
+http://190.93.224.42/HBO-XTREME/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-2 | 1080ᴾ (01)
+http://190.93.224.42/HBO-2/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-2 | 1080ᴾ (02)
+http://190.93.224.42/HBO-2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-2 | 1080ᴾ (03)
+http://190.93.224.42/HBO-2/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-2 | 1080ᴾ (04)
+http://190.93.224.42/HBO-2/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-PLUS+ | 480ᴾ (01)
+http://190.93.224.42/HBO-PLUS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-PLUS+ | 480ᴾ (02)
+http://190.93.224.42/HBO-PLUS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-PLUS+ | 480ᴾ (03)
+http://190.93.224.42/HBO-PLUS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-PLUS+ | 480ᴾ (04)
+http://190.93.224.42/HBO-PLUS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-FAMILY | 1080ᴾ (01)
+http://190.93.224.42/HBO-FAMILY/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-FAMILY | 1080ᴾ (02)
+http://190.93.224.42/HBO-FAMILY/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-FAMILY | 1080ᴾ (03)
+http://190.93.224.42/HBO-FAMILY/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-FAMILY | 1080ᴾ (04)
+http://190.93.224.42/HBO-FAMILY/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-SIGNATURE | 480ᴾ (01)
+http://190.93.224.42/HBO-SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-SIGNATURE | 480ᴾ (02)
+http://190.93.224.42/HBO-SIGNATURE/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-SIGNATURE | 480ᴾ (03)
+http://190.93.224.42/HBO-SIGNATURE/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① HBO-SIGNATURE | 480ᴾ (04)
+http://190.93.224.42/HBO-SIGNATURE/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m1 HISTORY | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m1/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m1 HISTORY | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m1/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m1 HISTORY | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m1/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m1 HISTORY | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m1/index.m4s
+
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qo H TV | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qo/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qo H TV | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qo/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qo H TV | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qo/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qo H TV | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qo/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sg HEi Now | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sg HEi Now | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sg/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sg HEi Now | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sg/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sg HEi Now | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sg/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mp HGTV | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mp/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mp HGTV | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mp/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mp HGTV | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mp/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mp HGTV | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mp/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qh HISTORY 2 | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qh/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qh HISTORY 2 | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qh/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qh HISTORY 2 | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qh/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qh HISTORY 2 | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qh/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oo HBO XTREME | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oo HBO XTREME | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0oo/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oo HBO XTREME | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0oo/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oo HBO XTREME | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0oo/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nw HBO XTREME | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nw HBO XTREME | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nw/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nw HBO XTREME | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nw/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nw HBO XTREME | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nw/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sv HBO 2 | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sv HBO 2 | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sv/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sv HBO 2 | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sv HBO 2 | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qz HBO+ | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qz HBO+ | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qz/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qz HBO+ | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qz/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qz HBO+ | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qz/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nv HBO FAMILY | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nv HBO FAMILY | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nv/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nv HBO FAMILY | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nv HBO FAMILY | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0re HBO SIGNATURE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0re/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0re HBO SIGNATURE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0re/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0re HBO SIGNATURE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0re/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0re HBO SIGNATURE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0re/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rf HBO MUNDI | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rf HBO MUNDI | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0rf/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rf HBO MUNDI | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0rf/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rf HBO MUNDI | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0rf/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0on HBO POP | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0on HBO POP | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0on/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0on HBO POP | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0on/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0on HBO POP | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0on/index.m4s
+
+
+
+
+
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oo HBO XTREME
 http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qz HBO+
@@ -3163,10 +4100,54 @@ http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qo/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 I 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① IPE 7.4 PE | 1080ᴾ (01)
+http://190.93.224.42/IPE/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① IPE 7.4 PE | 1080ᴾ (02)
+http://190.93.224.42/IPE/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① IPE 7.4 PE | 1080ᴾ (03)
+http://190.93.224.42/IPE/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① IPE 7.4 PE | 1080ᴾ (04)
+http://190.93.224.42/IPE/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m9/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m9/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m9/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m9/index.m4s
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 K 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KANAL-D-DRAMA | 480ᴾ (01)
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KANAL-D-DRAMA | 480ᴾ (02)
+http://190.93.224.42/KANAL-D-DRAMA/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KANAL-D-DRAMA | 480ᴾ (03)
+http://190.93.224.42/KANAL-D-DRAMA/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KANAL-D-DRAMA | 480ᴾ (04)
+http://190.93.224.42/KANAL-D-DRAMA/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KARIBENA PE | 720ᴾ (01)
+http://190.93.224.42/KARIBENA/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KARIBENA PE | 720ᴾ (02)
+http://190.93.224.42/KARIBENA/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KARIBENA PE | 720ᴾ (03)
+http://190.93.224.42/KARIBENA/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① KARIBENA PE | 720ᴾ (04)
+http://190.93.224.42/KARIBENA/mono.ts
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sq KANAL D DRAMA
 http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
@@ -3175,34 +4156,113 @@ http://181.224.255.210:8001/play/a0sq/index.m3u?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sq KANAL D DRAMA
 http://181.224.255.210:8001/play/a0sq/index.m4s?hls
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sx Karibena TV PE | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0sx/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sx Karibena TV PE | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0sx/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sx Karibena TV PE | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0sx/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sx Karibena TV PE | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0sx/index.m4s
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 L 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS
-http://181.224.255.210:8001/play/a0se/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pk LATINA TV
-http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sf L1 Max
-http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE
-http://181.224.255.210:8001/play/a0sr/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE
-http://181.224.255.210:8001/play/a0sr/index.m3u?hls
-
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🆕🇸Usa-Latino🌎",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
 http://lemon.catchmeifyo.com:8000/5591251346/0984058798/16428
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🆕🇸Usa-Latino🌎",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
 http://lemon.catchmeifyo.com:8000/live/5591251346/0984058798/16428.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LOVE-NATURE | 480ᴾ (01)
+http://190.93.224.42/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LOVE-NATURE | 480ᴾ (02)
+http://190.93.224.42/LOVE-NATURE/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LOVE-NATURE | 480ᴾ (03)
+http://190.93.224.42/LOVE-NATURE/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LOVE-NATURE | 480ᴾ (04)
+http://190.93.224.42/LOVE-NATURE/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LIGA-1-MAX PE | 1080ᴾ (01)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LIGA-1-MAX PE | 1080ᴾ (02)
+http://190.93.224.42/LIGA-1-MAX/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LIGA-1-MAX PE | 1080ᴾ (03)
+http://190.93.224.42/LIGA-1-MAX/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LIGA-1-MAX PE | 1080ᴾ (04)
+http://190.93.224.42/LIGA-1-MAX/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LATINA 2 PE | 1080ᴾ (01)
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LATINA 2 PE | 1080ᴾ (02)
+http://190.93.224.42/LATINA/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LATINA 2 PE | 1080ᴾ (03)
+http://190.93.224.42/LATINA/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LATINA 2 PE | 1080ᴾ (04)
+http://190.93.224.42/LATINA/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LA-TELE ATV | 1080ᴾ (01)
+http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LA-TELE ATV | 1080ᴾ (02)
+http://190.93.224.42/LA-TELE/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LA-TELE ATV | 1080ᴾ (03)
+http://190.93.224.42/LA-TELE/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① LA-TELE ATV | 1080ᴾ (04)
+http://190.93.224.42/LA-TELE/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q6 LIFETIME | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q6/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q6 LIFETIME | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q6/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q6 LIFETIME | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q6/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q6 LIFETIME | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q6/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0sr/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0sr/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0sr/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sr LOVE NATURE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0sr/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS MX | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0se/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS MX | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0se/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS MX | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0se/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0se LAS ESTRELLAS MX | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0se/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pk LATINA TV PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pk LATINA TV PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0pk/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pk LATINA TV PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0pk/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pk LATINA TV PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0pk/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sf L1 Max (01) x
+http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sf L1 Max (02)
+http://181.224.255.210:8001/play/a0sf/index.mpd
+
+
+
+
 
 
 
@@ -3215,14 +4275,16 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="🆕🇸Usa-Latino🌎",🇲🇽☑ MEXIQUENSE AMX Noticias | News (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f9 MTV | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0f9/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f9 MTV | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0f9/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f9 MTV | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0f9/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0f9 MTV | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0f9/index.m4s
 
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
-http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/27542.m3u8
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27542.ts
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27542
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇲🇽★ MILENIO TV MX (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7455.m3u8
@@ -3231,33 +4293,103 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7455.m3u8
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇲🇽★ MILENIO TV MX (opt3)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7455.ts
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
+http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/27542.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27542.ts
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* Mega Tv Miami
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27542
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 MEGA 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇵🇷ᴾᴿ¹ MEGA TV (opt1) x
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇵🇷ᴾᴿ¹ MEGA TV (opt1) 
 http://disfruta.net:80/fpavas/raZFGMA7GT/2726
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 NOVELAS 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 N 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fm NICKELODEON
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIVA-TV PE | 720ᴾ (01)
+http://190.93.224.42/NATIVA-TV/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIVA-TV PE | 720ᴾ (02)
+http://190.93.224.42/NATIVA-TV/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIVA-TV PE | 720ᴾ (03)
+http://190.93.224.42/NATIVA-TV/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIVA-TV PE | 720ᴾ (04)
+http://190.93.224.42/NATIVA-TV/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (01)
+http://190.93.224.42/NAT-GEO/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (02)
+http://190.93.224.42/NAT-GEO/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (03)
+http://190.93.224.42/NAT-GEO/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (04)
+http://190.93.224.42/NAT-GEO/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NICKELODEON | 1080ᴾ (01)
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NICKELODEON | 1080ᴾ (02)
+http://190.93.224.42/NICK/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NICKELODEON | 1080ᴾ (03)
+http://190.93.224.42/NICK/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① NICKELODEON | 1080ᴾ (04)
+http://190.93.224.42/NICK/mono.ts
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m2 NATIONAL GEOGRAPHIC | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0m2/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m2 NATIONAL GEOGRAPHIC | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0m2/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m2 NATIONAL GEOGRAPHIC | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0m2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m2 NATIONAL GEOGRAPHIC | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0m2/index.m4s
+
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fm NICKELODEON | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ol NICKELODEON
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fm NICKELODEON | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0fm/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fm NICKELODEON | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0fm/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0fm NICKELODEON | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0fm/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mm NICK JR. | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mm/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mm NICK JR. | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mm/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mm NICK JR. | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mm/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mm NICK JR. | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mm/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ol Nickelodeon | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zm NICKELODEON
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ol Nickelodeon | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ol/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ol Nickelodeon | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ol/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ol Nickelodeon | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ol/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zm NICKELODEON (01) x
 http://181.224.255.210:8001/play/a0zm/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qp NTN 24
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0zm NICKELODEON (02)
+http://181.224.255.210:8001/play/a0zm/index.mpd
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qp NTN 24 | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qp NTN 24 | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qp/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qp NTN 24 | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qp/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qp NTN 24 | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qp/index.m4s
+
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸* tln Novelas
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/370.ts
@@ -3265,13 +4397,129 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/370.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/402.ts
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 O 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① OVACION PE | 1080ᴾ (01)
+http://190.93.224.42/OVACION/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① OVACION PE | 1080ᴾ (02)
+http://190.93.224.42/OVACION/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① OVACION PE | 1080ᴾ (03)
+http://190.93.224.42/OVACION/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① OVACION PE | 1080ᴾ (04)
+http://190.93.224.42/OVACION/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r4 OROMAR TV EC | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0r4/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r4 OROMAR TV EC | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0r4/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r4 OROMAR TV EC | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0r4/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r4 OROMAR TV EC | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0r4/index.m4s
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 P 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PASIONES | 1080ᴾ (01)
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PASIONES | 1080ᴾ (02)
+http://190.93.224.42/PASIONES/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PASIONES | 1080ᴾ (03)
+http://190.93.224.42/PASIONES/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PASIONES | 1080ᴾ (04)
+http://190.93.224.42/PASIONES/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PBO PE | 720ᴾ (01)
+http://190.93.224.42/PBO/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PBO PE | 720ᴾ (02)
+http://190.93.224.42/PBO/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PBO PE | 720ᴾ (03)
+http://190.93.224.42/PBO/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PBO PE | 720ᴾ (04)
+http://190.93.224.42/PBO/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PANAMERICANA 5 PE | 1080ᴾ (01)
+http://190.93.224.42/PANAMERICANA/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PANAMERICANA 5 PE | 1080ᴾ (02)
+http://190.93.224.42/PANAMERICANA/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PANAMERICANA 5 PE | 1080ᴾ (03)
+http://190.93.224.42/PANAMERICANA/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① PANAMERICANA 5 PE | 1080ᴾ (04)
+http://190.93.224.42/PANAMERICANA/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r6 PANAMERICANA 5 PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0r6/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r6 PANAMERICANA 5 PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0r6/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r6 PANAMERICANA 5 PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0r6/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r6 PANAMERICANA 5 PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0r6/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s5 PANAMERICANA 5 PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s5 PANAMERICANA 5 PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0s5/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s5 PANAMERICANA 5 PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0s5/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s5 PANAMERICANA 5 PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0s5/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sh PO PU TV | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sh/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sh PO PU TV | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sh/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sh PO PU TV | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sh/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sh PO PU TV | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sh/index.m4s
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 R 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① RPP 10 PE | 1080ᴾ (01)
+http://190.93.224.42/RPP/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① RPP 10 PE | 1080ᴾ (02)
+http://190.93.224.42/RPP/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① RPP 10 PE | 1080ᴾ (03)
+http://190.93.224.42/RPP/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① RPP 10 PE | 1080ᴾ (04)
+http://190.93.224.42/RPP/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r8 RPP 10 PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0r8/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r8 RPP 10 PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0r8/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r8 RPP 10 PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0r8/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0r8 RPP 10 PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0r8/index.m4s
 
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qi RCN | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qi RCN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qi/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qi RCN | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qi/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qi RCN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qi/index.m4s
 
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸★ RT EN ESPANOL (opt1)
@@ -3310,6 +4558,104 @@ http://mains.best:2086/3003556325/2772007/66571
 http://mains.services:2086/640939802963/IDC01478!/66571
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 S 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SONY-CHANNEL | 1080ᴾ (01)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SONY-CHANNEL | 1080ᴾ (02)
+http://190.93.224.42/SONY-CHANNEL/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SONY-CHANNEL | 1080ᴾ (03)
+http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SONY-CHANNEL | 1080ᴾ (04)
+http://190.93.224.42/SONY-CHANNEL/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SPACE | 1080ᴾ (01)
+http://190.93.224.42/SPACE/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SPACE | 1080ᴾ (02)
+http://190.93.224.42/SPACE/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SPACE | 1080ᴾ (03)
+http://190.93.224.42/SPACE/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① SPACE | 1080ᴾ (04)
+http://190.93.224.42/SPACE/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (01)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (02)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (03)
+http://190.93.224.42/STUDIO-UNIVERSAL/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (04)
+http://190.93.224.42/STUDIO-UNIVERSAL/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pu STINGRAY CONCERTS | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0pu/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pu STINGRAY CONCERTS | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0pu/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pu STINGRAY CONCERTS | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0pu/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0pu STINGRAY CONCERTS | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0pu/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0oc/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0oc/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0oc/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ma SPACE | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ma SPACE | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ma/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ma SPACE | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ma/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ma SPACE | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ma/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0oh/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0oh/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0oh/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0sc/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0sc/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0sc/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nx SUN | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0nx/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nx SUN | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0nx/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nx SUN | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0nx/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0nx SUN | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0nx/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rs SUMAC TV PE | 720ᴾ (01)
+http://181.224.255.210:8001/play/a0rs/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rs SUMAC TV PE | 720ᴾ (02)
+http://181.224.255.210:8001/play/a0rs/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rs SUMAC TV PE | 720ᴾ (03)
+http://181.224.255.210:8001/play/a0rs/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rs SUMAC TV PE | 720ᴾ (04)
+http://181.224.255.210:8001/play/a0rs/index.m4s
+
+
+
 
 
 
@@ -3319,24 +4665,179 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qw TCM
-http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oa TNT
-http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ls TNT SERIES
-http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lv TNT NOVELAS
-http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qm TLNOVELAS tln
-http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ot TELEMUNDO INTERNACIONAL
-http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ou TOONCAST
-http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ss TV PERU
-http://181.224.255.210:8001/play/a0ss/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rp TELELIMA
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT | 1080ᴾ (01)
+http://190.93.224.42/TNT/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT | 1080ᴾ (02)
+http://190.93.224.42/TNT/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT | 1080ᴾ (03)
+http://190.93.224.42/TNT/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT | 1080ᴾ (04)
+http://190.93.224.42/TNT/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SERIES | 1080ᴾ (01)
+http://190.93.224.42/TNT-SERIES/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SERIES | 1080ᴾ (02)
+http://190.93.224.42/TNT-SERIES/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SERIES | 1080ᴾ (03)
+http://190.93.224.42/TNT-SERIES/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SERIES | 1080ᴾ (04)
+http://190.93.224.42/TNT-SERIES/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-NOVELAS | 1080ᴾ (01)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-NOVELAS | 1080ᴾ (02)
+http://190.93.224.42/TNT-NOVELAS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-NOVELAS | 1080ᴾ (03)
+http://190.93.224.42/TNT-NOVELAS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-NOVELAS | 1080ᴾ (04)
+http://190.93.224.42/TNT-NOVELAS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS-2 | 1080ᴾ (01)
+http://190.93.224.42/TNT-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS-2 | 1080ᴾ (02)
+http://190.93.224.42/TNT-SPORTS-2/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS-2 | 1080ᴾ (03)
+http://190.93.224.42/TNT-SPORTS-2/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS-2 | 1080ᴾ (04)
+http://190.93.224.42/TNT-SPORTS-2/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS | 1080ᴾ (01)
+http://190.93.224.42/TNT-SPORTS/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS | 1080ᴾ (02)
+http://190.93.224.42/TNT-SPORTS/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS | 1080ᴾ (03)
+http://190.93.224.42/TNT-SPORTS/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TNT-SPORTS | 1080ᴾ (04)
+http://190.93.224.42/TNT-SPORTS/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TV-PERU 7 | 1080ᴾ (01)
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TV-PERU 7 | 1080ᴾ (02)
+http://190.93.224.42/TV-PERU/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TV-PERU 7 | 1080ᴾ (03)
+http://190.93.224.42/TV-PERU/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TV-PERU 7 | 1080ᴾ (04)
+http://190.93.224.42/TV-PERU/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
+http://190.93.224.42/TELEMUNDO/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
+http://190.93.224.42/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (04)
+http://190.93.224.42/TELEMUNDO/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q5 TELEFE AR | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q5 TELEFE AR | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q5/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q5 TELEFE AR | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q5/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q5 TELEFE AR | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q5/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q9 TVE ES | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0q9/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q9 TVE ES | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0q9/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q9 TVE ES | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0q9/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0q9 TVE ES | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0q9/index.m4s
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rp TELELIMA PE | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rp TELELIMA PE | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0rp/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rp TELELIMA PE | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0rp/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rp TELELIMA PE | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0rp/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ss TV PERU | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ss/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ss TV PERU | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ss/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ss TV PERU | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ss/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ss TV PERU | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ss/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qw TCM | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qw TCM | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qw/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qw TCM | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qw/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qw TCM | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qw/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oa TNT | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oa TNT | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0oa/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oa TNT | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0oa/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0oa TNT | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0oa/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ls TNT SERIES | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ls TNT SERIES | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ls/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ls TNT SERIES | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ls/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ls TNT SERIES | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ls/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lv TNT NOVELAS | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lv TNT NOVELAS | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0lv/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lv TNT NOVELAS | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0lv/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lv TNT NOVELAS | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0lv/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qm TLNOVELAS tln | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qm TLNOVELAS tln | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qm/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qm TLNOVELAS tln | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qm/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qm TLNOVELAS tln | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qm/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ot TELEMUNDO INTERNACIONAL | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ot TELEMUNDO INTERNACIONAL | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ot/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ot TELEMUNDO INTERNACIONAL | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ot/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ot TELEMUNDO INTERNACIONAL | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ot/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mn TLC | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mn/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mn TLC | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mn/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mn TLC | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mn/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mn TLC | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mn/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ou TOONCAST | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ou TOONCAST | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0ou/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ou TOONCAST | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0ou/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0ou TOONCAST | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0ou/index.m4s
+
 
 
 
@@ -3377,14 +4878,12 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7157.ts
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7157.ts
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 U 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qt USA
-http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
-
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -3436,6 +4935,37 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 #EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① UNIVISION | 1080ᴾ (01)
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① UNIVISION | 1080ᴾ (02)
+http://190.93.224.42/UNIVISION/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① UNIVISION | 1080ᴾ (03)
+http://190.93.224.42/UNIVISION/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① UNIVISION | 1080ᴾ (04)
+http://190.93.224.42/UNIVISION/mono.ts
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lp UNIVERSAL TV | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lp UNIVERSAL TV | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0lp/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lp UNIVERSAL TV | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0lp/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0lp UNIVERSAL TV | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0lp/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qt USA Network | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qt USA Network | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qt/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qt USA Network | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qt/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qt USA Network | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qt/index.m4s
+
+
+
+
+
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
 https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
@@ -3468,12 +4998,76 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7163.m3u8
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7163.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 V 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (01)
+http://190.93.224.42/VIVA-TV/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (02)
+http://190.93.224.42/VIVA-TV/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (03)
+http://190.93.224.42/VIVA-TV/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (04)
+http://190.93.224.42/VIVA-TV/mono.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 W 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① WILLAX TELEVISION 12 PE | 1080ᴾ (01)
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① WILLAX TELEVISION 12 PE | 1080ᴾ (02)
+http://190.93.224.42/WILLAX/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① WILLAX TELEVISION 12 PE | 1080ᴾ (03)
+http://190.93.224.42/WILLAX/playlist.m3u8
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① WILLAX TELEVISION 12 PE | 1080ᴾ (04)
+http://190.93.224.42/WILLAX/mono.ts
+
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s7 WILLAX TELEVISION PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s7 WILLAX TELEVISION PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0s7/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s7 WILLAX TELEVISION PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0s7/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0s7 WILLAX TELEVISION PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0s7/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0od WB TV | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0od/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0od WB TV | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0od/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0od WB TV | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0od/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0od WB TV | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0od/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rq WEST TV Western | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rq WEST TV Western | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0rq/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rq WEST TV Western | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0rq/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rq WEST TV Western | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0rq/index.m4s
+
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sp WILLAX PE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0sp/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sp WILLAX PE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0sp/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sp WILLAX PE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0sp/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0sp WILLAX PE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0sp/index.m4s
+
+
+
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0rq WEST TV Western
 http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
@@ -3493,15 +5087,27 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/67359.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/67346.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 X 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸Usa-Latino🌎",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS
-http://181.224.255.210:8001/play/a0qs/index.m3u?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qs/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qs/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0qs X ESPORTS | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qs/index.m4s
+
+
+
+
+
+
 
 
 
