@@ -12415,7 +12415,7 @@ http://190.93.224.42/HBO-PLUS/mono.ts
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① HBO-FAMILY | 1080ᴾ (01)
 http://190.93.224.42/HBO-FAMILY/index.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADORA",🇪🇸① HBO-FAMILY | 1080ᴾ (02)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① HBO-FAMILY | 1080ᴾ (02)
 http://190.93.224.42/HBO-FAMILY/index.mpd
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① HBO-FAMILY | 1080ᴾ (03)
 http://190.93.224.42/HBO-FAMILY/playlist.m3u8
@@ -12895,17 +12895,6 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="🇵🇪PERU" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",🇵🇪   ##########🌐  PERU TV  🌐##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇵🇪 SUR PERU 🇵🇪 USA 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/66592
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪☆ SUR PERU USA (opt2) 
-http://mains.best:2086/3003556325/2772007/66592 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇵🇪 A 🇵🇪 Peru 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
@@ -13155,48 +13144,38 @@ http://190.93.224.42/DISNEY-JR/index.m3u8
 http://190.93.224.42/DISNEY-JR/index.mpd
 
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.ts 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u8
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS 2 | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.m3u8
+
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪★ D SPORTS | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
 
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt1)
+
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS URUGUAY *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt2)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS URUGUAY *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt3)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS URUGUAY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt1)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV UY *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt2)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV UY *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt3)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV UY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1806
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt1)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV PLUS UY *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt2)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV PLUS UY *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* DIRECTV D SPORTS UY *HD (opt3)
+#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* VTV PLUS UY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
 
 
@@ -13295,6 +13274,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇵🇪PERU",🇪🇨☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇵🇪PERU",🇪🇨☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① FRANCE-24 (01)
 http://190.93.224.42/FRANCE-24/index.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① FRANCE-24 (02)
@@ -13325,6 +13310,11 @@ http://190.93.224.42/GOLDEN/index.mpd
 http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① GLOBAL TELEVISION ATV PE (02)
 http://190.93.224.42/GLOBAL/index.mpd
+
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇵🇪PERU",🇪🇸☑ Garage TV Latin America | Auto
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇵🇪PERU",🇪🇸☑ Garage TV Latin America | Auto
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇵🇪 H 🇵🇪 Peru 🌎📺
@@ -13406,6 +13396,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇵🇪PERU",🇪🇸☑ Vive Kanal D Drama | 1080ᴾ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="🇵🇪PERU",🇪🇸☑ Kanal D Drama | 1080ᴾ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.mpd?PlaylistM3UCL
+
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① KANAL-D-DRAMA (01)
 http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① KANAL-D-DRAMA (02)
@@ -13425,6 +13420,11 @@ http://181.224.255.210:8001/play/a0sx/index.m3u8?hls
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇵🇪PERU",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① LOVE-NATURE (01)
 http://190.93.224.42/LOVE-NATURE/index.m3u8
@@ -13593,11 +13593,11 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* LIGA1 PERU *HQ (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95656
 
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
 #EXTINF:-1 tvg-logo="" group-title="🇵🇪PERU",🇪🇸* LaLiga TV | por M+ *HD (opt1)
@@ -13614,21 +13614,6 @@ http://38.183.182.166:8000/play/a12t/index.m3u8
 http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪®SUR | L1MAX
-http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4841.ts
-
-#EXTINF:-1 group-title="🇵🇪PERU”,®🇪🇸 L1MAX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145403
-#EXTINF:-1 group-title="🇵🇪PERU”,®🇪🇸 L1MAX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145450
-#EXTINF:-1 group-title="🇵🇪PERU”,🇵🇪® L1MAX ᴸᴵᴳᴬ¹ | PER (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4841
-#EXTINF:-1 group-title="🇵🇪PERU”,🇵🇪® LIGA 1 MAX ᴸᴵᴳᴬ ¹ | PER (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/159941
-#EXTINF:-1 group-title="🇵🇪PERU”,🇵🇪® PER: LIGA 1  HD ᴸᴵᴳᴬ ¹ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/164826	
-#EXTINF:-1 group-title="🇵🇪PERU”,🇵🇪® PER: PERU LIGA 1 (HVEC) (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/159457
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇵🇪PERU",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇵🇪 M 🇵🇪 Peru 🌎📺
@@ -13913,12 +13898,20 @@ http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸a0rp TELELIMA
 http://181.224.255.210:8001/play/a0rp/index.mpd?hls
 
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* TENNIS 2 *HD (opt1)
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* TENNIS 2 *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1822.m3u8
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* TENNIS 2 *HD (opt2)
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* TENNIS 2 *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1822.ts
-#EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* TENNIS 2 *HD (opt3)
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* TENNIS 2 *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1822
+
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1 group-title="🇵🇪PERU",🇪🇸* FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
+
 
 #EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
@@ -13984,12 +13977,6 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
 #EXTINF:-1,FOX CR | Tigo Sports *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
 
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇵🇪* TV AGRO *HD (opt1)
@@ -15183,6 +15170,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① AXN | 1080ᴾ (01)
+http://190.93.224.42/AXN/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① AXN | 1080ᴾ (02)
+http://190.93.224.42/AXN/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① AXN | 1080ᴾ (03)
+http://190.93.224.42/AXN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① AXN | 1080ᴾ (04)
+http://190.93.224.42/AXN/mono.ts
+
+
 
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇺🇾URUGUAY",🇺🇾☑ France 24 Español | News   
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -15198,34 +15195,31 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (03)
+http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (04)
+http://190.93.224.42/COMEDY-CENTRAL/mono.ts
+
 
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7631.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7631
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY SD (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.mpd
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7635.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7635
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 4 UY HD (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.mpd
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7636.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7636
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ CANAL 10 UY (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 D 🇺🇾 Uruguay 🌎📺
@@ -15239,6 +15233,47 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* DIRECTV D SPORTS URUGUAY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸★ D SPORTS 2 | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸★ D SPORTS 2 | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸★ D SPORTS | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸★ D SPORTS | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-TURBO | 480ᴾ (01)
+http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-TURBO | 480ᴾ (02)
+http://190.93.224.42/DISCOVERY-TURBO/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-TURBO | 480ᴾ (03)
+http://190.93.224.42/DISCOVERY-TURBO/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-TURBO | 480ᴾ (04)
+http://190.93.224.42/DISCOVERY-TURBO/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (03)
+http://190.93.224.42/DISCOVERY-KIDS/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (04)
+http://190.93.224.42/DISCOVERY-KIDS/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISNEY-JR | 480ᴾ (01)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISNEY-JR | 480ᴾ (02)
+http://190.93.224.42/DISNEY-JR/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISNEY-JR | 480ᴾ (03)
+http://190.93.224.42/DISNEY-JR/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① DISNEY-JR | 480ᴾ (04)
+http://190.93.224.42/DISNEY-JR/mono.ts
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 E 🇺🇾 Uruguay 🌎📺
@@ -15325,6 +15360,16 @@ http://mains.best:2086/3003556325/2772007/66568
 #EXTINF:-1 group-title="🇺🇾URUGUAY",☆ ESPN DEPORTES (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66568 
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ENTERTAINMENT | 480ᴾ (01)
+http://190.93.224.42/ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ENTERTAINMENT | 480ᴾ (02)
+http://190.93.224.42/ENTERTAINMENT/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ENTERTAINMENT | 480ᴾ (03)
+http://190.93.224.42/ENTERTAINMENT/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ENTERTAINMENT | 480ᴾ (04)
+http://190.93.224.42/ENTERTAINMENT/mono.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 U 🇺🇾 Uruguay 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -15349,17 +15394,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7618.ts
-
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7619.ts
-
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt2)
@@ -15373,6 +15407,18 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
+
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7618.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7619.ts
+
 
 
 
@@ -15389,23 +15435,11 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.mpd
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ D SPORTS 2 | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.m3u
 
 
 
@@ -15443,6 +15477,13 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* DIRECTV D SPORTS UY *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
+
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 #EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
@@ -15508,12 +15549,6 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
 #EXTINF:-1,FOX CR | Tigo Sports *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
 
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* TENNIS 2 *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1822.ts
@@ -15633,18 +15668,400 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40957
 #EXTINF:-1 tvg-name="🇻🇪VENEZUELA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",🇻🇪   ##########♥️  VENEZUELA TV ♥️##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 01 🇻🇪 Venezuela 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 A 🇻🇪 Venezuela 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① AXN | 1080ᴾ (01)
+http://190.93.224.42/AXN/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① AXN | 1080ᴾ (02)
+http://190.93.224.42/AXN/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① AXN | 1080ᴾ (03)
+http://190.93.224.42/AXN/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① AXN | 1080ᴾ (04)
+http://190.93.224.42/AXN/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 C 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (03)
+http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (04)
+http://190.93.224.42/COMEDY-CENTRAL/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 D 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ DW Español | News (opt1)       
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ DW Español | News (opt2)      
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-TURBO | 480ᴾ (01)
+http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-TURBO | 480ᴾ (02)
+http://190.93.224.42/DISCOVERY-TURBO/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-TURBO | 480ᴾ (03)
+http://190.93.224.42/DISCOVERY-TURBO/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-TURBO | 480ᴾ (04)
+http://190.93.224.42/DISCOVERY-TURBO/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (03)
+http://190.93.224.42/DISCOVERY-KIDS/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (04)
+http://190.93.224.42/DISCOVERY-KIDS/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISNEY-JR | 480ᴾ (01)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISNEY-JR | 480ᴾ (02)
+http://190.93.224.42/DISNEY-JR/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISNEY-JR | 480ᴾ (03)
+http://190.93.224.42/DISNEY-JR/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① DISNEY-JR | 480ᴾ (04)
+http://190.93.224.42/DISNEY-JR/mono.ts
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS URUGUAY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELAA",🇪🇸* DIRECTV D SPORTS URUGUAY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS URUGUAY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV UY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV UY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV UY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1806
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV PLUS UY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV PLUS UY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸* VTV PLUS UY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 E 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ENTERTAINMENT | 480ᴾ (01)
+http://190.93.224.42/ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ENTERTAINMENT | 480ᴾ (02)
+http://190.93.224.42/ENTERTAINMENT/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ENTERTAINMENT | 480ᴾ (03)
+http://190.93.224.42/ENTERTAINMENT/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ENTERTAINMENT | 480ᴾ (04)
+http://190.93.224.42/ENTERTAINMENT/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN | 720ᴾ (01)
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN | 720ᴾ (02)
+http://190.93.224.42/ESPN/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN | 720ᴾ (03)
+http://190.93.224.42/ESPN/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN | 720ᴾ (04)
+http://190.93.224.42/ESPN/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 2 | 720ᴾ (01)
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 2 | 720ᴾ (02)
+http://190.93.224.42/ESPN-2/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 2 | 720ᴾ (03)
+http://190.93.224.42/ESPN-2/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 2 | 720ᴾ (04)
+http://190.93.224.42/ESPN-2/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 3 | 720ᴾ (01)
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 3 | 720ᴾ (02)
+http://190.93.224.42/ESPN-3/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 3 | 720ᴾ (03)
+http://190.93.224.42/ESPN-3/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 3 | 720ᴾ (04)
+http://190.93.224.42/ESPN-3/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 4 | 720ᴾ (01)
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 4 | 720ᴾ (02)
+http://190.93.224.42/ESPN-4/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 4 | 720ᴾ (03)
+http://190.93.224.42/ESPN-4/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 4 | 720ᴾ (04)
+http://190.93.224.42/ESPN-4/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 5 | 720ᴾ (01)
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 5 | 720ᴾ (02)
+http://190.93.224.42/ESPN-5/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 5 | 720ᴾ (03)
+http://190.93.224.42/ESPN-5/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 5 | 720ᴾ (04)
+http://190.93.224.42/ESPN-5/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 6 | 720ᴾ (01)
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 6 | 720ᴾ (02)
+http://190.93.224.42/ESPN-6/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 6 | 720ᴾ (03)
+http://190.93.224.42/ESPN-6/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 6 | 720ᴾ (04)
+http://190.93.224.42/ESPN-6/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 7 | 720ᴾ (01)
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 7 | 720ᴾ (02)
+http://190.93.224.42/ESPN-7/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 7 | 720ᴾ (03)
+http://190.93.224.42/ESPN-7/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN 7 | 720ᴾ (04)
+http://190.93.224.42/ESPN-7/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN-PREMIUM | 720ᴾ (01)
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN-PREMIUM | 720ᴾ (02)
+http://190.93.224.42/ESPN-PREMIUM/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN-PREMIUM | 720ᴾ (03)
+http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① ESPN-PREMIUM | 720ᴾ (04)
+http://190.93.224.42/ESPN-PREMIUM/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",☆ ESPN DEPORTES (opt2) 
+http://mains.best:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸ᴰᴱᴾᴼᴿᵀᴱˢ ESPN 2 HD (AR)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1084.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸ᴰᴱᴾᴼᴿᵀᴱˢ ESPN 2 HD (AR)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1084.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸ᴰᴱᴾᴼᴿᵀᴱˢ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸ᴰᴱᴾᴼᴿᵀᴱˢ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 F 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇻🇪VENEZUELA",🇪🇨☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇻🇪VENEZUELA",🇪🇨☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FRANCE-24 | 480ᴾ (01)
+http://190.93.224.42/FRANCE-24/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FRANCE-24 | 480ᴾ (02)
+http://190.93.224.42/FRANCE-24/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FRANCE-24 | 480ᴾ (03)
+http://190.93.224.42/FRANCE-24/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FRANCE-24 | 480ᴾ (04)
+http://190.93.224.42/FRANCE-24/mono.ts
+
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Filmex MX | Movies (Xumo) | 1080ᴾ
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Filmex MX | Movies (Xumo) | 1080ᴾ
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Filmex Clásico MX | | Movies | 1080ᴾ
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Filmex Clásico MX | | Movies | 1080ᴾ
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FILM-AND-ARTS | 480ᴾ (01)
+http://190.93.224.42/FILM-AND-ARTS/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FILM-AND-ARTS | 480ᴾ (02)
+http://190.93.224.42/FILM-AND-ARTS/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FILM-AND-ARTS | 480ᴾ (03)
+http://190.93.224.42/FILM-AND-ARTS/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FILM-AND-ARTS | 480ᴾ (04)
+http://190.93.224.42/FILM-AND-ARTS/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FX | 1080ᴾ (01)
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FX | 1080ᴾ (02)
+http://190.93.224.42/FX/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FX | 1080ᴾ (03)
+http://190.93.224.42/FX/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① FX | 1080ᴾ (04)
+http://190.93.224.42/FX/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 G 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/585.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION TV *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/585.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION TV *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/585
+
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① GOLDEN | 1080ᴾ (01)
+http://190.93.224.42/GOLDEN/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① GOLDEN | 1080ᴾ (02)
+http://190.93.224.42/GOLDEN/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① GOLDEN | 1080ᴾ (03)
+http://190.93.224.42/GOLDEN/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① GOLDEN | 1080ᴾ (04)
+http://190.93.224.42/GOLDEN/mono.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 H 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY | 1080ᴾ (01)
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY | 1080ᴾ (02)
+http://190.93.224.42/HISTORY/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY | 1080ᴾ (03)
+http://190.93.224.42/HISTORY/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY | 1080ᴾ (04)
+http://190.93.224.42/HISTORY/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY-2 | 480ᴾ (01)
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY-2 | 480ᴾ (02)
+http://190.93.224.42/HISTORY-2/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY-2 | 480ᴾ (03)
+http://190.93.224.42/HISTORY-2/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HISTORY-2 | 480ᴾ (04)
+http://190.93.224.42/HISTORY-2/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-XTREME | 1080ᴾ (01)
+http://190.93.224.42/HBO-XTREME/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-XTREME | 1080ᴾ (02)
+http://190.93.224.42/HBO-XTREME/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-XTREME | 1080ᴾ (03)
+http://190.93.224.42/HBO-XTREME/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-XTREME | 1080ᴾ (04)
+http://190.93.224.42/HBO-XTREME/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-2 | 1080ᴾ (01)
+http://190.93.224.42/HBO-2/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-2 | 1080ᴾ (02)
+http://190.93.224.42/HBO-2/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-2 | 1080ᴾ (03)
+http://190.93.224.42/HBO-2/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-2 | 1080ᴾ (04)
+http://190.93.224.42/HBO-2/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-PLUS+ | 480ᴾ (01)
+http://190.93.224.42/HBO-PLUS/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-PLUS+ | 480ᴾ (02)
+http://190.93.224.42/HBO-PLUS/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-PLUS+ | 480ᴾ (03)
+http://190.93.224.42/HBO-PLUS/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-PLUS+ | 480ᴾ (04)
+http://190.93.224.42/HBO-PLUS/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-FAMILY | 1080ᴾ (01)
+http://190.93.224.42/HBO-FAMILY/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-FAMILY | 1080ᴾ (02)
+http://190.93.224.42/HBO-FAMILY/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-FAMILY | 1080ᴾ (03)
+http://190.93.224.42/HBO-FAMILY/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-FAMILY | 1080ᴾ (04)
+http://190.93.224.42/HBO-FAMILY/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-SIGNATURE | 480ᴾ (01)
+http://190.93.224.42/HBO-SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-SIGNATURE | 480ᴾ (02)
+http://190.93.224.42/HBO-SIGNATURE/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-SIGNATURE | 480ᴾ (03)
+http://190.93.224.42/HBO-SIGNATURE/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① HBO-SIGNATURE | 480ᴾ (04)
+http://190.93.224.42/HBO-SIGNATURE/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 K 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Vive Kanal D Drama | 1080ᴾ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ Kanal D Drama | 1080ᴾ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.mpd?PlaylistM3UCL
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① KANAL-D-DRAMA | 480ᴾ (01)
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① KANAL-D-DRAMA | 480ᴾ (02)
+http://190.93.224.42/KANAL-D-DRAMA/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① KANAL-D-DRAMA | 480ᴾ (03)
+http://190.93.224.42/KANAL-D-DRAMA/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① KANAL-D-DRAMA | 480ᴾ (04)
+http://190.93.224.42/KANAL-D-DRAMA/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 L 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① LOVE-NATURE | 480ᴾ (01)
+http://190.93.224.42/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① LOVE-NATURE | 480ᴾ (02)
+http://190.93.224.42/LOVE-NATURE/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① LOVE-NATURE | 480ᴾ (03)
+http://190.93.224.42/LOVE-NATURE/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① LOVE-NATURE | 480ᴾ (04)
+http://190.93.224.42/LOVE-NATURE/mono.ts
+
+#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* SKY SPORTS Premier League | LALIGA *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
 #EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* LaLiga TV | por M+ *HD (opt1)
@@ -15655,49 +16072,227 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7815.mpd
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.m3u
-
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7811.mpd
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸★ D SPORTS 2 | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.m3u
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 M 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1806
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/586.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/586.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/586
 
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
-#EXTINF:-1 tvg-logo="" group-title="🇻🇪VENEZUELA",🇪🇸* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 N 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (01)
+http://190.93.224.42/NAT-GEO/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (02)
+http://190.93.224.42/NAT-GEO/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (03)
+http://190.93.224.42/NAT-GEO/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NATIONAL GEOGRAPHIC | 1080ᴾ (04)
+http://190.93.224.42/NAT-GEO/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NICKELODEON | 1080ᴾ (01)
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NICKELODEON | 1080ᴾ (02)
+http://190.93.224.42/NICK/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NICKELODEON | 1080ᴾ (03)
+http://190.93.224.42/NICK/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① NICKELODEON | 1080ᴾ (04)
+http://190.93.224.42/NICK/mono.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 P 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① PASIONES | 1080ᴾ (01)
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① PASIONES | 1080ᴾ (02)
+http://190.93.224.42/PASIONES/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① PASIONES | 1080ᴾ (03)
+http://190.93.224.42/PASIONES/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① PASIONES | 1080ᴾ (04)
+http://190.93.224.42/PASIONES/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 S 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SONY-CHANNEL | 1080ᴾ (01)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SONY-CHANNEL | 1080ᴾ (02)
+http://190.93.224.42/SONY-CHANNEL/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SONY-CHANNEL | 1080ᴾ (03)
+http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SONY-CHANNEL | 1080ᴾ (04)
+http://190.93.224.42/SONY-CHANNEL/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SPACE | 1080ᴾ (01)
+http://190.93.224.42/SPACE/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SPACE | 1080ᴾ (02)
+http://190.93.224.42/SPACE/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SPACE | 1080ᴾ (03)
+http://190.93.224.42/SPACE/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① SPACE | 1080ᴾ (04)
+http://190.93.224.42/SPACE/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (01)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (02)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (03)
+http://190.93.224.42/STUDIO-UNIVERSAL/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (04)
+http://190.93.224.42/STUDIO-UNIVERSAL/mono.ts
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇻🇪VENEZUELA",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇻🇪VENEZUELA",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇻🇪VENEZUELA",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 T 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="🇻🇪VENEZUELA",🇻🇪☑ TeleSUR English | News (1080p) [Not 24/7]
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/590.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/590.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/590
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/591.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/591.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/591
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/589.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/589.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/589
+
+
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT | 1080ᴾ (01)
+http://190.93.224.42/TNT/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT | 1080ᴾ (02)
+http://190.93.224.42/TNT/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT | 1080ᴾ (03)
+http://190.93.224.42/TNT/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT | 1080ᴾ (04)
+http://190.93.224.42/TNT/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SERIES | 1080ᴾ (01)
+http://190.93.224.42/TNT-SERIES/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SERIES | 1080ᴾ (02)
+http://190.93.224.42/TNT-SERIES/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SERIES | 1080ᴾ (03)
+http://190.93.224.42/TNT-SERIES/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SERIES | 1080ᴾ (04)
+http://190.93.224.42/TNT-SERIES/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-NOVELAS | 1080ᴾ (01)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-NOVELAS | 1080ᴾ (02)
+http://190.93.224.42/TNT-NOVELAS/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-NOVELAS | 1080ᴾ (03)
+http://190.93.224.42/TNT-NOVELAS/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-NOVELAS | 1080ᴾ (04)
+http://190.93.224.42/TNT-NOVELAS/mono.ts
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SPORTS-2 PREMIUM | 1080ᴾ (01)
+http://190.93.224.42/TNT-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SPORTS-2 PREMIUM | 1080ᴾ (02)
+http://190.93.224.42/TNT-SPORTS-2/index.mpd
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SPORTS-2 PREMIUM | 1080ᴾ (03)
+http://190.93.224.42/TNT-SPORTS-2/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇪🇸① TNT-SPORTS-2 PREMIUM | 1080ᴾ (04)
+http://190.93.224.42/TNT-SPORTS-2/mono.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 V 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="🇻🇪VENEZUELA",🇻🇪☑ Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66606
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt2) 
+http://mains.best:2086/3003556325/2772007/66606 
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt4)
+http://mains.services:2086/640939802963/IDC01478!/66606 
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/598.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/598.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/598
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/596.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/596.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/596
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/593.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/593.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/593
+
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/592.m3u8
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/592.ts
+#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/592
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 01 🇻🇪 Venezuela 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE | TELEVEN
@@ -15735,6 +16330,15 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/595
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/598
 #EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE | VENEZOLANA DE TELEVISION
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/596
+
+
+
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1,FOX CR | Tigo Sports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 #EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
@@ -15800,98 +16404,9 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
 #EXTINF:-1,FOX CR | Tigo Sports *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
 
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 02 🇻🇪 Venezuela 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/591.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/591.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELEVEN *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/591
-
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/586.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/586.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* MERIDIANO TV *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/586
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/585.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION TV *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/585.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* GLOBOVISION TV *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/585
-
-
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="🇻🇪VENEZUELA",🇻🇪☑ Venevisión Internacional (720p)
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt1) 
-http://mains.services:2086/507Vej3h3S/4632273/66606
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt2) 
-http://mains.best:2086/3003556325/2772007/66606 
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪☆ VE PLUS (opt4)
-http://mains.services:2086/640939802963/IDC01478!/66606 
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/598.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/598.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VE PLUS *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/598
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/596.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/596.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VTV Venezolana de Television *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/596
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/593.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/593.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* VALE TV *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/593
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/592.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/592.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/592
-
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/590.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/590.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TELESUR *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/590
-
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/589.m3u8
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/589.ts
-#EXTINF:-1 group-title="🇻🇪VENEZUELA",🇻🇪* TV FAMILIA *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/589
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 03 🇻🇪 Venezuela 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -16004,7 +16519,8 @@ https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 04 🇻🇪 Venezuela 🌎📺
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 03 🇻🇪 Venezuela 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -16135,12 +16651,7 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 05 🇻🇪 Venezuela 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 04 🇻🇪 Venezuela 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -16171,12 +16682,15 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7494.mpd
 
 
 
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="🇨🇺CUBA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇺CUBA",🇨🇺   ##########♥️  CUBA TV ♥️##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇺CUBA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇺 01 🇨🇺 Cuba 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
