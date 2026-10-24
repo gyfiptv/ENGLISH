@@ -8,6 +8,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ TUDN vɪx ɴᴏw TUDN-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ TUDN vɪx ɴᴏw TUDN-DT1 (1080ᴾ) [Geo-blocked]
@@ -451,7 +452,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7593.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7593.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL | 720ᴾ (opt3)
+http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7593
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7595 TELEMUNDO 47 NEW YORK | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
@@ -459,8 +465,6 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7595.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7595 TELEMUNDO 47 NEW YORK | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7595
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7595 TELEMUNDO 47 NEW YORK | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7595.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7596 TELEMUNDO 48 AREA DE LA BAHIA | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7596.m3u8
@@ -468,8 +472,6 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7596.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7596.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7596 TELEMUNDO 48 AREA DE LA BAHIA | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7596
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7596 TELEMUNDO 48 AREA DE LA BAHIA | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7596.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7597 TELEMUNDO CHICAGO | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7597.m3u8
@@ -477,8 +479,13 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7597.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7597.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7597 TELEMUNDO CHICAGO | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7597
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7597 TELEMUNDO CHICAGO | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7597.m3u
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7598 TELEMUNDO | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7598.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7598 TELEMUNDO | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7598.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7598 TELEMUNDO | 720ᴾ (opt3)
+http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7598
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7603 TELEMUNDO COLORADO | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7603.m3u8
@@ -486,8 +493,6 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7603.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7603.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7603 TELEMUNDO COLORADO | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7603
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7603 TELEMUNDO COLORADO | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7603.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7604 TELEMUNDO 39 Dallas | 40 MCALLEN TX | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7604.m3u8
@@ -495,17 +500,13 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7604.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7604.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7604 TELEMUNDO 39 Dallas | 40 MCALLEN TX | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7604
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7604 TELEMUNDO 39 Dallas | 40 MCALLEN TX | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7604.m3u
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 | 720ᴾ (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 LA | 720ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 | 720ᴾ (opt2)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 LA | 720ᴾ (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 | 720ᴾ (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 LA | 720ᴾ (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/9308
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO 52 | 720ᴾ (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS | 1080ᴾ (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9309.m3u8
@@ -513,8 +514,6 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9309.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9309.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS | 1080ᴾ (opt3)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9309.m3u
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS | 1080ᴾ (opt4)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/9309
 
 
 
@@ -10598,8 +10597,12 @@ http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① ESPN-PREMIUM | 720ᴾ (04)
 http://190.93.224.42/ESPN-PREMIUM/mono.ts
 
-
-
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",☆ ESPN DEPORTES (opt2) 
+http://mains.best:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ ESPN 2 HD (AR)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/1084.m3u8
@@ -10625,6 +10628,9 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7494.ts
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇨🇴COLOMBIA",🇪🇨☑ France 24 Español | News   
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① FRANCE-24 | 480ᴾ (01)
 http://190.93.224.42/FRANCE-24/index.m3u8
@@ -10789,11 +10795,11 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
 #EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸* LaLiga TV | por M+ *HD (opt1)
@@ -11007,25 +11013,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
-http://190.93.224.42/TELEMUNDO/index.m3u8
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
-http://190.93.224.42/TELEMUNDO/index.mpd
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
-http://190.93.224.42/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (04)
-http://190.93.224.42/TELEMUNDO/mono.ts
-
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
-
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
-
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TNT | 1080ᴾ (01)
 http://190.93.224.42/TNT/index.m3u8
@@ -11115,6 +11102,72 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7157.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7157.ts
 
 
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
+http://190.93.224.42/TELEMUNDO/index.mpd
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
+http://190.93.224.42/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (04)
+http://190.93.224.42/TELEMUNDO/mono.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7593.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7593.ts
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt1) 
+http://mains.services/live/640939802963/IDC01478!/92500.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt2) 
+http://mains.services/live/3003556325/2772007/92500.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/96707.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt2)  
+http://mains.services:2086/live/3003556325/2772007/96707.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt3)  
+http://mains.services:2086/507Vej3h3S/4632273/96707
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸★7595 TELEMUNDO 47 NEW YORK | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸★7595 TELEMUNDO 47 NEW YORK | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7595.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸★7598 TELEMUNDO | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7598.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸★7598 TELEMUNDO | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7598.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸★9308 TELEMUNDO 52 LA | 720ᴾ (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸★9308 TELEMUNDO 52 LA | 720ᴾ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.ts
+
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇨🇴COLOMBIA",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇨🇴COLOMBIA",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇨🇴COLOMBIA",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇨🇴COLOMBIA",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇨🇴COLOMBIA",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇨🇴COLOMBIA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇨🇴 U 🇨🇴 Colombia 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -11160,11 +11213,27 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/98797
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt2) 
+http://mains.best:2086/3003556325/2772007/98797 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt3)
+http://mains.services:2086/640939802963/IDC01478!/98797 
 
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ SPORTS : CO  WINSPORTS 1
-http://mains.services/live/4523074511/3178768/5b23fbf5-9e8b-4b6c-ba3d-e05a79bb957e.m3u
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ SPORTS : CO  WINSPORTS PLUS
-http://mains.services/live/4523074511/3178768/cc0acf15-57ce-4337-9cc8-0f572574930c.m3u
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WIN+ Futbol | WINSPORTS 1 (opt1)
+http://mains.services/live/507Vej3h3S/4632273/5b23fbf5-9e8b-4b6c-ba3d-e05a79bb957e.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WIN+ Futbol | WINSPORTS 1 (opt2)
+http://mains.services/live/3003556325/2772007/5b23fbf5-9e8b-4b6c-ba3d-e05a79bb957e.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WIN+ Futbol | WINSPORTS 1 (opt3)
+http://mains.services/live/640939802963/IDC01478!/5b23fbf5-9e8b-4b6c-ba3d-e05a79bb957e.m3u8
+
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WINSPORTS PLUS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/cc0acf15-57ce-4337-9cc8-0f572574930c.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WINSPORTS PLUS (opt2)
+http://mains.services/live/3003556325/2772007/cc0acf15-57ce-4337-9cc8-0f572574930c.m3u8
+#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴☆ WINSPORTS PLUS (opt3)
+http://mains.services/live/640939802963/IDC01478!/cc0acf15-57ce-4337-9cc8-0f572574930c.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴★ᴰᴱᴾᴼᴿᵀᴱˢ WiN SPORTS (opt1)
@@ -11179,24 +11248,13 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7827.m3u8
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7827.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt1) 
-http://mains.services:2086/507Vej3h3S/4632273/98797
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt2) 
-http://mains.best:2086/3003556325/2772007/98797 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",☆ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS CO (opt3)
-http://mains.services:2086/640939802963/IDC01478!/98797 
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png"  group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS
 http://disfruta.net:80/fpavas/raZFGMA7GT/1415
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1416
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS+ PLUS FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1417
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS+ PLUS HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1418
 
@@ -11204,13 +11262,10 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1418
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png"  group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS
 http://xsport1.me/live/fpavas/raZFGMA7GT/1415.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS HD
 http://xsport1.me/live/fpavas/raZFGMA7GT/1416.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS+ PLUS FHD
 http://xsport1.me/live/fpavas/raZFGMA7GT/1417.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="🇨🇴COLOMBIA",🇨🇴ᴰᴱᴾᴼᴿᵀᴱˢ WIN SPORTS+ PLUS HD
 http://xsport1.me/live/fpavas/raZFGMA7GT/1418.m3u8
 
@@ -11569,12 +11624,116 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-name="🇪🇨ECUADOR" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",🇪🇨   ##########🌐  ECUADOR TV  🌐##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 01 🇪🇨 Ecuador 🌎📺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 E 🇪🇨 Ecuador 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9319.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9319.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2350.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2350.ts
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2350
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40018.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40018.ts
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40018
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40017.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40017.ts
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40017
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt2) 
+http://mains.best:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN | 720ᴾ (01)
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN | 720ᴾ (02)
+http://190.93.224.42/ESPN/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN | 720ᴾ (03)
+http://190.93.224.42/ESPN/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN | 720ᴾ (04)
+http://190.93.224.42/ESPN/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 2 | 720ᴾ (01)
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 2 | 720ᴾ (02)
+http://190.93.224.42/ESPN-2/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 2 | 720ᴾ (03)
+http://190.93.224.42/ESPN-2/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 2 | 720ᴾ (04)
+http://190.93.224.42/ESPN-2/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 3 | 720ᴾ (01)
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 3 | 720ᴾ (02)
+http://190.93.224.42/ESPN-3/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 3 | 720ᴾ (03)
+http://190.93.224.42/ESPN-3/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 3 | 720ᴾ (04)
+http://190.93.224.42/ESPN-3/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 4 | 720ᴾ (01)
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 4 | 720ᴾ (02)
+http://190.93.224.42/ESPN-4/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 4 | 720ᴾ (03)
+http://190.93.224.42/ESPN-4/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 4 | 720ᴾ (04)
+http://190.93.224.42/ESPN-4/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 5 | 720ᴾ (01)
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 5 | 720ᴾ (02)
+http://190.93.224.42/ESPN-5/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 5 | 720ᴾ (03)
+http://190.93.224.42/ESPN-5/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 5 | 720ᴾ (04)
+http://190.93.224.42/ESPN-5/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 6 | 720ᴾ (01)
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 6 | 720ᴾ (02)
+http://190.93.224.42/ESPN-6/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 6 | 720ᴾ (03)
+http://190.93.224.42/ESPN-6/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 6 | 720ᴾ (04)
+http://190.93.224.42/ESPN-6/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 7 | 720ᴾ (01)
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 7 | 720ᴾ (02)
+http://190.93.224.42/ESPN-7/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 7 | 720ᴾ (03)
+http://190.93.224.42/ESPN-7/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN 7 | 720ᴾ (04)
+http://190.93.224.42/ESPN-7/mono.ts
+
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN-PREMIUM | 720ᴾ (01)
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN-PREMIUM | 720ᴾ (02)
+http://190.93.224.42/ESPN-PREMIUM/index.mpd
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN-PREMIUM | 720ᴾ (03)
+http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇸① ESPN-PREMIUM | 720ᴾ (04)
+http://190.93.224.42/ESPN-PREMIUM/mono.ts
+
 
 
 #EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuavisa Play | EC Ⓨ3
@@ -11598,18 +11757,62 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://cdn.m3u.cl/logo/1324_Ecuavisa.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuavisa | EC Ⓖ5
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/mono.m3u8
 
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuador TV 7 (720p)
-https://samson.streamerr.co:8081/shogun/index.m3u8
-
 #EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecotel TV | EC
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66570
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt2) 
+http://mains.best:2086/3003556325/2772007/66570
+#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66570 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt2)
+http://xsport1.me/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA FHD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/5d7a3f69-f8d4-4886-9f7c-1a1c5ef328d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA HD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/ff7bdd41-3b5d-484f-b0f4-4c6f034af978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA SD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/96b1170d-bcd4-4726-bd26-2342921d08c5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/fb9d8bab-0091-461b-aae2-9f5f118ceaa5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA HD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/86ca3473-bfe8-4a2f-816e-6b4845cba2f4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA FHD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/5d7a3f69-f8d4-4886-9f7c-1a1c5ef328d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA HD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/ff7bdd41-3b5d-484f-b0f4-4c6f034af978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA SD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/96b1170d-bcd4-4726-bd26-2342921d08c5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/fb9d8bab-0091-461b-aae2-9f5f118ceaa5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA HD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/86ca3473-bfe8-4a2f-816e-6b4845cba2f4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 L 🇪🇨 Ecuador 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
 #EXTINF:-1 tvg-logo="" group-title="🇪🇨ECUADOR",🇪🇸* LaLiga TV | por M+ *HD (opt1)
@@ -11620,68 +11823,59 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2350.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2350.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* PPV1 | ECDF | EL CANAL DEL FUTBOL *HD | (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2350
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40018.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40018.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 2 *HD | (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40018
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40017.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/40017.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* ECDF | EL CANAL DEL FUTBOL 3 *HD | (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40017
 
 
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7815.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 R 🇪🇨 Ecuador 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | RTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS SD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/60615806-cd03-4e0c-ac06-be1d94aad036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | RTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS SD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/60615806-cd03-4e0c-ac06-be1d94aad036.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 T 🇪🇨 Ecuador 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt2)
+http://xsport1.me/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 01 🇪🇨 Ecuador 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.mpd
 
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ D SPORTS | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1806
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* DIRECTV D SPORTS UY *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
 
 
 #EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨* EC | CANELA TV *HQ
@@ -11870,65 +12064,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9319.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9319.ts
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt3)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9319.m3u8
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt4)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9319.mpd
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇪🇨★ EL CANAL DEL FUTBOL (opt5) 
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9319.m3u8
 
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt1) 
-http://mains.services:2086/507Vej3h3S/4632273/66568
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt2) 
-http://mains.best:2086/3003556325/2772007/66568
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ESPN DEPORTES (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/66568 
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ GOL TV (opt1) 
-http://mains.services:2086/507Vej3h3S/4632273/66576
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ GOL TV (opt2) 
-http://mains.best:2086/3003556325/2772007/66576
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ GOL TV (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/66576 
-
-
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuador TV 7 (720p)
-https://samson.streamerr.co:8081/shogun/index.m3u8
-
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Ecuavisa (1080p) [Not 24/7]
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt1) 
-http://mains.services:2086/507Vej3h3S/4632273/66570
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt2) 
-http://mains.best:2086/3003556325/2772007/66570
-#EXTINF:-1 group-title="🇪🇨ECUADOR",☆ ECUAVISA INTERNACIONAL (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/66570 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/992px-EcuadorTV_logo.png"  group-title="🇪🇨ECUADOR",☆ LATINO : ECUADOR TV (opt1) x
-http://mains.services:2086/640939802963/IDC01478!/66569
-
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇨🇴☑ UH ULTRAHIT TV CO | E!
-http://telecaster.teveo.com.co/live/AeABX7GFvWWgo_fR9dBvTjk5Dax9Db5PhjCFZv-705cSZxv818B2kQ6QYQ5bDjLsLuAfjEqtcJ-MyGpfTOmTFw/playlist.m3u8
-
-#EXTINF:-1 group-title="🇪🇨ECUADOR",🇨🇴☑ UH ULTRAHIT LATINO CO | Music
-http://telecaster.teveo.com.co/live/AeABegTv3YDr47uXr5_SSIqLRkWSCTYCuGMYHOqlcKj9kX3yFT3Ntc3j2zj__LiSZocJI9BJnaY6dp9HuXRumg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Vive Kanal D Drama | E!                                       
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🇪🇨ECUADOR",🇪🇨☑ CGTN Español | News (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇪🇨ECUADOR",🇪🇨☑ DW Español | News       
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="🇪🇨ECUADOR",🇪🇨☑ France 24 Español | News   
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="🇪🇨ECUADOR",🇪🇨☑ Garage TV Latin America | Auto
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -11940,96 +12081,6 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇨ECUADOR",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇪🇨 03 🇪🇨 Ecuador 🌎📺
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇨ECUADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ECDF HD*" tvg-logo="https://i.ibb.co/zV45WFVK/LOGO-ECDF.jpg" group-title="🇪🇨ECUADOR",🇪🇨 ECDF HD* (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/68979188-7d87-4453-90dc-d458184b6be1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ECDF HD*" tvg-logo="https://i.ibb.co/zV45WFVK/LOGO-ECDF.jpg" group-title="🇪🇨ECUADOR",🇪🇨 ECDF HD* (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/68979188-7d87-4453-90dc-d458184b6be1.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA FHD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/5d7a3f69-f8d4-4886-9f7c-1a1c5ef328d5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA HD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/ff7bdd41-3b5d-484f-b0f4-4c6f034af978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/96b1170d-bcd4-4726-bd26-2342921d08c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/fb9d8bab-0091-461b-aae2-9f5f118ceaa5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA HD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/86ca3473-bfe8-4a2f-816e-6b4845cba2f4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/00a41301-3f97-4de8-a3f1-2a54b5ace6e4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS FHD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/acd33ba9-8d88-4dbd-b3e1-0a29f2e7778b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS HD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/7d8ff95b-e052-47d3-936c-f38d28ce5b8f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/60615806-cd03-4e0c-ac06-be1d94aad036.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png" group-title="🇪🇨ECUADOR",🇪🇨 TC TELEVISION FHD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/9b01ab03-24c0-47f8-a97a-b8f4070516df.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png" group-title="🇪🇨ECUADOR",🇪🇨 TC TELEVISION SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/d67f53e7-80dd-46fc-a011-3e98ca6463fe.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS COSTA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQue6PdcSmtTWSFziFvdOeUBWQ9hncWMowsNFeS0Ra9G8EayQbj" group-title="🇪🇨ECUADOR",🇪🇨 TELEAMAZONAS COSTA SD (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/ef0abd2b-21d8-4557-9ed3-57a086947edb.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ECDF HD*" tvg-logo="https://i.ibb.co/zV45WFVK/LOGO-ECDF.jpg" group-title="🇪🇨ECUADOR",🇪🇨 ECDF HD* (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/68979188-7d87-4453-90dc-d458184b6be1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ECDF HD*" tvg-logo="https://i.ibb.co/zV45WFVK/LOGO-ECDF.jpg" group-title="🇪🇨ECUADOR",🇪🇨 ECDF HD* (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/68979188-7d87-4453-90dc-d458184b6be1.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUADOR TV FHD (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/70035e21-778f-4067-91e5-d3c2a8e7cea4.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA FHD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/5d7a3f69-f8d4-4886-9f7c-1a1c5ef328d5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA HD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/ff7bdd41-3b5d-484f-b0f4-4c6f034af978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA COSTA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA COSTA SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/96b1170d-bcd4-4726-bd26-2342921d08c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/fb9d8bab-0091-461b-aae2-9f5f118ceaa5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA HD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/86ca3473-bfe8-4a2f-816e-6b4845cba2f4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA SIERRA SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨ECUADOR",🇪🇨 ECUAVISA SIERRA SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/00a41301-3f97-4de8-a3f1-2a54b5ace6e4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS FHD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/acd33ba9-8d88-4dbd-b3e1-0a29f2e7778b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS HD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/7d8ff95b-e052-47d3-936c-f38d28ce5b8f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨ECUADOR",🇪🇨 RTS SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/60615806-cd03-4e0c-ac06-be1d94aad036.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png" group-title="🇪🇨ECUADOR",🇪🇨 TC TELEVISION FHD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/9b01ab03-24c0-47f8-a97a-b8f4070516df.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png" group-title="🇪🇨ECUADOR",🇪🇨 TC TELEVISION SD (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/d67f53e7-80dd-46fc-a011-3e98ca6463fe.m3u8
 
 
 
@@ -12398,6 +12449,13 @@ http://190.93.224.42/ESPN-7/index.mpd
 http://190.93.224.42/ESPN-PREMIUM/index.m3u8
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① ESPN-PREMIUM (02)
 http://190.93.224.42/ESPN-PREMIUM/index.mpd
+
+#EXTINF:-1 group-title="🇵🇪PERU",☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="🇵🇪PERU",☆ ESPN DEPORTES (opt2) 
+http://mains.best:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="🇵🇪PERU",☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
 
 #EXTINF:-1 group-title="🇵🇪PERU",🇪🇸① EXITOSA (01)
 http://190.93.224.42/EXITOSA/index.m3u8
@@ -14369,6 +14427,104 @@ http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7636
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 D 🇺🇾 Uruguay 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* DIRECTV D SPORTS URUGUAY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* DIRECTV D SPORTS URUGUAY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1834.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* DIRECTV D SPORTS URUGUAY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1834
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 E 🇺🇾 Uruguay 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN | 720ᴾ (01)
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN | 720ᴾ (02)
+http://190.93.224.42/ESPN/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN | 720ᴾ (03)
+http://190.93.224.42/ESPN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN | 720ᴾ (04)
+http://190.93.224.42/ESPN/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 2 | 720ᴾ (01)
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 2 | 720ᴾ (02)
+http://190.93.224.42/ESPN-2/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 2 | 720ᴾ (03)
+http://190.93.224.42/ESPN-2/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 2 | 720ᴾ (04)
+http://190.93.224.42/ESPN-2/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 3 | 720ᴾ (01)
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 3 | 720ᴾ (02)
+http://190.93.224.42/ESPN-3/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 3 | 720ᴾ (03)
+http://190.93.224.42/ESPN-3/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 3 | 720ᴾ (04)
+http://190.93.224.42/ESPN-3/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 4 | 720ᴾ (01)
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 4 | 720ᴾ (02)
+http://190.93.224.42/ESPN-4/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 4 | 720ᴾ (03)
+http://190.93.224.42/ESPN-4/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 4 | 720ᴾ (04)
+http://190.93.224.42/ESPN-4/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 5 | 720ᴾ (01)
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 5 | 720ᴾ (02)
+http://190.93.224.42/ESPN-5/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 5 | 720ᴾ (03)
+http://190.93.224.42/ESPN-5/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 5 | 720ᴾ (04)
+http://190.93.224.42/ESPN-5/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 6 | 720ᴾ (01)
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 6 | 720ᴾ (02)
+http://190.93.224.42/ESPN-6/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 6 | 720ᴾ (03)
+http://190.93.224.42/ESPN-6/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 6 | 720ᴾ (04)
+http://190.93.224.42/ESPN-6/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 7 | 720ᴾ (01)
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 7 | 720ᴾ (02)
+http://190.93.224.42/ESPN-7/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 7 | 720ᴾ (03)
+http://190.93.224.42/ESPN-7/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN 7 | 720ᴾ (04)
+http://190.93.224.42/ESPN-7/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN-PREMIUM | 720ᴾ (01)
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN-PREMIUM | 720ᴾ (02)
+http://190.93.224.42/ESPN-PREMIUM/index.mpd
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN-PREMIUM | 720ᴾ (03)
+http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇪🇸① ESPN-PREMIUM | 720ᴾ (04)
+http://190.93.224.42/ESPN-PREMIUM/mono.ts
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="🇺🇾URUGUAY",☆ ESPN DEPORTES (opt2) 
+http://mains.best:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="🇺🇾URUGUAY",☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇾URUGUAY",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇺🇾 U 🇺🇾 Uruguay 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇾URUGUAY",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
@@ -14397,21 +14553,25 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7618.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7618
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV UY (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.mpd
-
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.m3u8
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt2)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7619.ts
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7619
-#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾★ VTV PLUS UY (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.mpd
 
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1806
+
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
+#EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* VTV PLUS UY *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1805
 
 
 
@@ -14448,11 +14608,11 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7811.m3u
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* VIX Premium | LALIGA *HD (opt1)
+#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* VIX Premium | LALIGA *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* VIX Premium | LALIGA *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* SKY SPORTS | LALIGA *HD VIX (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
 #EXTINF:-1 tvg-logo="" group-title="🇺🇾URUGUAY",🇪🇸* LaLiga TV | por M+ *HD (opt1)
@@ -14553,7 +14713,6 @@ http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
 #EXTINF:-1,FOX CR | Tigo Sports *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
-
 
 #EXTINF:-1 group-title="🇺🇾URUGUAY",🇺🇾* TENNIS 2 *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1822.ts
