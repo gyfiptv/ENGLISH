@@ -5325,6 +5325,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸⚽ DMAX ES (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u8
 
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸ᵀᵛ¹ ENERGY TV | MEDIASET.ES ᴴᴰ (01)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1765.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸ᵀᵛ² ENERGY TV | MEDIASET.ES ᴴᴰ (02)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1765.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸ᵀᵛ² ENERGY TV | MEDIASET.ES ᴴᴰ (03)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1765
+
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸⚽ HISTORIA ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/historia.es.m3u8
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸⚽ HISTORIA ES (opt2)
@@ -16942,8 +16949,12 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/2673.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ Q HUBO TV (opt3)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2673
 
-
-
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22227.m3u8
@@ -17022,7 +17033,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.ts
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TVC-DEPORTES
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES-TVC
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072.ts
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TEN CANAL 10
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52073.ts
