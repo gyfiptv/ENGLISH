@@ -1974,6 +1974,15 @@ http://181.224.255.210:8001/play/a0st/index.mpd
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0st Discovery H&H | 480ᴾ (04)
 http://181.224.255.210:8001/play/a0st/index.m4s
 
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 DISCOVERY ID | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0m9/index.m3u8?hls
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 DISCOVERY ID | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0m9/index.m3u
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 DISCOVERY ID | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0m9/index.mpd
+#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 DISCOVERY ID | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0m9/index.m4s
+
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0mo Discovery SCIENCE | 480ᴾ (02)
@@ -2837,15 +2846,6 @@ http://190.93.224.42/IPE/index.mpd
 http://190.93.224.42/IPE/playlist.m3u8
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸① IPE 7.4 PE | 1080ᴾ (04)
 http://190.93.224.42/IPE/mono.ts
-
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (01)
-http://181.224.255.210:8001/play/a0m9/index.m3u8?hls
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (02)
-http://181.224.255.210:8001/play/a0m9/index.m3u
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (03)
-http://181.224.255.210:8001/play/a0m9/index.mpd
-#EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇪🇸a0m9 INVESTIGATION DISCOVERY | 480ᴾ (04)
-http://181.224.255.210:8001/play/a0m9/index.m4s
 
 
 
