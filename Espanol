@@ -15545,7 +15545,39 @@ http://181.78.197.59:8000/play/a07z/index.m4s
 #EXTINF:-1 tvg-logo="" group-title="🇨🇺CUBA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07z/index.mpd
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+http://38.224.231.176:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇺CUBA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+http://38.224.231.176:8000/play/a035/index.mpd
 
 
 
@@ -16167,6 +16199,39 @@ http://181.78.197.59:8000/play/a07z/index.m4s
 http://181.78.197.59:8000/play/a07z/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+http://38.224.231.176:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇨🇷COSTA RICA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+http://38.224.231.176:8000/play/a035/index.mpd
 
 
 
