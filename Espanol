@@ -15196,9 +15196,9 @@ http://168.228.44.241:9997/play/a066/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇨🇺CUBA",🇪🇸a067 FOX | 365 DEPORTES CENTROAMERICA | LAT 1080ᴾ
 http://168.228.44.241:9997/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960pxFOX_Deportes_logo.png" group-title="🇨🇺CUBA",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="🇨🇺CUBA",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960pxFOX_Deportes_logo.png" group-title="🇨🇺CUBA",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="🇨🇺CUBA",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="🇨🇺CUBA",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (01)
@@ -15265,42 +15265,42 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960pxESPN_wordmark.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-2 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960pxESPN2_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-2 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-2 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_logo.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-3 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960pxESPN3_logo.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-3 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_logo.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-3 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-4 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-4 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-4 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-5 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-5/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960pxESPN_5_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-5 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-5 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-6 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960pxESPN_6_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-6 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-6 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-7 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-7/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960pxESPN_7_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-7 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-7 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960pxESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 
 
@@ -15395,7 +15395,7 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
 http://38.224.231.176:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960pxESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇨🇺CUBA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
 http://38.224.231.176:8000/play/a035/index.mpd
 
 
@@ -16261,27 +16261,27 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇸🇻EL SALVADOR",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a052 FOX | 365 DEPORTES CENTROAMERICA 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a052 FOX | 365 DEPORTES CENTROAMERICA 1080ᴾ
 http://168.228.44.241:9997/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a053 FOX | DEPORTES CENTROAMERICA 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a053 FOX | DEPORTES CENTROAMERICA 1080ᴾ
 http://168.228.44.241:9997/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a054 FOX | DEPORTES CENTROAMERICA SV 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a054 FOX | DEPORTES CENTROAMERICA SV 1080ᴾ
 http://168.228.44.241:9997/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a066 FOX | HN DEPORTES CENTROAMERICA | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a066 FOX | HN DEPORTES CENTROAMERICA | LAT 1080ᴾ
 http://168.228.44.241:9997/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a067 FOX | 365 DEPORTES CENTROAMERICA | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a067 FOX | 365 DEPORTES CENTROAMERICA | LAT 1080ᴾ
 http://168.228.44.241:9997/play/a067/index.m3u8
 
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 group-title="🇸🇻EL SALVADOR",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (01)
 http://138.59.227.20:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (02)
 http://138.59.227.20:8000/play/a085/index.m4s
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="🇸🇻EL SALVADOR",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (03)
 http://138.59.227.20:8000/play/a085/index.mpd
 
 #EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇸🇻EL SALVADOR",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
@@ -16339,140 +16339,140 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.e
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-2 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-2 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-2 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-2 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-3 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-3 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-3 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-3 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-4 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-4 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-4 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-4 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-5 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-5 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-5/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-5 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-5 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-6 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-6 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-6/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-6 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-6 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-7 Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-7 Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-7/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-7 Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-7 Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN-PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸① ESPN-PREMIUM Latam D+|720ᴾ (02)
 http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
 https://streaming.onnethn.com/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
 https://streaming.onnethn.com/ESPN_4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
 https://streaming.onnethn.com/ESPN_4/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
 https://streaming.onnethn.com/ESPN_4/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a036/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a036/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a037/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a037/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a081/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a081/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07n/index.m4s
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07n/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a074/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a074/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07z/index.m4s
-#EXTINF:-1 tvg-logo="" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07z/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
 http://38.224.231.176:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇸🇻EL SALVADOR",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇸🇻EL SALVADOR",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
 http://38.224.231.176:8000/play/a035/index.mpd
 
 
@@ -17032,99 +17032,99 @@ http://190.93.224.42/ESPN-PREMIUM/index.m3u8
 http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
 https://streaming.onnethn.com/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
 https://streaming.onnethn.com/ESPN_4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
 https://streaming.onnethn.com/ESPN_4/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
 https://streaming.onnethn.com/ESPN_4/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a036/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a036/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a037/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a037/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a081/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a081/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07n/index.m4s
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07n/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a074/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a074/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07z/index.m4s
-#EXTINF:-1 tvg-logo="" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07z/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇬🇹GUATEMALA",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇬🇹GUATEMALA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
 http://38.224.231.176:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇬🇹GUATEMALA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇬🇹GUATEMALA",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
 http://38.224.231.176:8000/play/a035/index.mpd
 
 
@@ -17821,100 +17821,100 @@ http://190.93.224.42/ESPN-PREMIUM/index.m3u8
 http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
 https://streaming.onnethn.com/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
 https://streaming.onnethn.com/ESPN_4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
 https://streaming.onnethn.com/ESPN_4/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
 https://streaming.onnethn.com/ESPN_4/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a036/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a036/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a037/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a037/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a081/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇺🇸a081 ESPN 3 USA | NORTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a081/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07n/index.m4s
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07n ESPN 4 MX D+| CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07n/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a074/index.m4s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a074/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
 http://181.78.197.59:8000/play/a07z/index.m4s
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a07z/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-2 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-3 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-4 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-5 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-6 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (01)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
 http://38.224.231.176:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
 http://38.224.231.176:8000/play/a035/index.mpd
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella TV MX (1080)
