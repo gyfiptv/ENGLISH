@@ -5937,16 +5937,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7621.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7621.ts
-
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7620.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="🇦🇷ARGENTINA",🇦🇷★ AMERICA24 | A24 AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7620.ts
-
 
 
 
@@ -9064,12 +9054,27 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL *FHD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL *FHD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7643.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL *FHD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="🇨🇴COLOMBIA",🇨🇴★ CARACOL (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7643
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a010 CARACOL Gol CO | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a010 CARACOL Gol CO | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a010/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a010 CARACOL Gol CO | LAT 1080ᴾ (03)
+http://38.134.250.110:8000/play/a010/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94I9.png" group-title="🇨🇴COLOMBIA",🇪🇸a00d CARACOL Gol HD2 CO | LAT 480p (01)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94I9.png" group-title="🇨🇴COLOMBIA",🇪🇸a00d CARACOL Gol HD2 CO | LAT 480p (02)
+http://181.78.14.26:4000/play/a00d/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94I9.png" group-title="🇨🇴COLOMBIA",🇪🇸a00d CARACOL Gol HD2 CO | LAT 480p (03)
+http://181.78.14.26:4000/play/a00d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a02r CARACOL CO | LAT 1080p (01)
+http://181.78.14.26:4000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a02r CARACOL CO | LAT 1080p (02)
+http://181.78.14.26:4000/play/a02r/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="🇨🇴COLOMBIA",🇪🇸a02r CARACOL CO | LAT 1080p (03)
+http://181.78.14.26:4000/play/a02r/index.mpd
+
 
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/260
@@ -9698,28 +9703,82 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇨🇴COLOMBIA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="🇨🇴COLOMBIA",🇪🇸 CANAL RCN NOTICIAS | LAT 1080ᴾ (01)
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="🇨🇴COLOMBIA",🇪🇸 CANAL RCN NOTICIAS | LAT 1080ᴾ (02)
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="🇨🇴COLOMBIA",🇪🇸 CANAL RCN NOVELAS | LAT 1080ᴾ (01)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="🇨🇴COLOMBIA",🇪🇸 CANAL RCN NOVELAS | LAT 1080ᴾ (02)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇨🇴☑ RCN Mas (01)
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇨🇴☑ RCN Mas (02)
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="🇨🇴COLOMBIA",🇪🇸a00i RCN Futbol CO | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="🇨🇴COLOMBIA",🇪🇸a00i RCN Futbol CO | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a00i/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="🇨🇴COLOMBIA",🇪🇸a00i RCN Futbol CO | LAT 1080ᴾ (03)
+http://38.134.250.110:8000/play/a00i/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a024 RCN INTERNACIONAL | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a024 RCN INTERNACIONAL | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a024/index.m4s
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a024 RCN INTERNACIONAL | LAT 1080ᴾ (03)
+http://38.134.250.110:8000/play/a024/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a025 RCN NOVELAS | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a025 RCN NOVELAS | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a025/index.m4s
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a025 RCN NOVELAS | LAT 1080ᴾ (03)
+http://38.134.250.110:8000/play/a025/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a071 RCN | LAT 480ᴾ (01)
+http://38.224.231.176:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a071 RCN | LAT 480ᴾ (02)
+http://38.224.231.176:8000/play/a071/index.m4s
+#EXTINF:-1 tvg-logo="" group-title="🇨🇴COLOMBIA",🇪🇸a071 RCN | LAT 480ᴾ (03)
+http://38.224.231.176:8000/play/a071/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="🇨🇴COLOMBIA",🇪🇸a02t RCN CO | LAT 1080p (01)
+http://181.78.14.26:4000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="🇨🇴COLOMBIA",🇪🇸a02t RCN CO | LAT 1080p (02)
+http://181.78.14.26:4000/play/a02t/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="🇨🇴COLOMBIA",🇪🇸a02t RCN CO | LAT 1080p (03)
+http://181.78.14.26:4000/play/a02t/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07m RCN HD2 | LAT 720p (01)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07m RCN HD2 | LAT 720p (02)
+http://181.78.14.26:4000/play/a07m/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07m RCN HD2 | LAT 720p (03)
+http://181.78.14.26:4000/play/a07m/index.mpd
+
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸a0qi RCN | 480ᴾ (01)
-http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+http://181.224.255.210:8001/play/a0qi/index.m3u8
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸a0qi RCN | 480ᴾ (02)
-http://181.224.255.210:8001/play/a0qi/index.m3u
+http://181.224.255.210:8001/play/a0qi/index.m4s
 #EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸a0qi RCN | 480ᴾ (03)
 http://181.224.255.210:8001/play/a0qi/index.mpd
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇪🇸a0qi RCN | 480ᴾ (04)
-http://181.224.255.210:8001/play/a0qi/index.m4s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇪🇸a098 RCN MAS | LAT 540ᴾ (01)
+http://45.224.96.220:18000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇪🇸a098 RCN MAS | LAT 540ᴾ (02)
+http://45.224.96.220:18000/play/a098/index.m4s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇪🇸a098 RCN MAS | LAT 540ᴾ (03)
+http://45.224.96.220:18000/play/a098/index.mpd
 
 
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇨🇴☑ RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",🇨🇴☑ RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7646.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7646.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",★ RCN INTERNACIONAL (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7646
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇨🇴COLOMBIA",☆ RCN INTERNACIONAL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/66589
