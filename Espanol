@@ -6325,33 +6325,44 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a0bu ANTENA 3 INT | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ TVE INTERNACIONAL | America 1080ᴾ
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ RTVE 24H | 1080ᴾ
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a0bu ANTENA 3 INT | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a071 A3S A3SERIESINT | LAT 480ᴾ
+http://168.228.44.241:9997/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a00e A3CINE | LATAM 480ᴾ
 http://45.171.64.30:6060/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a080 TVE ES | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a080 TVE ES | LAT 1080ᴾ x
 http://138.59.227.20:8000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a071 A3S A3SERIESINT | LAT 480ᴾ
-http://168.228.44.241:9997/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 1 Catalunya | 720ᴾ
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 2 Catalunya | 720ᴾ
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Activa TV ES (Music)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
+#EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ 12tv | doce tv ES
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 
+#EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ EsTuTele ES (720p)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (01)
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (02)
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/playlist.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (03)
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/mono.ts
 
-
-
-
-
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (01) x
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
@@ -6381,9 +6392,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Activa TV ES (Music)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ RTVE.es Canal 24 Horas (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Clasicos de La 1 (720p)
@@ -6412,33 +6420,6 @@ https://ztnr.rtve.es/ztnr/1694118.m3u8
 https://ztnr.rtve.es/ztnr/1694117.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ TVE La 2 (720p)
 https://ztnr.rtve.es/ztnr/1694110.m3u8
-
-
-#EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ 12tv | doce tv ES
-https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-
-#EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ EsTuTele ES (720p)
-https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
-
-
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (01)
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (02)
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/playlist.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (03)
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/mono.ts
-
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (01)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (02)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV (03)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/mono.ts
-
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Aragón TV INT. (720p) [Not 24/7] x
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-
 
 
 #EXTM3U
@@ -14594,6 +14575,42 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/40957
 #EXTINF:-1 tvg-name="🇻🇪VENEZUELA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",🇻🇪   ##########♥️  VENEZUELA TV ♥️##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 TV01 🇻🇪 VENEZUELA 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="🇻🇪VENEZUELA",🇪🇸a0dc VTV Venezolana de Television  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0de GLOBOVISION  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0df VTV Venezolana de Television  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dg ANTV VENEZUELA  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dh VTV Venezolana de Television  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0di Canal i  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0di/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dj VENEVISION  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dk MERIDIANO TELEVISION Canal Deportivo  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dl TELEVEN  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dm TV  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="🇻🇪VENEZUELA",🇪🇸a0dn TVes  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0do VIVE VISION VENEZUELA  |  VE LAT 1080ᴾ
+http://45.226.205.96:48000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0dp TELESUR  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo=“” group-title="🇻🇪VENEZUELA",🇪🇸a0ds TV  |  VE LAT 480ᴾ
+http://45.226.205.96:48000/play/a0ds/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇻🇪VENEZUELA",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇻🇪 A 🇻🇪 Venezuela 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇻🇪VENEZUELA",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
@@ -18065,37 +18082,333 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇭🇳HONDURAS",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇭🇳 TV01 🇭🇳 HONDURAS 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇭🇳HONDURAS",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CANAL 11 HN (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CANAL 11 HN (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELEPAIS HN (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELEPAIS HN (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CENTROAMERICA TV CATV | CR GT HN NI SV PA (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/centroamerica.tv.us.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 21 | 19 MEGAVISION  SV (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 21 | 19 MEGAVISION  SV (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
+
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [01]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [02]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.ts
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [03]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m4s
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [04]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.mpd
+
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [01]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [02]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [03]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.ts
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [04]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.ts
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [05]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/master.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [06]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.mpd
+
+#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [01]
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [02]
+https://viewhn.com/chtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
+https://5e85d90130e77.streamlock.net/6052/6052/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [01]
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [02]
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" group-title="🇭🇳HONDURAS",🇪🇸☑ TELEVISA Telenovelas | Las Estrellas TV
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella TV MX (1080)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella TV MX (1080)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella News MX (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella News MX (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇭🇳HONDURAS",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇭🇳 TV02 🇭🇳 HONDURAS 🌎📺
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇭🇳HONDURAS",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/66597.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt2)
+http://mains.services:2086/live/3003556325/2772007/66597.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt3)
+http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
+http://mains.services:2086/4523074511/3178768/66597
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2669.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2669.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2669
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TELECADENA 7/4 (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2665.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TELECADENA 7/4 (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2665.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TELECADENA 7/4 (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2665
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TEN 10 (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2671.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TEN 10 (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2671.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TEN 10 (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2671
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ Q HUBO TV (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2673.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ Q HUBO TV (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2673.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ Q HUBO TV (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2673
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (01)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (02)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (01)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22227.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (02)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22227.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22227
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2464.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2464.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2464
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52080.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52080.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/52080
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇭🇳HONDURAS",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ 📺🌎 🇭🇳 DEPORTES 🇭🇳 Honduras DEPORTES 🌎📺
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇭🇳HONDURAS",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ ♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a052 FOX | 365 DEPORTES CENTROAMERICA 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a052 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (01)
 http://168.228.44.241:9997/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a053 FOX | DEPORTES CENTROAMERICA 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a052 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (02)
+http://168.228.44.241:9997/play/a052/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a053 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (01)
 http://168.228.44.241:9997/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a054 FOX | DEPORTES CENTROAMERICA SV 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a053 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (02)
+http://168.228.44.241:9997/play/a053/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a054 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (01)
 http://168.228.44.241:9997/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a066 FOX | HN DEPORTES CENTROAMERICA | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a054 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (02)
+http://168.228.44.241:9997/play/a054/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a066 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (01)
 http://168.228.44.241:9997/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🇭🇳HONDURAS",🇪🇸a067 FOX | 365 DEPORTES CENTROAMERICA | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a066 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (02)
+http://168.228.44.241:9997/play/a066/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a067 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (01)
 http://168.228.44.241:9997/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a067 FOX TigoSports | DEPORTES CENTROAMERICA 1080ᴾ (02)
+http://168.228.44.241:9997/play/a067/index.mpd
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a03g FOX TigoSports | CENTAM 1080ᴾ (01)
+http://45.171.64.30:6060/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a03g FOX TigoSports | CENTAM 1080ᴾ (02)
+http://45.171.64.30:6060/play/a03g/index.mpd
+
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ FOX DEPORTES MX (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ FOX DEPORTES | FOX SPORTS en Espanol (720p)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ FOX DEPORTES MX (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (01)
-http://138.59.227.20:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (02)
-http://138.59.227.20:8000/play/a085/index.m4s
-#EXTINF:-1 tvg-logo="" group-title="🇭🇳HONDURAS",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ (03)
-http://138.59.227.20:8000/play/a085/index.mpd
-
-#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇭🇳HONDURAS",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇭🇳HONDURAS",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX (720ᴾ)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="🇭🇳HONDURAS",🇲🇽☑ AYM SPORTS 3 | ITV Deportes MX (720ᴾ)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (01)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (02)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104
+
 
 #EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇭🇳HONDURAS",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
@@ -18286,18 +18599,77 @@ http://38.224.231.176:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
 http://38.224.231.176:8000/play/a035/index.mpd
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella TV MX (1080)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella TV MX (1080)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella News MX (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸☑ Estrella News MX (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817
 
-#EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" group-title="🇭🇳HONDURAS",🇪🇸☑ TELEVISA Telenovelas | Las Estrellas TV
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
+
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
 
 
@@ -18309,61 +18681,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇭🇳HONDURAS",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ xdgo♥🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻♥
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [01]
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [02]
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [01]
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [02]
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.ts
-#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [03]
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m4s
-#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [04]
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.mpd
-
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CANAL 11 HN (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ CANAL 11 HN (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.11.hn.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [01]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [02]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [03]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/mono.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [04]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.ts
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [05]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.ts
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [06]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/master.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [07]
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.mpd
-
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELEPAIS HN (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELEPAIS HN (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
-
-#EXTINF:-1 tvg-id="MasNoticiasTelevision.hn" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" group-title="🇭🇳HONDURAS",🇭🇳☑ Más Noticias Televisión HN | 720ᴾ [01]
-https://www.amixtv.com:8081/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="MasNoticiasTelevision.hn" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" group-title="🇭🇳HONDURAS",🇭🇳☑ Más Noticias Televisión HN | 720ᴾ [02]
-https://www.amixtv.com:8081/mntvh/index.mpd
-
-#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [01]
-https://viewhn.com/chtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [02]
-https://viewhn.com/chtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
-https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
-https://5e85d90130e77.streamlock.net/6052/6052/index.m3u8
-#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
-https://5e85d90130e77.streamlock.net/6052/6052/mono.m3u8
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳⚽ TELECENTRO 429 | CR GT HN NI SV PA (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecentro.car.m3u8
@@ -18380,6 +18706,46 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.na
 #EXTINF:-1 group-title="🇭🇳HONDURAS",⚽ CANAL 21 | 19 MEGAVISION  SV (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.19.nacional.sv.m3u8
 
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [01]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [02]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.ts
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [03]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m4s
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CANAL 5 El Lider | Televicentro HN | 720ᴾ [04]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.mpd
+
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [01]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [02]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [03]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.ts
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [04]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/index.ts
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [05]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/master.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Canal 11 HN | 1080ᴾ [06]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.mpd
+
+#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [01]
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳HONDURAS",🇭🇳☑ CHTV HN | 1080ᴾ [02]
+https://viewhn.com/chtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳HONDURAS",🇭🇳☑ Campus TV HN
+https://5e85d90130e77.streamlock.net/6052/6052/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [01]
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="🇭🇳HONDURAS”,🇪🇸☑ AZTECA INTERNACIONAL | E! | 1080ᴾ [02]
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
 
@@ -18399,7 +18765,6 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66597.mpd
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳☆ TELECENTRO 429 | CR GTM HND NIC SLV PAN (opt4)
 http://mains.services:2086/4523074511/3178768/66597
 
-
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2669.m3u8
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TSi | Canal 3 (opt2)
@@ -18413,7 +18778,6 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/2665.m3u8
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2665.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TELECADENA 7/4 (opt3)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2665
-
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ TEN 10 (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2671.m3u8
@@ -18429,206 +18793,184 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/2673.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="🇭🇳HONDURAS",🇭🇳ᵀᵛ¹ Q HUBO TV (opt3)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2673
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (01)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (02)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES TVC *HD (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | FOX TigoSports *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TUDN *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (01)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22227.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (02)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22227.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5 El Lider *HD (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22227
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2448.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2448.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6 *SD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *HD (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2447.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2447.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *HD
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7/4 *FHD (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HN *HD | (opt1)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *SD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSi TELESISTEMA *HQ (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (02)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPAIS | TELEPROGRESO *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2464.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HN *HD | (opt2)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2464.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HN *HD | (opt3)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* TV AZTECA HONDURAS *HD | (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2464
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* ATV HONDURAS *HD | (opt1)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52080.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* ATV HONDURAS *HD | (opt2)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52080.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* ATV HONDURAS *HD | (opt3)
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* EXA TV *HD | (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/52080
 
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | AZTECA HONDURAS
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2464.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | AZTECA HONDURAS
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2464.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | AZTECA HONDURAS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2464
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2463.ts
-
-
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 6
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2458.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (02)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CHTV *FHD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22244
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (02)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | MEGATV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2450.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | Q HUBO TV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22253.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | SITV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22238.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2448.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7 *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2447.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELEPROGRESO
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2445.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELESISTEMA *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2444.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HCH *HD (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2454
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (01)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (02)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 5
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52068.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECADENA 7
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52069.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TSI
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52070.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CANAL 11
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52071.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DEPORTES-TVC
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52072.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TEN CANAL 10
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | CAMPUS TV (03)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52067
+
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | MEGATV x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2450.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | Q HUBO TV x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22253.ts
+
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TEN CANAL 10 *FHD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52073.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | EBENEZER TV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | EBENEZER TV *FHD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52074.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | RTV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | NUEVO MUNDO NOTICIAS *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52075.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | UNE TV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | UNE TV *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52076.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | RSV HONDURAS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52078.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | ALSACIAS TV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52079.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | ATV HONDURAS
+
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | EXA TV *SD | ATV HONDURAS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52080.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | EDN TV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52083.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | GO-TV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | GO-TV *SD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52084.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | JBN
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | JBN *FHD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52086.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | METRO TV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | METRO TV *FHD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52089.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TDTV PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52093.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | VICA TV
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52099.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | UNETV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | UNETV *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52100.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECEIBA
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TELECEIBA 7 *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52101.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | SITV HONDURAS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52102.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | MAYATV
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | MAYATV *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52103.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | HONDURED 13
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52104.ts
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | DTELEVISION
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | D TELEVISION *HD (01)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52106.ts
 
-
-
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports 9
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports 9
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports 9
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
-
-
-#EXTINF:-1,FOX CR | Tigo Sports *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.ts
-#EXTINF:-1,FOX CR | Tigo Sports *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619
-
-#EXTINF:-1,FOX CR | Tigo Sports *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620
-
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.m3u8
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.ts
-#EXTINF:-1,FOX COSTA RICA | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345
-
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
-
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080//live/dannyrx15/jvgKdjsjKC/59459.m3u8
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
-#EXTINF:-1,FOX CR | Tigo Sports *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
-
-
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | RSV HONDURAS x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52078.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | ALSACIAS TV x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52079.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | EDN TV x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52083.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | TDTV PLUS x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52093.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | VICA TV x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52099.ts
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇭🇳* HN | SITV HONDURAS x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52102.ts
 
 
 
@@ -18733,9 +19075,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="🇯🇲JAMAICA",TVJ | Television Jamaica JM (opt1)
 http://cfsystems.io:80/uG7vYM5pY/aVMt56bat/6298
-
-
-
 
 
 
