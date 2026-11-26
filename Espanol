@@ -6316,6 +6316,52 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tcm.es.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸ESPANAᵀᵛ🇪🇸  🌐🌎⭐ 01ᵀᵛ 📺 ESPAÑA  ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ TVE INTERNACIONAL | America 1080ᴾ
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ RTVE 24H | 1080ᴾ
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a0bu ANTENA 3 INT | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a00e A3CINE | LATAM 480ᴾ
+http://45.171.64.30:6060/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a080 TVE ES | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇪🇸ESPAÑA",🇪🇸a071 A3S A3SERIESINT | LAT 480ᴾ
+http://168.228.44.241:9997/play/a071/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6329,9 +6375,9 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tcm.es.m3u8
 #EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸ESPANAᵀᵛ🇪🇸  🌐🌎⭐ 03ᵀᵛ 📺 ESPAÑA  ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸ESPANAᵀᵛ🇪🇸  🌐🌎⭐ 01ᵀᵛ 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
@@ -6399,7 +6445,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸ESPANAᵀᵛ🇪🇸  🌐🌎⭐ 04ᵀᵛ 📺 ESPAÑA  ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸ESPANAᵀᵛ🇪🇸  🌐🌎⭐ 01ᵀᵛ 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
