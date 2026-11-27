@@ -18441,10 +18441,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇭🇳HONDURAS",🇪🇸ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ 34 ɴᴏw Los Angeles West ᵛᶦˣ KMEX-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.mpd
 
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸① UNIVISION (01)
-http://190.93.224.42/UNIVISION/index.m3u8
-#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸① UNIVISION (02)
-http://190.93.224.42/UNIVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🇭🇳HONDURAS",🇪🇸⚽ TUDN MX | 720ᴾ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
@@ -18461,6 +18457,10 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.e
 #EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="🇭🇳HONDURAS",🇪🇸⚽ Univision 41 Eastern NY | 1080ᴾ (opt2) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
 
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸① UNIVISION (01)
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="🇭🇳HONDURAS",🇪🇸① UNIVISION (02)
+http://190.93.224.42/UNIVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🇭🇳HONDURAS",🇪🇸① ESPN Latam D+|720ᴾ (01)
 http://190.93.224.42/ESPN/index.m3u8
@@ -18503,20 +18503,17 @@ http://190.93.224.42/ESPN-PREMIUM/index.m3u8
 http://190.93.224.42/ESPN-PREMIUM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
-https://streaming.onnethn.com/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
-https://streaming.onnethn.com/ESPN_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
-https://streaming.onnethn.com/ESPN_4/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
-https://streaming.onnethn.com/ESPN_4/playlist.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
+http://38.224.231.176:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
+http://38.224.231.176:8000/play/a035/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (01)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN MX D+| LATAM 480ᴾ (01)
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN MX D+| LATAM 480ᴾ (02)
 http://45.171.64.30:6060/play/a036/index.m4s
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN D+| LATAM 480ᴾ (03)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a036 ESPN MX D+| LATAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a036/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (01)
@@ -18526,6 +18523,23 @@ http://45.171.64.30:6060/play/a037/index.m4s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a037 ESPN 2 MX|CENTAM 480ᴾ (03)
 http://45.171.64.30:6060/play/a037/index.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (01)
+https://streaming.onnethn.com/ESPN_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (02)
+https://streaming.onnethn.com/ESPN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (03)
+https://streaming.onnethn.com/ESPN_4/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN_4 MX D+|720ᴾ (04)
+https://streaming.onnethn.com/ESPN_4/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN MX D+| LATAM 1080ᴾ (01)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN MX D+| LATAM 1080ᴾ (02)
+http://181.78.197.59:8000/play/a07z/index.m4s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN MX D+| LATAM 1080ᴾ (03)
+http://181.78.197.59:8000/play/a07z/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a080 ESPN 2 MX D+|CENTAM 1080ᴾ (01)
 http://181.78.197.59:8000/play/a080/index.m3u8
@@ -18556,12 +18570,6 @@ http://181.78.197.59:8000/play/a074/index.m4s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a074 ESPN 5 MX D+ | CENTAM 1080ᴾ (03)
 http://181.78.197.59:8000/play/a074/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (01)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (02)
-http://181.78.197.59:8000/play/a07z/index.m4s
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a07z ESPN D+| LATAM 1080ᴾ (03)
-http://181.78.197.59:8000/play/a07z/index.mpd
 
 
 
@@ -18594,10 +18602,6 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸Ⓜ² ESPN-7 Latam N D+|1080ᴾ (02)
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (01)
-http://38.224.231.176:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇭🇳HONDURAS",🇪🇸a035 ESPN PREMIUM D+ | LATAM 720ᴾ (02)
-http://38.224.231.176:8000/play/a035/index.mpd
 
 
 #EXTINF:-1 group-title="🇭🇳HONDURAS",* FOX TigoSports *HD
